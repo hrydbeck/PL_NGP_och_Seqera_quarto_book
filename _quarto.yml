@@ -2,8 +2,8 @@ project:
   type: book
 
 book:
-  title: "PL_NGP_och_Seqera_quarto_book"
-  author: "Norah Jones"
+  title: "PL NGP och Seqera"
+  author: "Halfdan Rydbeck"
   date: "2024-10-24"
   chapters:
     - index.qmd
