@@ -7,3 +7,7 @@
 
 *.html
 *.js
+*.pdf
+*.tex
+*.log
+*.aux

@@ -9,6 +9,7 @@ book:
     - index.qmd
     - chapters/vad_är_PL.qmd
     - chapters/vad_är_Seqera.qmd
+    - chapters/vad_är_NGP.qmd
     - chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.qmd
     - chapters/var_kan_ett_sådant_arbetsföde_köras.qmd
     - chapters/bioinformatiskt_arbetsflöde_-_PL_sällsynta_diagnoser_B

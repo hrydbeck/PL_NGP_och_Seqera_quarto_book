@@ -1,9 +1,9 @@
 # Första sliden {.unnumbered}
 
-Nu skall vi prata om arbetsdfdes hanteringspram och om hur de kan komma till nytta för oss på Precisiosn medicinskt laboratoriume
+Nu skall vi prata om arbetsflödes hanteringsprogram och om hur de kan komma till nytta för oss på Precisiosn medicinskt laboratoriume
 
 
-Den här boken är skriren med "Quarto boo"k.
+Den här boken är skriven med "Quarto boo"k.
 This is a Quarto book.
 För att lära mer om Quarto books kolla på <https://quarto.org/docs/books>.
 
