@@ -1,6 +1,6 @@
 # Första sliden {.unnumbered}
 
-Nu skall vi prata om arbetsflödes hanteringsprogram och om hur de kan komma till nytta för oss på Precisiosn medicinskt laboratoriume
+Nu skall vi prata om arbetsflödes hanteringsprogram och om hur de kan komma till nytta för oss på Precisions medicinskt laboratorium
 
 
 Den här boken är skriven med "Quarto boo"k.
