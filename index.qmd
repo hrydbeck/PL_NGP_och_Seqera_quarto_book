@@ -1,14 +1,15 @@
-# Preface {.unnumbered}
+# Första sliden {.unnumbered}
 
+Nu skall vi prata om arbetsdfdes hanteringspram och om hur de kan komma till nytta för oss på Precisiosn medicinskt laboratoriume
+
+
+Den här boken är skriren med "Quarto boo"k.
 This is a Quarto book.
-
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+För att lära mer om Quarto books kolla på <https://quarto.org/docs/books>.
 
 ## Useful links
 
 https://alexd106.github.io/intro2R/Github_intro.html#Option_2_-_RStudio_first
 
 
-```{r}
-1 + 1
-```
+

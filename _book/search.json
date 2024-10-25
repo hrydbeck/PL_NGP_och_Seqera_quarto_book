@@ -4,9 +4,9 @@
     "href": "index.html",
     "title": "PL NGP och Seqera",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "text": "Första sliden\nNu skall vi prata om arbetsdfdes hanteringspram och om hur de kan komma till nytta för oss på Precisiosn medicinskt laboratoriume\nDen här boken är skriren med “Quarto boo”k. This is a Quarto book. För att lära mer om Quarto books kolla på https://quarto.org/docs/books.",
     "crumbs": [
-      "Preface"
+      "Första sliden"
     ]
   },
   {
@@ -14,9 +14,9 @@
     "href": "index.html#useful-links",
     "title": "PL NGP och Seqera",
     "section": "Useful links",
-    "text": "Useful links\nhttps://alexd106.github.io/intro2R/Github_intro.html#Option_2_-_RStudio_first\n\n1 + 1\n\n[1] 2",
+    "text": "Useful links\nhttps://alexd106.github.io/intro2R/Github_intro.html#Option_2_-_RStudio_first",
     "crumbs": [
-      "Preface"
+      "Första sliden"
     ]
   },
   {
@@ -47,6 +47,66 @@
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
       "References"
+    ]
+  },
+  {
+    "objectID": "Vad är PL.html",
+    "href": "Vad är PL.html",
+    "title": "1  Vad är PL",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Vad är PL</span>"
+    ]
+  },
+  {
+    "objectID": "Vad är Seqera.html",
+    "href": "Vad är Seqera.html",
+    "title": "2  Vad är Seqera",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Vad är Seqera</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/Vad är PL.html",
+    "href": "chapters/Vad är PL.html",
+    "title": "Vad är PL",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Vad är PL</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/Vad_är_PL.html",
+    "href": "chapters/Vad_är_PL.html",
+    "title": "1  Vad är PL",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Vad är PL</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/Vad_är_Seqera.html",
+    "href": "chapters/Vad_är_Seqera.html",
+    "title": "2  Vad är Seqera",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Vad är Seqera</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/vad_är_PL.html",
+    "href": "chapters/vad_är_PL.html",
+    "title": "1  Vad är PL",
+    "section": "",
+    "text": "Precisionsmedicinsk laboratorium (PL) utför laboratoire tjänster och analys för de tre verskamhetsområdena Klinisk patologi, Klinisk genetik och Klinisk mikrobiologi.\nFör Pat och klin_gen så handlar det om att PL blir tillsänt prov och medföljande remiss och i bästa fall sänder tillbaka bakomliggande genetiska varianter.\nFör Mikro så handlar det om att man får bakterieprov och sänder tillbaka information om potentiella resistensgener och MLST varainter.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Vad är PL</span>"
     ]
   }
 ]

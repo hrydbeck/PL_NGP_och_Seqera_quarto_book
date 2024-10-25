@@ -1,9 +1,10 @@
 # Vad är PL
 
-This is a book created from markdown and executable code.
+Precisionsmedicinsk laboratorium (PL) utför laboratoire tjänster och analys för de tre verskamhetsområdena Klinisk patologi, Klinisk genetik och Klinisk mikrobiologi.
 
-See @knuth84 for additional discussion of literate programming.
 
-```{r}
-1 + 1
-```
+För Pat och klin_gen så handlar det om att PL blir tillsänt prov och medföljande remiss och i bästa fall sänder tillbaka bakomliggande genetiska varianter.
+
+För Mikro så handlar det om att man får bakterieprov och sänder tillbaka information om potentiella resistensgener och MLST varainter.
+
+
