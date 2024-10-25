@@ -1,7 +1,6 @@
 # Vad är Seqera?
 
-In summary, this book has no content whatsoever.
-
-```{r}
-1 + 1
-```
+- Seqeras affärs ide är att underlätta att arbeta med arbetsflöden
+- Grundarna ligger bakom två icke-kommersiella initiativ
+  - Ett workflow hanterings verktyg som bygger på ett eget dedikerat programmeringsspråk, Nextflow
+  -Ett regel-set och socialt forum för uniform utvecklande av workflows - nf-core

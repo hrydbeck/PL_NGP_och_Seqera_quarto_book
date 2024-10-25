@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "PL, NGP och Seqera",
     "section": "",
-    "text": "Första sliden\nNu skall vi prata om arbetsflödes hanteringsprogram och om hur de kan komma till nytta för oss på Precisiosn medicinskt laboratoriume\nDen här boken är skriven med “Quarto boo”k. This is a Quarto book. För att lära mer om Quarto books kolla på https://quarto.org/docs/books.",
+    "text": "Första sliden\nNu skall vi prata om arbetsflödes hanteringsprogram och om hur de kan komma till nytta för oss på Precisions medicinskt laboratorium\nDen här boken är skriven med “Quarto boo”k. This is a Quarto book. För att lära mer om Quarto books kolla på https://quarto.org/docs/books.",
     "crumbs": [
       "Första sliden"
     ]
@@ -22,21 +22,51 @@
   {
     "objectID": "chapters/vad_är_PL.html",
     "href": "chapters/vad_är_PL.html",
-    "title": "1  Vad är PL",
+    "title": "1  Vad är PL?",
     "section": "",
     "text": "Precisionsmedicinsk laboratorium (PL) utför laboratoire tjänster och analys för de tre verskamhetsområdena Klinisk patologi, Klinisk genetik och Klinisk mikrobiologi.\nFör Pat och klin_gen så handlar det om att PL blir tillsänt prov och medföljande remiss och i bästa fall sänder tillbaka bakomliggande genetiska varianter.\nFör Mikro så handlar det om att man får bakterieprov och sänder tillbaka information om potentiella resistensgener och MLST varainter.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Vad är PL</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Vad är PL?</span>"
     ]
   },
   {
     "objectID": "chapters/vad_är_Seqera.html",
     "href": "chapters/vad_är_Seqera.html",
-    "title": "2  Vad är Seqera",
+    "title": "2  Vad är Seqera?",
     "section": "",
-    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "text": "Seqeras affärs ide äar att underlätta att arbeta med arbetsflöden\nGrundarna ligger bakom två icke-kommersiella initiative\n\nEtt workflow hanterings verktyg som bygger på ett eget dedikerat programeringssprågk, Nextflow -Ett regel-set och socialt forum för uniformt utvecklande av workflows - nf-core",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Vad är Seqera</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Vad är Seqera?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/klutt.html",
+    "href": "chapters/klutt.html",
+    "title": "6  Bioinformatiskt arbetsflöde - PL sällsynta diagnoser B",
+    "section": "",
+    "text": "Testing, testing",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Bioinformatiskt arbetsflöde - PL sällsynta diagnoser B</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html",
+    "title": "6  Bioinformatiskt arbetsflöde - PL sällsynta diagnoser B",
+    "section": "",
+    "text": "Testing, testing",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Bioinformatiskt arbetsflöde - PL sällsynta diagnoser B</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/3_Behov_av_kontinuerlig_utveckling_av_algoritmer_och_mjukvara.html",
+    "href": "chapters/3_Behov_av_kontinuerlig_utveckling_av_algoritmer_och_mjukvara.html",
+    "title": "PL, NGP och Seqera",
+    "section": "",
+    "text": "3 Behov av kontinuerlig utveckling av algoritmer",
+    "crumbs": [
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>3_Behov_av_kontinuerlig_utveckling_av_algoritmer_och_mjukvara.html</span>"
     ]
   }
 ]
