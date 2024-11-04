@@ -1,1 +1,7 @@
-# Program utvecklade i en specifik hårdvarukonfiguration...
+# Program utvecklade i en specifik hårdvarukonfiguration skall kunna köras i vilken som helst annan. 
+
+## Container hanterings program
+
+### Singularity
+
+### Docker

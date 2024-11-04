@@ -1,0 +1,12 @@
+# PL ingår i det nationella nätverket Genome Medicine Sweden (GMS)
+
+Nätverket har sju noder, eller Genomisk Medicin Centrum (GMCs) som utgörs ave regionerna universitetssjukhus. 
+
+På universitetssidan så har de ett systernätverk som organiseras av SciLifeLab där noderna, eller Clinical Genomics (CG) key services, ligger på sju av landets universitet. Det finns en vision om lokal synergi mellan Clinical Genomcs och Genomiks Medicin Centra, där meningen är att CGs skall stötta GMCs med kompetens. 
+
+
+GMS finansierar till hälften av projekt medlen som ansökts om hos Vinnova och till hälfden av de involverade regionerna.
+
+Det är framför allt två projekt som berör PL:
+- Swelife
+- Systemdemonstrator **(NGP)**
