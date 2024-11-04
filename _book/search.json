@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "PL, NGP och Seqera",
     "section": "",
-    "text": "Första sliden\nNu skall vi prata om arbetsflödes hanteringsprogram och om hur de kan komma till nytta för oss på Precisions medicinskt laboratorium\nDen här boken är skriven med “Quarto boo”k. This is a Quarto book. För att lära mer om Quarto books kolla på https://quarto.org/docs/books.",
+    "text": "Första sliden\nAlterative titel: Bioinformatik på PL?\nNu skall vi prata om arbetsflödes hanteringsprogram och om hur de kan komma till nytta för oss på Precisions medicinskt laboratorium\nDen här boken är skriven med “Quarto boo”k. This is a Quarto book. För att lära mer om Quarto books kolla på https://quarto.org/docs/books.",
     "crumbs": [
       "Första sliden"
     ]
@@ -14,7 +14,7 @@
     "href": "index.html#useful-links",
     "title": "PL, NGP och Seqera",
     "section": "Useful links",
-    "text": "Useful links\nhttps://alexd106.github.io/intro2R/Github_intro.html#Option_2_-_RStudio_first",
+    "text": "Useful links\nhttps://alexd106.github.io/intro2R/Github_intro.html#Option_2_-_RStudio_first\n\nReg ostergotland Logos\nhttps://www.regionostergotland.se/ro/press/grafisk-profil/ladda-ner-logotyp",
     "crumbs": [
       "Första sliden"
     ]
@@ -24,7 +24,7 @@
     "href": "chapters/vad_är_PL.html",
     "title": "1  Vad är PL?",
     "section": "",
-    "text": "Precisionsmedicinsk laboratorium (PL) utför laboratoire tjänster och analys för de tre verskamhetsområdena Klinisk patologi, Klinisk genetik och Klinisk mikrobiologi.\nFör Pat och klin_gen så handlar det om att PL blir tillsänt prov och medföljande remiss och i bästa fall sänder tillbaka bakomliggande genetiska varianter.\nFör Mikro så handlar det om att man får bakterieprov och sänder tillbaka information om potentiella resistensgener och MLST varainter.",
+    "text": "1.1 PL-NGS\nHär ses PL isolerat utan de servade verskamhetsområdena.PL består av tre enheter som vardera servar de tre versamhetsområdena. Hexagonen i kärnan representerar det som de har gemensamt:",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Vad är PL?</span>"
     ]
@@ -32,11 +32,11 @@
   {
     "objectID": "chapters/vad_är_Seqera.html",
     "href": "chapters/vad_är_Seqera.html",
-    "title": "2  Vad är Seqera?",
+    "title": "6  Vad är Seqera?",
     "section": "",
-    "text": "Seqeras affärs ide äar att underlätta att arbeta med arbetsflöden\nGrundarna ligger bakom två icke-kommersiella initiative\n\nEtt workflow hanterings verktyg som bygger på ett eget dedikerat programeringssprågk, Nextflow -Ett regel-set och socialt forum för uniformt utvecklande av workflows - nf-core",
+    "text": "6.1 Many develpers of groupleaders, Nextflow and nf-core are employess at Seqera",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Vad är Seqera?</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Vad är Seqera?</span>"
     ]
   },
   {
@@ -52,11 +52,11 @@
   {
     "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html",
     "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html",
-    "title": "6  Bioinformatiskt arbetsflöde - PL sällsynta diagnoser B",
+    "title": "5  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
     "section": "",
-    "text": "Testing, testing",
+    "text": "5.1 Konkurenskraftig utveckling",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Bioinformatiskt arbetsflöde - PL sällsynta diagnoser B</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
     ]
   },
   {
@@ -67,6 +67,316 @@
     "text": "3 Behov av kontinuerlig utveckling av algoritmer",
     "crumbs": [
       "<span class='chapter-number'>19</span>  <span class='chapter-title'>3_Behov_av_kontinuerlig_utveckling_av_algoritmer_och_mjukvara.html</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/vad_är_PL.html#pl-linköping-utgör-en-av-sju-genomic-medicine-centers-gmcs-i-genome-medicine-sweden-gms-som-är-ett-samarbete-mellan-regioner-med-universtietessjukvård-som-finansieras-ungeför-likvärdigt-av",
+    "href": "chapters/vad_är_PL.html#pl-linköping-utgör-en-av-sju-genomic-medicine-centers-gmcs-i-genome-medicine-sweden-gms-som-är-ett-samarbete-mellan-regioner-med-universtietessjukvård-som-finansieras-ungeför-likvärdigt-av",
+    "title": "1  Vad är PL?",
+    "section": "",
+    "text": "Vinnova (innovasionsmyndigheten)\nuniversitetsjukhus regionerna",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Vad är PL?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/vad_är_NGP.html",
+    "href": "chapters/vad_är_NGP.html",
+    "title": "3  Vad är NGP?",
+    "section": "",
+    "text": "3.1 Tre funktionaliteter",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Vad är NGP?</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#ploting-hex-stickers",
+    "href": "index.html#ploting-hex-stickers",
+    "title": "PL, NGP och Seqera",
+    "section": "Ploting Hex stickers",
+    "text": "Ploting Hex stickers\nhttps://github.com/GuangchuangYu/hexSticker\nIs there a package to plot multiple stickers??",
+    "crumbs": [
+      "Första sliden"
+    ]
+  },
+  {
+    "objectID": "chapters/vad_är_PL.html#pl-ngs",
+    "href": "chapters/vad_är_PL.html#pl-ngs",
+    "title": "1  Vad är PL?",
+    "section": "",
+    "text": "Ledning\nSekvenseringsmaskiner\n\n(Presentationen kommer att begränsa sig till att se på PL utifrån ett sekvenserings perspektiv, eftersm det är det som jag jobbar med.).\n\nDatornätverk",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Vad är PL?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/PL_ingår_i_ett_nätverk.html",
+    "href": "chapters/PL_ingår_i_ett_nätverk.html",
+    "title": "2  PL ingår i det nationella nätverket Genome Medicine Sweden (GMS)",
+    "section": "",
+    "text": "Nätverket har sju noder, eller Genomisk Medicin Centrum (GMCs) som utgörs ave regionerna universitetssjukhus.\nPå universitetssidan så har de ett systernätverk som organiseras av SciLifeLab där noderna, eller Clinical Genomics (CG) key services, ligger på sju av landets universitet. Det finns en vision om lokal synergi mellan Clinical Genomcs och Genomiks Medicin Centra, där meningen är att CGs skall stötta GMCs med kompetens.\nGMS finansierar till hälften av projekt medlen som ansökts om hos Vinnova och till hälfden av de involverade regionerna.\nDet är framför allt två projekt som berör PL: - Swelife - Systemdemonstrator (NGP)",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>PL ingår i det nationella nätverket Genome Medicine Sweden (GMS)</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/vad_är_NGP.html#tre-funktionaliteter",
+    "href": "chapters/vad_är_NGP.html#tre-funktionaliteter",
+    "title": "3  Vad är NGP?",
+    "section": "",
+    "text": "3.1.1 NGPr\nDet är hit det är tänkt att GMC skall kunna lasta upp sin data\n\n\n3.1.2 NGPi\nDetta är en funktinalitet som skall göra det lättare och snabbare att hitta relevant data för olika användare av systemet.\n\n\n3.1.3 NGPc\nHar kommer analys verktyg att installeras som i huvudsak kommer att utgöras av pipelines eller workflows eller bioinformatiska arbetsflöden. I sin allra enklaste definitin så är ett sådan arbetsflöde en antal program som kopplats ihop för att till tillsammans utföra uppgifter vars komplexitet gör att det inte finns enskilda program som kan utföra dem.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Vad är NGP?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/vad_är_NGP.html#nytta-för-gmcerna",
+    "href": "chapters/vad_är_NGP.html#nytta-för-gmcerna",
+    "title": "3  Vad är NGP?",
+    "section": "3.2 Nytta för GMCerna",
+    "text": "3.2 Nytta för GMCerna\n-Tolknignsverktyg",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Vad är NGP?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/vad_är_NGP.html#övriga-benefaktorer",
+    "href": "chapters/vad_är_NGP.html#övriga-benefaktorer",
+    "title": "3  Vad är NGP?",
+    "section": "3.3 Övriga benefaktorer",
+    "text": "3.3 Övriga benefaktorer\n\nUniversitet - DDLS\nFöretag\nMyndigheter, Fohm",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Vad är NGP?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html",
+    "title": "4  Vad är ett bioinformatiskt arbetsflöde?",
+    "section": "",
+    "text": "4.1 Exempel från Sällsynta diagnoser - Del i ett större arbetsflöde\nHär visas en schematisering av ett arbetsflöde på PL-rd. Schematiskeringen är förenklad och framför allt i det bioinformatiska flöden så har saker som tex identifiering av kopietalsförändringar utelämnats.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Vad är ett bioinformatiskt arbetsflöde?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#exempel-från-sällsynta-diagnoser---del-i-ett-större-arbetsflöde",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#exempel-från-sällsynta-diagnoser---del-i-ett-större-arbetsflöde",
+    "title": "4  Vad är ett bioinformatiskt arbetsflöde?",
+    "section": "",
+    "text": "4.1.1 Manuell/fysisk del\n\nDet startar med att prov kommer in\nDNA extraheras och bibliotek prepareras och lastas på en sekvenseringsmaksin\n\n\n\n4.1.2 Bioinformatisk del\n\nSekvenseringsmaskinen skriver sekvens och kvalitetsdata data, ursprungligen ofta i nått företagsspecifikt format.\nTextfiler, sk fastq-filer, en för varje sekvenserad fragment, med sekvens och kvalitetsdata tillverkas.\nFragment-sekvens-datan filtreras och och alignas (radas upp) mot ett referensgenome\nVarianter i förhållande till referens genomet identifieras och sparas i en Variant Call File VCF.\nVarianterna annoteras med information som möjliggör efterkommande tolkning\n\n\n\n4.1.3 Samarbete människa maskin\n\nTolkning",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Vad är ett bioinformatiskt arbetsflöde?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#liknande-arbetsflöden-finns-ju-också-för-patologi-och-mikrogrupperna",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#liknande-arbetsflöden-finns-ju-också-för-patologi-och-mikrogrupperna",
+    "title": "4  Vad är ett bioinformatiskt arbetsflöde?",
+    "section": "4.2 Liknande arbetsflöden finns ju också för Patologi och Mikrogrupperna",
+    "text": "4.2 Liknande arbetsflöden finns ju också för Patologi och Mikrogrupperna\nDet visade arbetsflödet skall klara helgenoms analyser vilket gör bioinformatik delen mer resurskrävande än de övriga flödena.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Vad är ett bioinformatiskt arbetsflöde?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#section",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#section",
+    "title": "4  Vad är ett bioinformatiskt arbetsflöde?",
+    "section": "4.3 ",
+    "text": "4.3",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Vad är ett bioinformatiskt arbetsflöde?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#skall-kunna-köras-var-som-helst",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#skall-kunna-köras-var-som-helst",
+    "title": "5  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
+    "section": "5.2 Skall kunna köras var som helst",
+    "text": "5.2 Skall kunna köras var som helst\n\nFrån tex forsknings- och hälso-perspektiv är det oftast önskvärt att analysresultaten är reproducerbara mellan labb.\nDet kräver bland annat att flödet skall vara så flexibelt som möjligt med tanke på vilka hårdvaru-konfigurationer som det kan köras på.\nresultaten skall bli desamma oavsett å vilket system som flödet körs på.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#olika-flöden-skall-kunna-köras-samtidigt-av-flera-olika-användare",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#olika-flöden-skall-kunna-köras-samtidigt-av-flera-olika-användare",
+    "title": "5  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
+    "section": "5.6 Olika flöden skall kunna köras samtidigt av flera olika användare",
+    "text": "5.6 Olika flöden skall kunna köras samtidigt av flera olika användare\nHär står alternativet mellan:\n\nEn skalerbar fleranvändarmiljö\nflera enskilda småskaliga miljöer, en för varje användare\n\n\n5.6.1 Mjukvarutveckling baserad på storskaligt samarbete och system för versionskontrollering",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#konkurenskraftig-utveckling",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#konkurenskraftig-utveckling",
+    "title": "5  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
+    "section": "",
+    "text": "För att förbli konkurrenskraftigt så måste det finnas resurser för intensiv utveckling av flödet\nAv ingående program och av flödet som sådant\nKräver ett system för att hantera versioner både av flödet och av de ingående komponenterna",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#tar-lång-tid-att-köra",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#tar-lång-tid-att-köra",
+    "title": "5  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
+    "section": "5.4 Tar lång tid att köra",
+    "text": "5.4 Tar lång tid att köra\n\nDärför svårt att felsöka\nTar lång tid att köra om vid stop",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#ibland-resurskrävande-från-beräknings-platformen",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#ibland-resurskrävande-från-beräknings-platformen",
+    "title": "5  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
+    "section": "5.5 Ibland resurskrävande från beräknings platformen",
+    "text": "5.5 Ibland resurskrävande från beräknings platformen\n\nRAM\nHårddiskutrymme\nParallell processering (kräver många processorer/cores)",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#skall-följa-lagar-och-regler-för-den-institution-som-använder-dem",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#skall-följa-lagar-och-regler-för-den-institution-som-använder-dem",
+    "title": "5  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
+    "section": "5.4 Skall följa lagar och regler för den institution som använder dem",
+    "text": "5.4 Skall följa lagar och regler för den institution som använder dem\n\nIVDR",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/vad_är_Seqera.html#secrets-secure-handling-of-sensitive-data",
+    "href": "chapters/vad_är_Seqera.html#secrets-secure-handling-of-sensitive-data",
+    "title": "6  Vad är Seqera?",
+    "section": "6.2 Secrets, secure handling of sensitive data",
+    "text": "6.2 Secrets, secure handling of sensitive data\nhttps://seqera.io/blog/pipeline-secrets-secure-handling-of-sensitive-information-in-tower/\n\n6.2.1 Examples\nhttps://aws.amazon.com/blogs/hpc/leveraging-seqera-platform-on-aws-batch-for-machine-learning-workflows-part-1-of-2/",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Vad är Seqera?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/vad_är_Seqera.html#nextflow",
+    "href": "chapters/vad_är_Seqera.html#nextflow",
+    "title": "6  Vad är Seqera?",
+    "section": "6.3 Nextflow",
+    "text": "6.3 Nextflow\n solve problems with reproducible workflows",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Vad är Seqera?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#undvika-att-köra-om-delar-där-riktiga-resultat-redan-genererats---tar-lång-tid-att-köra",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#undvika-att-köra-om-delar-där-riktiga-resultat-redan-genererats---tar-lång-tid-att-köra",
+    "title": "5  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
+    "section": "5.3 Undvika att köra om delar där riktiga resultat redan genererats - tar lång tid att köra",
+    "text": "5.3 Undvika att köra om delar där riktiga resultat redan genererats - tar lång tid att köra\n\nDärför svårt att felsöka\nTar lång tid att köra om vid stop",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#variablelt-behov-av-resurser-från-beräknings-platformen",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#variablelt-behov-av-resurser-från-beräknings-platformen",
+    "title": "5  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
+    "section": "5.5 Variablelt behov av resurser från beräknings platformen",
+    "text": "5.5 Variablelt behov av resurser från beräknings platformen\n\nRAM\nHårddiskutrymme\nParallell processering (kräver många processorer/cores)",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/hur_kan_ett_sådant_arbetsföde_köras.html",
+    "href": "chapters/hur_kan_ett_sådant_arbetsföde_köras.html",
+    "title": "7  Hur kan liknande arbetsflöde(n) köras(på bästa sätt )?",
+    "section": "",
+    "text": "7.1 Nya lösningar inom både hardvaru- och mjukvaru-design gör det allt lättare att köra men också utvecka och vidarutveckla arbetsföden",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Hur kan liknande arbetsflöde(n) köras(på bästa sätt )?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/hur_kan_ett_sådant_arbetsföde_köras.html#nya-lösningar-inom-både-hardvaru--och-mjukvaru-design-gör-det-allt-lättare-att-köra-men-också-utvecka-och-vidarutveckla-arbetsföden",
+    "href": "chapters/hur_kan_ett_sådant_arbetsföde_köras.html#nya-lösningar-inom-både-hardvaru--och-mjukvaru-design-gör-det-allt-lättare-att-köra-men-också-utvecka-och-vidarutveckla-arbetsföden",
+    "title": "7  Hur kan liknande arbetsflöde(n) köras(på bästa sätt )?",
+    "section": "",
+    "text": "7.1.1 Hårdvara +Operativesystem/hårdvaruhateringssystem\n\n7.1.1.1 HPC\n\nNGP (altair grid engine)\nPDC-Dardel (slurm)\n\n\n\n7.1.1.2 Moln\n\nAWS\nAzure\n\n\n\n7.1.1.3 Lokal server\n\nBlir svårhantelrigt…\n\n\n\n\n7.1.2 Beräkningsmiljöer\n\nAltair Grid engine\nSlurm\n\n\n\n7.1.3 Mjukvara - hanteringsprogram\n\nVersion\ncontainer\narbetsflöde",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Hur kan liknande arbetsflöde(n) köras(på bästa sätt )?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/hårdvara.html",
+    "href": "chapters/hårdvara.html",
+    "title": "8  Hårdvara och beräkningsmiljöer",
+    "section": "",
+    "text": "8.1 HPC",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Hårdvara och beräkningsmiljöer</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/hårdvara.html#hpc",
+    "href": "chapters/hårdvara.html#hpc",
+    "title": "8  Hårdvara och beräkningsmiljöer",
+    "section": "",
+    "text": "8.1.1 PDC-Dardel",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Hårdvara och beräkningsmiljöer</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/hårdvara.html#cloud",
+    "href": "chapters/hårdvara.html#cloud",
+    "title": "8  Hårdvara och beräkningsmiljöer",
+    "section": "8.2 Cloud",
+    "text": "8.2 Cloud",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Hårdvara och beräkningsmiljöer</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/git_ett_system_för_versionskontrollering.html",
+    "href": "chapters/git_ett_system_för_versionskontrollering.html",
+    "title": "10  git, ett system för versionskontrollering",
+    "section": "",
+    "text": "10.1 Vad kan versionkontrolleras?",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>git, ett system för versionskontrollering</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/git_ett_system_för_versionskontrollering.html#vad-kan-versionkontrolleras",
+    "href": "chapters/git_ett_system_för_versionskontrollering.html#vad-kan-versionkontrolleras",
+    "title": "10  git, ett system för versionskontrollering",
+    "section": "",
+    "text": "en fil\nEn folder (-strukture) med flera filer",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>git, ett system för versionskontrollering</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/git_ett_system_för_versionskontrollering.html#git",
+    "href": "chapters/git_ett_system_för_versionskontrollering.html#git",
+    "title": "10  git, ett system för versionskontrollering",
+    "section": "10.2 git",
+    "text": "10.2 git\nGit bygger på att man har en folder (workspace, working directory, project folder) som innehåller ett ett flera dokument som man vet att man kommer att vidareutveckla över tid med viss osäkerhet, där man kan ångra sig och därför behöva återgå till tidigare versioner. Genom att gömma alla versioner utom den som man jobbar på för tillfället så minimerar programmet den distraherande påverkan som det kan ha att se flera versioer av sitt/sina dokument samtidigt.\nEftersom vidarutvecklingen sker över tid så samarbetar man alltid åtminstone med sitt framtida jag, tex genom att dokumentera/sammanfatta ändringarna som gjorts i varje version. Det underlättar att vid ett senare tillfälle senare bestämma vilken version man vill återgå till. Git underlättar också samarbeta med andra tex genom att detektera när två filändringar överlappar/är motstridigar och erbjuda verktyg för att editera/slå ihop de motstridiga ändringarna.\nEfter att ha installera programmet så börjar arbetet med versionkontollering genom att initiera en s.k. repository i föräldrafoldern för dina dokument.\ngit init\nKommandot skapat en gömd folder “.git” i föräldrafolder. I den gömda foldern så kommer dokumenterade ögonblicksbilder av din/dina fil/filer att sparas.\nArbetsgången med git innnhåller tre centrala moment som motsvars av tre filtillstånd:\n\nGör filändringar; filen/filerna är ändrad(e)\nVälj ändringar som skall förevigas i en ögonblicksbild (med commandot git add); Filens/filernas ändringar har valts ut till nästa ögonblicksbild; staged\nSpara utvallda ändringar i som en ögnblickbild i .git-databsen/repositoryn tilllsammans med dokumentation (med commandot git commit -m); Filens ändringar har sparats i en ögonblicksbild; commited\n\nÖverkurs är sedan att lära sig hur man kan gå tillbaka till (checka ut) tidigare versioner.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>git, ett system för versionskontrollering</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/git_ett_system_för_versionskontrollering.html#github",
+    "href": "chapters/git_ett_system_för_versionskontrollering.html#github",
+    "title": "10  git, ett system för versionskontrollering",
+    "section": "10.3 Github",
+    "text": "10.3 Github\nGithub är en website med den huvudsakliga funktionen att dela versionskontrollerade project över internet.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>git, ett system för versionskontrollering</span>"
     ]
   }
 ]

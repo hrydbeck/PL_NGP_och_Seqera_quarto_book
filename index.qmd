@@ -1,15 +1,21 @@
 # Första sliden {.unnumbered}
 
+Alterative titel: Bioinformatik på PL?
+
 Nu skall vi prata om arbetsflödes hanteringsprogram och om hur de kan komma till nytta för oss på Precisions medicinskt laboratorium
 
-
-Den här boken är skriven med "Quarto boo"k.
-This is a Quarto book.
-För att lära mer om Quarto books kolla på <https://quarto.org/docs/books>.
+Den här boken är skriven med "Quarto boo"k. This is a Quarto book. För att lära mer om Quarto books kolla på <https://quarto.org/docs/books>.
 
 ## Useful links
 
-https://alexd106.github.io/intro2R/Github_intro.html#Option_2_-_RStudio_first
+https://alexd106.github.io/intro2R/Github_intro.html#Option_2\_-\_RStudio_first
 
+### Reg ostergotland Logos
 
+<https://www.regionostergotland.se/ro/press/grafisk-profil/ladda-ner-logotyp>
 
+## Ploting Hex stickers
+
+https://github.com/GuangchuangYu/hexSticker
+
+Is there a package to plot multiple stickers??
