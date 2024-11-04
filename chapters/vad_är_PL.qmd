@@ -1,10 +1,20 @@
 # Vad är PL?
 
-Precisionsmedicinsk laboratorium (PL) utför laboratoire tjänster och analys för de tre verskamhetsområdena Klinisk patologi, Klinisk genetik och Klinisk mikrobiologi.
+Precisions medicinsk laboratorium (PL) i Linköping utför laboratorie tjänster och analys för de **tre verksamhetsområdena** Klinisk patologi, Klinisk genetik och Klinisk mikrobiologi.
+
+-   För Pat och klin_gen så handlar det om att PL blir till-sänt prov och medföljande remiss och i bästa fall sänder tillbaka bakomliggande genetiska varianter.
+
+-   För Mikro så handlar det om att man får bakterieprov och sänder tillbaka information om potentiella resistensgener och MLST varainter.
+
+PL-Linköping utgör en av sju Genomic Medicine Centers (GMCs) i Genome Medicine Sweden (GMS) som är ett samarbete mellan regioner med universtietessjukvård som finansieras ungeför likvärdigt av: - Vinnova (innovasionsmyndigheten) - universitetsjukhus regionerna
 
 
-För Pat och klin_gen så handlar det om att PL blir tillsänt prov och medföljande remiss och i bästa fall sänder tillbaka bakomliggande genetiska varianter.
+## PL-NGS
 
-För Mikro så handlar det om att man får bakterieprov och sänder tillbaka information om potentiella resistensgener och MLST varainter.
+Här ses PL isolerat utan de servade verskamhetsområdena.PL består av tre enheter som vardera servar de tre versamhetsområdena.
+Hexagonen i kärnan representerar det som de har gemensamt:
 
-
+- Ledning
+- Sekvenseringsmaskiner
+  - (Presentationen kommer att begränsa sig till att se på PL utifrån ett sekvenserings perspektiv, eftersm det är det som jag jobbar med.).
+- Datornätverk

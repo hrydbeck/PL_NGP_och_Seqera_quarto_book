@@ -1,1 +1,35 @@
 # git, ett system för versionskontrollering
+
+## Vad kan versionkontrolleras?
+
+-   en fil
+
+-   En folder (-strukture) med flera filer
+
+## git
+
+Git bygger på att man har en folder (workspace, working directory, project folder) som innehåller ett ett flera dokument som man vet att man kommer att vidareutveckla över tid med viss osäkerhet, där man kan ångra sig och därför behöva återgå till tidigare versioner. Genom att gömma alla versioner utom den som man jobbar på för tillfället så minimerar programmet den distraherande påverkan som det kan ha att se flera versioer av sitt/sina dokument samtidigt.
+
+Eftersom vidarutvecklingen sker över tid så samarbetar man alltid åtminstone med sitt framtida jag, tex genom att dokumentera/sammanfatta ändringarna som gjorts i varje version. Det underlättar att vid ett senare tillfälle senare bestämma vilken version man vill återgå till. Git underlättar också samarbeta med andra tex genom att detektera när två filändringar överlappar/är motstridigar och erbjuda verktyg för att editera/slå ihop de motstridiga ändringarna.
+
+Efter att ha installera programmet så börjar arbetet med versionkontollering genom att initiera en s.k. repository i föräldrafoldern för dina dokument.
+
+```         
+git init
+```
+
+Kommandot skapat en gömd folder ".git" i föräldrafolder. I den gömda foldern så kommer dokumenterade ögonblicksbilder av din/dina fil/filer att sparas.
+
+Arbetsgången med git innnhåller tre centrala moment som motsvars av tre filtillstånd:
+
+1.  Gör filändringar; filen/filerna är ändrad(e)
+
+2.  Välj ändringar som skall förevigas i en ögonblicksbild (med commandot git add); Filens/filernas ändringar har valts ut till nästa ögonblicksbild; staged
+
+3.  Spara utvallda ändringar i som en ögnblickbild i .git-databsen/repositoryn tilllsammans med dokumentation (med commandot git commit -m); Filens ändringar har sparats i en ögonblicksbild; commited
+
+Överkurs är sedan att lära sig hur man kan gå tillbaka till (checka ut) tidigare versioner.
+
+## Github
+
+Github är en website med den huvudsakliga funktionen att dela versionskontrollerade project över internet.

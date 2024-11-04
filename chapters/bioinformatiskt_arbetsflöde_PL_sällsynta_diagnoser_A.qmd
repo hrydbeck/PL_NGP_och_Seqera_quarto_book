@@ -1,1 +1,33 @@
-# Bioinformatiskt arbetsflöde - PL sällsynta diagnoser A
+# Vad är ett bioinformatiskt arbetsflöde?
+
+## Exempel från Sällsynta diagnoser - Del i ett större arbetsflöde
+
+Här visas en schematisering av ett arbetsflöde på PL-rd. Schematiskeringen är förenklad och framför allt i det bioinformatiska flöden så har saker som tex identifiering av kopietalsförändringar utelämnats.
+
+### Manuell/fysisk del
+
+1.  Det startar med att prov kommer in
+
+2.  DNA extraheras och bibliotek prepareras och lastas på en sekvenseringsmaksin
+
+### Bioinformatisk del
+
+1.  Sekvenseringsmaskinen skriver sekvens och kvalitetsdata data, ursprungligen ofta i nått företagsspecifikt format.
+
+2.  Textfiler, sk fastq-filer, en för varje sekvenserad fragment, med sekvens och kvalitetsdata tillverkas.
+
+3.  Fragment-sekvens-datan filtreras och och alignas (radas upp) mot ett referensgenome
+
+4.  Varianter i förhållande till referens genomet identifieras och sparas i en Variant Call File VCF.
+
+5.  Varianterna annoteras med information som möjliggör efterkommande tolkning
+
+### Samarbete människa maskin
+
+1.  Tolkning
+
+## Liknande arbetsflöden finns ju också för Patologi och Mikrogrupperna
+
+Det visade arbetsflödet skall klara helgenoms analyser vilket gör bioinformatik delen mer resurskrävande än de övriga flödena.
+
+## 

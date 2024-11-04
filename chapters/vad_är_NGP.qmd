@@ -1,1 +1,36 @@
 # Vad är NGP?
+
+NGP är GMS's sätt bana väg för transformera dataflöden inom svensk/nationell klinisk diagnostik och forskning.
+
+-   data strukturering
+-   data standardisering
+-   applikations utveckling
+-   fördjupas samarbete med forsknigs infrastrukturen
+-   Tillgängliggörande av data för akademin, myndigheter och näringsliv
+
+Diagrammet visar att NGP utgörs av tree functionlaiteter som benämns NGP repository (NGPr), NGP commander (NGPc) och NGP indexing (NGPi)
+
+## Tre funktionaliteter
+
+### NGPr
+Det är hit det är tänkt att GMC skall kunna lasta upp sin data
+
+### NGPi
+
+Detta är en funktinalitet som skall göra det lättare och snabbare att hitta relevant data för olika användare av systemet.
+
+### NGPc
+
+Har kommer analys verktyg att installeras som i huvudsak kommer att utgöras av **pipelines eller workflows** eller bioinformatiska arbetsflöden. I sin allra enklaste definitin så är ett sådan arbetsflöde en antal program som kopplats ihop för att till tillsammans utföra uppgifter vars komplexitet gör att det inte finns enskilda program som kan utföra dem.
+
+## Nytta för GMCerna
+
+-Tolknignsverktyg
+
+## Övriga benefaktorer
+
+- Universitet - DDLS
+- Företag
+- Myndigheter, Fohm
+
+

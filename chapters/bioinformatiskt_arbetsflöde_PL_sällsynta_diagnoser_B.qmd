@@ -1,3 +1,45 @@
-# Bioinformatiskt arbetsflöde - PL sällsynta diagnoser B
+# Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden
 
-Testing, testing
+## Konkurenskraftig utveckling
+
+-   För att förbli konkurrenskraftigt så måste det finnas resurser för intensiv utveckling av flödet
+
+-   Av ingående program och av flödet som sådant
+
+-   Kräver ett system för att hantera versioner både av flödet och av de ingående komponenterna
+
+## Skall kunna köras var som helst
+
+-   Från tex forsknings- och hälso-perspektiv är det oftast önskvärt att analysresultaten är reproducerbara mellan labb.
+
+-   Det kräver bland annat att flödet skall vara så flexibelt som möjligt med tanke på vilka hårdvaru-konfigurationer som det kan köras på.
+
+-   resultaten skall bli desamma oavsett å vilket system som flödet körs på.
+
+## Undvika att köra om delar där riktiga resultat redan genererats - tar lång tid att köra
+
+-   Därför svårt att felsöka
+
+-   Tar lång tid att köra om vid stop
+
+## Skall följa lagar och regler för den institution som använder dem
+
+-   IVDR
+
+## Variablelt behov av resurser  från beräknings platformen
+
+-   RAM
+
+-   Hårddiskutrymme
+
+-   Parallell processering (kräver många processorer/cores)
+
+## Olika flöden skall kunna köras samtidigt av flera olika användare
+
+Här står alternativet mellan:
+
+-   En skalerbar fleranvändarmiljö
+
+-   flera enskilda småskaliga miljöer, en för varje användare
+
+### Mjukvarutveckling baserad på storskaligt samarbete och system för versionskontrollering

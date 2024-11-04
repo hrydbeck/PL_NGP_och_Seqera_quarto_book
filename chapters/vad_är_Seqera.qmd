@@ -1,6 +1,32 @@
 # Vad är Seqera?
 
-- Seqeras affärs ide är att underlätta att arbeta med arbetsflöden
-- Grundarna ligger bakom två icke-kommersiella initiativ
-  - Ett workflow hanterings verktyg som bygger på ett eget dedikerat programmeringsspråk, Nextflow
-  -Ett regel-set och socialt forum för uniform utvecklande av workflows - nf-core
+Based on Knowledge of high-throughput analysis and modern software engineeering gained from building Nextflow the same people have
+
+created a platform to make data-intensive research scalable, flexible, and collaborative
+
+Why do I mention a company the first thing after talking about bioinformatics workflows? Because it has been growing out of free stuff initaiteives, becasue it offers a way to deal with sensitive data and because it offers a GUI interface to handling, running pipelines an their output. I think its my best bet to make this presentaiton interesting for you to show you (Emedgene endorsers) a a pipelein can be run in seqera cloud.
+
+-   Seqera's affärs ide är att underlätta att arbeta med arbetsflöden
+-   Grundarna ligger bakom två icke-kommersiella initiativ
+    -   Ett workflow hanterings verktyg som bygger på ett eget dedikerat programmeringsspråk, Nextflow
+    -   Ett regel-set och socialt forum för uniform utvecklande av workflows - nf-core
+
+Seqera presents itself as an open science company. For me that is hard to comprehend what it is. What dous that mean? They also say they want to be a centrla hub at open science? Does open science want/need a hub that is comercail? I dont knwo. In any case what
+
+Seqera would not be the only compay that open science relies on. Github, Docker and Singluarity are other examples. Undrstand their business model is beyond my understande. What I can grasp though is theat they provide interesting useful products for free.
+
+There is also of course the micro array sequencing platfors tha tare pillars of open genomics science. Many of the ENxtfow pipleline are in direct competintion with Illumina products like Emedgene. For me the most open poduct would win form any perspective,be it IVDR or usability.
+
+## Many develpers of groupleaders, Nextflow and nf-core are employess at Seqera
+
+## Secrets, secure handling of sensitive data
+
+<https://seqera.io/blog/pipeline-secrets-secure-handling-of-sensitive-information-in-tower/>
+
+### Examples
+
+<https://aws.amazon.com/blogs/hpc/leveraging-seqera-platform-on-aws-batch-for-machine-learning-workflows-part-1-of-2/>
+
+## Nextflow
+
+ solve problems with reproducible workflows
