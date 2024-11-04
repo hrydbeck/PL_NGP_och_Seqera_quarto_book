@@ -8,22 +8,23 @@ book:
   chapters:
     - index.qmd
     - chapters/vad_är_PL.qmd
-    - chapters/vad_är_Seqera.qmd
+    - chapters/PL_ingår_i_ett_nätverk.qmd
     - chapters/vad_är_NGP.qmd
     - chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.qmd
-    - chapters/var_kan_ett_sådant_arbetsföde_köras.qmd
     - chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.qmd
-    - chapters/arbetsflödes_hanterings_program_Nextflow_ett_av_många_A.qmd
-    - chapters/arbetsflödet_och_programmen_som_det_omfattar_är_versionskontrollerade.qmd
-    - chapters/skalbarhet.qmd
+    - chapters/vad_är_Seqera.qmd
+    - chapters/hur_kan_ett_sådant_arbetsföde_köras.qmd
     - chapters/hårdvara.qmd
-    - chapters/1_program_utvecklade_i_en_specifik_hårdvarukonfiguration_skall_kunna_köras_i_vilken_som_helst_annan.qmd
-    - chapters/container_hanteringsprogram_och_container_register.qmd
     - chapters/vad_kan_versionskontrolleras.qmd
-    - chapters/ikoner_som_kommer_användas_för_versionskontrollerade_enheterna.qmd
     - chapters/git_ett_system_för_versionskontrollering.qmd
     - chapters/2_kollektiv_versinskontrollerad_mjukvaru_utvecking_med_git_och_Github_A.qmd
     - chapters/2_kollektiv_versinskontrollerad_mjukvaru_utvecking_med_git_och_Github_B.qmd
+    - chapters/ikoner_som_kommer_användas_för_versionskontrollerade_enheterna.qmd
+    - chapters/1_program_utvecklade_i_en_specifik_hårdvarukonfiguration_skall_kunna_köras_i_vilken_som_helst_annan.qmd
+    - chapters/container_hanteringsprogram_och_container_register.qmd
+    - chapters/arbetsflödes_hanterings_program_Nextflow_ett_av_många_A.qmd
+    - chapters/arbetsflödet_och_programmen_som_det_omfattar_är_versionskontrollerade.qmd
+    - chapters/skalbarhet.qmd
     - chapters/nextflow_arbetsflöden_som_följer_och_inte_följer_nf-core.qmd
     - chapters/3_Behov_av_kontinuerlig_utveckling_av_algoritmer_och_mjukvara.qmd
     - chapters/konfigurera_köra_och_debugga_nf_core_raredisease_arbetsfödet_från_kommando_linjen_på_en_HPC.qmd
