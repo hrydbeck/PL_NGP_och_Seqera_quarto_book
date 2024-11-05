@@ -1,0 +1,15 @@
+## Jobbschemaläggare och resurshanterare
+
+## Gratis
+
+### Slurm
+
+SLURMs primära funktion är att allokera resurser inom klustret till dess användare . Resurshantering kan innefatta hantering av noder, sockets, kärnor och hypertrådar. Dessutom kan resursallokering baserad på topologi, mjukvarulicenser och generiska resurser som GPU:er hanteras av SLURM
+
+<https://slurm.schedmd.com/documentation.html>
+
+<https://blogs.oracle.com/research/post/a-beginners-guide-to-slurm?fireglass_rsn=true#fireglass_params&tabid=a133ec835f7b2014&start_with_session_counter=2&application_server_address=sg-integration2-europe-west3.prod.fire.glass>
+
+## Kommersiell
+
+### Altair Gridengine

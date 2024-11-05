@@ -1,1 +1,41 @@
-# Arbetsflödehanteringsprogram, Nextflow ett av många
+# Arbetsflödehanteringsprogram, Nextflow, ett av många
+
+## 
+
+Nextflow är en gratis och open-source programvara, som utvecklas av företaget Seqera labs.
+
+Nextflow har/är ett eget dedikerat programmeringsspråk, ett s.k. Domain Specific Language (DSL) som tillvärkningen av pipelines baserar sig på.
+
+Språket är tillverkat baserat på samma idee som Linux baserar sig på. Anvädn små kraftfulla kommondolinjebaserade program som när de länkas samma underlättar utförandet av komplexa datahanterings uppgifter.
+
+## Funktionskraven hos ett arbetsflödes hanteringsprogram omfattar mer än bara att knyta ihop ett antal program till ett pärlband.
+
+det omfattar dessutom
+
+-   skalerbarhet
+
+-   reproducerbarhet
+
+-   förmåga att integrerar mjukvarupaket, programmiljö hanteringsprogram som Docker, Singluarity och Conda för att möjligöra att sammankoppla scriptspråk såsom BASH, R och Python.
+
+-   Förenkla att köra pipelinen på olik platformar som tex cloud eller HPC-baserade infrastrukturer
+
+-   hantering mha tex social media av en friviligbaserade intressegrupp för utveckling av standarder för och arbetfödena i sig själva som är av gemensamt intresse. Användar och utvecklare socialisear i ett stort virrvarr av olika intressen. Slack, github; Seqera??
+
+Om ni frågar mig så är det förvirrande att Nextflow används som ett paraply begrepp för flera funktioner.
+
+## Nextflow är
+
+### Ett scriptspråk dedikerat för att bygga programmatikska arbetsföden
+
+### Ett vertyg för att interagera med
+
+#### container hanteringsprogram
+
+#### versions hanteringsprogram
+
+#### Executors/platforms
+
+Kan kommunicera med dessa och specificera vilka resurser varje enskil modul kräver.
+
+#### 

@@ -304,7 +304,7 @@
     "href": "chapters/hur_kan_ett_sådant_arbetsföde_köras.html#nya-lösningar-inom-både-hardvaru--och-mjukvaru-design-gör-det-allt-lättare-att-köra-men-också-utvecka-och-vidarutveckla-arbetsföden",
     "title": "7  Hur kan liknande arbetsflöde(n) köras(på bästa sätt )?",
     "section": "",
-    "text": "7.1.1 Hårdvara +Operativesystem/hårdvaruhateringssystem\n\n7.1.1.1 HPC\n\nNGP (altair grid engine)\nPDC-Dardel (slurm)\n\n\n\n7.1.1.2 Moln\n\nAWS\nAzure\n\n\n\n7.1.1.3 Lokal server\n\nBlir svårhantelrigt…\n\n\n\n\n7.1.2 Beräkningsmiljöer\n\nAltair Grid engine\nSlurm\n\n\n\n7.1.3 Mjukvara - hanteringsprogram\n\nVersion\ncontainer\narbetsflöde",
+    "text": "7.1.1 Hårdvara +Operativesystem/hårdvaruhateringssystem\n\n7.1.1.1 HPC\n\nNGP (altair grid engine)\nPDC-Dardel (slurm)\n\n\n\n7.1.1.2 Moln\n\nAWS\nAzure\n\n\n\n7.1.1.3 Lokal server\n\nBlir svårhanterligt…\n\n\n\n\n7.1.2 Beräkningsmiljöer\n\nAltair Grid engine\nSlurm\n\n\n\n7.1.3 Mjukvara - hanteringsprogram\n\nVersion\ncontainer\narbetsflöde",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Hur kan liknande arbetsflöde(n) köras(på bästa sätt )?</span>"
     ]
@@ -377,6 +377,86 @@
     "text": "10.3 Github\nGithub är en website med den huvudsakliga funktionen att dela versionskontrollerade project över internet.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>git, ett system för versionskontrollering</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/1_program_utvecklade_i_en_specifik_hårdvarukonfiguration_skall_kunna_köras_i_vilken_som_helst_annan.html",
+    "href": "chapters/1_program_utvecklade_i_en_specifik_hårdvarukonfiguration_skall_kunna_köras_i_vilken_som_helst_annan.html",
+    "title": "14  Program utvecklade i en specifik hårdvarukonfiguration skall kunna köras i vilken som helst annan.",
+    "section": "",
+    "text": "14.1 Container hanterings program",
+    "crumbs": [
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Program utvecklade i en specifik hårdvarukonfiguration skall kunna köras i vilken som helst annan.</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/1_program_utvecklade_i_en_specifik_hårdvarukonfiguration_skall_kunna_köras_i_vilken_som_helst_annan.html#container-hanterings-program",
+    "href": "chapters/1_program_utvecklade_i_en_specifik_hårdvarukonfiguration_skall_kunna_köras_i_vilken_som_helst_annan.html#container-hanterings-program",
+    "title": "14  Program utvecklade i en specifik hårdvarukonfiguration skall kunna köras i vilken som helst annan.",
+    "section": "",
+    "text": "14.1.1 Singularity\n\n\n14.1.2 Docker",
+    "crumbs": [
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Program utvecklade i en specifik hårdvarukonfiguration skall kunna köras i vilken som helst annan.</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/arbetsflödes_hanterings_program_Nextflow_ett_av_många_A.html",
+    "href": "chapters/arbetsflödes_hanterings_program_Nextflow_ett_av_många_A.html",
+    "title": "16  Arbetsflödehanteringsprogram, Nextflow, ett av många",
+    "section": "",
+    "text": "Nextflow är en gratis och open-source programvara, som utveckas av företaget Seqera labs.\nNextflow har ett eget dedikerat programmeringsspråk, ett s.k. Domain Specific Language (DSL) som tillvärkningen av pipelines baserar sig på.\nSpråket är tillverkat baserat på samma idee som Linux baserar sig p. Anvädn små kraftfulla kommonadolinjebaserade program som när de länkas samma underlättar utförandet av komplexa datahanterings uppgifter.",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Arbetsflödehanteringsprogram, Nextflow, ett av många</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#variablelt-behov-av-resurser-från-beräknings-platformen-runtime-management",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#variablelt-behov-av-resurser-från-beräknings-platformen-runtime-management",
+    "title": "5  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
+    "section": "5.5 Variablelt behov av resurser från beräknings platformen (runtime management)",
+    "text": "5.5 Variablelt behov av resurser från beräknings platformen (runtime management)\n\nRAM\nHårddiskutrymme\nParallell processering (kräver många processorer/cores)",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#variablelt-behov-av-resurser-från-beräknings-platformen-runtime-management-kräver-ett-skalerbart-system",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#variablelt-behov-av-resurser-från-beräknings-platformen-runtime-management-kräver-ett-skalerbart-system",
+    "title": "5  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
+    "section": "5.5 Variablelt behov av resurser från beräknings platformen (runtime management); Kräver ett skalerbart system",
+    "text": "5.5 Variablelt behov av resurser från beräknings platformen (runtime management); Kräver ett skalerbart system\n\nRAM\nHårddiskutrymme\nParallell processering (kräver många processorer/cores)",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/executors.html",
+    "href": "chapters/executors.html",
+    "title": "9  Jobbschemaläggare och resurshanterare",
+    "section": "",
+    "text": "9.1 Gratis",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Jobbschemaläggare och resurshanterare</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/executors.html#gratis",
+    "href": "chapters/executors.html#gratis",
+    "title": "9  Jobbschemaläggare och resurshanterare",
+    "section": "",
+    "text": "9.1.1 Slurm\nSLURMs primära funktion är att allokera resurser inom klustret till dess användare . Resurshantering kan innefatta hantering av noder, sockets, kärnor och hypertrådar. Dessutom kan resursallokering baserad på topologi, mjukvarulicenser och generiska resurser som GPU:er hanteras av SLURM\nhttps://slurm.schedmd.com/documentation.html\nhttps://blogs.oracle.com/research/post/a-beginners-guide-to-slurm?fireglass_rsn=true#fireglass_params&tabid=a133ec835f7b2014&start_with_session_counter=2&application_server_address=sg-integration2-europe-west3.prod.fire.glass",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Jobbschemaläggare och resurshanterare</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/executors.html#kommersiell",
+    "href": "chapters/executors.html#kommersiell",
+    "title": "9  Jobbschemaläggare och resurshanterare",
+    "section": "9.2 Kommersiell",
+    "text": "9.2 Kommersiell\n\n9.2.1 Altair Gridengine",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Jobbschemaläggare och resurshanterare</span>"
     ]
   }
 ]

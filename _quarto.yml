@@ -15,10 +15,11 @@ book:
     - chapters/vad_är_Seqera.qmd
     - chapters/hur_kan_ett_sådant_arbetsföde_köras.qmd
     - chapters/hårdvara.qmd
+    - chapters/executors.qmd
     - chapters/vad_kan_versionskontrolleras.qmd
     - chapters/git_ett_system_för_versionskontrollering.qmd
-    - chapters/2_kollektiv_versinskontrollerad_mjukvaru_utvecking_med_git_och_Github_A.qmd
-    - chapters/2_kollektiv_versinskontrollerad_mjukvaru_utvecking_med_git_och_Github_B.qmd
+    - chapters/2_kollektiv_versionskontrollerad_mjukvaru_utvecking_med_git_och_Github_A.qmd
+    - chapters/2_kollektiv_versionskontrollerad_mjukvaru_utvecking_med_git_och_Github_B.qmd
     - chapters/ikoner_som_kommer_användas_för_versionskontrollerade_enheterna.qmd
     - chapters/1_program_utvecklade_i_en_specifik_hårdvarukonfiguration_skall_kunna_köras_i_vilken_som_helst_annan.qmd
     - chapters/container_hanteringsprogram_och_container_register.qmd
