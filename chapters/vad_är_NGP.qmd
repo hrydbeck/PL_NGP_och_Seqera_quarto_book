@@ -10,10 +10,11 @@ NGP är GMS's sätt bana väg för transformera dataflöden inom svensk/nationel
 
 Diagrammet visar att NGP utgörs av tree functionlaiteter som benämns NGP repository (NGPr), NGP commander (NGPc) och NGP indexing (NGPi)
 
-## Tre funktionaliteter
+## Tre  funktionaliteter
 
 ### NGPr
-Det är hit det är tänkt att GMC skall kunna lasta upp sin data
+
+Det är hit det är tänkt att GMC-nodena skall kunna lasta upp sin data. NGPc är ett fleranvändar system. Varje GMS nod är en användare eller Tenant som det kallas i moln tjänst användbar språk. NGPC har ett data lagrings segment som är privat för varja Tenant. I tillägg så har det ett segment som är gemensamt.
 
 ### NGPi
 
@@ -29,8 +30,8 @@ Har kommer analys verktyg att installeras som i huvudsak kommer att utgöras av 
 
 ## Övriga benefaktorer
 
-- Universitet - DDLS
-- Företag
-- Myndigheter, Fohm
+-   Universitet - DDLS
+-   Företag
+-   Myndigheter, Fohm
 
 
