@@ -10,6 +10,97 @@ SLURMs primära funktion är att allokera resurser inom klustret till dess anvä
 
 <https://blogs.oracle.com/research/post/a-beginners-guide-to-slurm?fireglass_rsn=true#fireglass_params&tabid=a133ec835f7b2014&start_with_session_counter=2&application_server_address=sg-integration2-europe-west3.prod.fire.glass>
 
+#### Submitta ett jobb
+
+You can submit a job script to the Slurm queue system from the login node with:
+
+```
+sbatch mitt_slurm_jobb.sh
+```
+
+mitt_slurm_jobb.sh
+```
+#!/bin/bash -l
+# The -l above is required to get the full environment with modules
+
+# Set the allocation to be charged for this job
+# not required if you have set a default allocation
+#SBATCH -A naissYYYY-X-XX
+
+# The name of the script is myjob
+#SBATCH -J myjob
+
+# The partition
+#SBATCH -p main
+
+# 10 hours wall-clock time will be given to this job
+#SBATCH -t 10:00:00
+
+# Number of nodes
+#SBATCH --nodes=4
+
+# Number of MPI processes per node
+#SBATCH --ntasks-per-node=128
+
+# Run the executable named myexe
+# and write the output into my_output_file
+srun ./myexe > my_output_file
+```
+
+Running Bowtie
+
+```
+#!/bin/bash
+#SBATCH --job-name=bowtie2_example
+#SBATCH --cpus-per-task=8
+#SBATCH --time=00:10:00
+#SBATCH -o Bowtie_test.o%j
+#SBATCH --partition=standard
+#SBATCH --account=<YOUR_ALLOCATION>
+
+#Load the Bowtie Module
+module load gcc
+module load bowtie2
+
+# Change to temp working directory with example files
+cd /scratch/$USER/bowtie_temp
+
+# Indexing a reference genome
+bowtie2-build ./example/reference/lambda_virus.fa lambda_virus
+
+# Aligning example reads, standard example
+bowtie2 -p $SLURM_CPUS_PER_TASK -x lambda_virus -U ./example/reads/reads_1.fq -S align.sam
+
+# Paired-end example
+bowtie2 -p $SLURM_CPUS_PER_TASK -x lambda_virus -1 ./example/reads/reads_1.fq -2 ./example/reads/reads_2.fq -S align2.sam
+
+# Local alignment example
+bowtie2 -p $SLURM_CPUS_PER_TASK --local -x lambda_virus -U ./example/reads/longreads.fq -S align3.sam
+``` 
+
 ## Kommersiell
 
 ### Altair Gridengine
+
+#### Submitta ett jobb
+
+```
+qsub -V -b n -cwd mitt_gridengine_jobb.sh
+```
+
+mitt_gridengine_jobb.sh
+
+```
+#!/bin/bash
+                    #$ -N run_bowtie2
+                    #$ -cwd
+                    #$ -pe smp 6
+                    #$ -l h_vmem=6G
+
+
+                    infile=/data/bioinfo/READS2/R1_001.fastq.gz
+                    outfile=/data/bioinfo/READS2/aln/R1_001.sam
+                    btindex=/data/bioinfo/genome_data/Caenorhabditis_elegans/UCSC/ce10/Sequence/BowtieIndex/genome
+
+                    gzip -dc $infile | bowtie  --chunkmbs 300 --best -m 1 -p 6 --phred33 -q $btindex   -  -S $outfile
+```
