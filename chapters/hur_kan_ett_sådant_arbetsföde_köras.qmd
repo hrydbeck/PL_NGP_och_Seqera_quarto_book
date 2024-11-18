@@ -1,8 +1,8 @@
 # Hur kan liknande arbetsflöde(n) köras(på bästa sätt )?
 
-I dagsläget så verkar det som att det i flesta fall blir emest effektivta att anvädna sig av en skalerbar fleranvändarmiljö, dvs ett cluster eller en moln miljö.
+I dagsläget så verkar det som att det i flesta fall blir mest effektivt att använda sig av en skalerbar fleranvändarmiljö, dvs ett cluster eller en moln miljö.
 
-I vårt fall när det skall tas hänsyn till säkerhetsklassad/känlsig data så krävs antinget loklat system eller ett system med säker inloggning.
+I vårt fall när det skall tas hänsyn till säkerhetsklassad/känslig data så krävs antingen lokalt system eller ett system med säker inloggning.
 
 ## Nya lösningar inom både hardvaru- och mjukvaru-design gör det allt lättare att köra men också utvecka och vidarutveckla arbetsföden
 

@@ -10,7 +10,7 @@ NGP är GMS's sätt bana väg för transformera dataflöden inom svensk/nationel
 
 Diagrammet visar att NGP utgörs av tree functionlaiteter som benämns NGP repository (NGPr), NGP commander (NGPc) och NGP indexing (NGPi)
 
-## Tre  funktionaliteter
+## Tre funktionaliteter
 
 ### NGPr
 
@@ -33,5 +33,3 @@ Har kommer analys verktyg att installeras som i huvudsak kommer att utgöras av 
 -   Universitet - DDLS
 -   Företag
 -   Myndigheter, Fohm
-
-

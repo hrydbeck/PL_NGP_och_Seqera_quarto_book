@@ -1,9 +1,141 @@
 # Hårdvara och beräkningsmiljöer
 
+Vi ser på detta utfrån arbetsflödeshanterings program perspektiv. Dessa program behöver ha gränssnitt kan samarbeta med de olika typeran av hårdvara
+
+Viktigt kriteria är att att det skall gå att lagra och analysera sensitiv klinisk patient data. Det finns ett EU belsut om att det skall vara lova att lagara och analysera den typen av data på molnlösningar (med hårdvra i Europa?).
+
+Det gör att vi i nuläget inte kan dra igång med molntjänster.
+
 ## HPC
+
+Ett HPC består av en grupp datorer/servrar(noder) som kan samarbeta för att utföra en gemensam beräknings uppgift. Varje nod i tar emot och processerar beräknings uppgifter oberoende av varandra. Noderna koordinerar och synkroniserar uppgifterna för att till slut producerar ett sammanslaget resultat.
+
+Även om arkitekturen hos ett super computing cluster eller HPC kan vara no så komplicerad och skilja sig mycket från en generation till nästa så är det inte nödvändigt för den generella användaren av systemet. Det viktiga är veta processen för hur man skickar iväg ett jobb som ansöker om beräkningsnoder (fysiska grupperingar av processorer) som gör de beräkningar som man är intresserade av. Ett HPC är byggt för att ha flera användare så därför kommer det alltid med en mjukavara som kan sätta sätat upp köer för användare.
+
+Det finns en handfull mjuk-varor för kö-hantering som dominerar användarmarknaden. Några är gratis och några kostar pengar.
+
+Det som är genomgående för mjukvaran är att de erbjuder möjligheten att formulera skript som definierar:
+
+-   Hur mycket datorkraft man vill ta från HPCn
+
+### Kompeneter
+
+#### Beräkning
+
+-   Head eller login node
+
+-   Vanliga beräknings noder
+
+    -   CPU, GPU
+
+#### Lagring
+
+-   Fysisk lagring (on premise). Kan ofta vara överlägser ur hsitghets/performacne perspektiv. Tillåter parallella filsystem oc hlow latancy access.
+
+-   Moln baserad lagring. Skalerbart. Tillåter ofta hög hastighet(numera).
+
+-   Hybrid
+
+#### Nätverk
+
+Noderna måste kunna kommunicera med varann. Viktigt är att upnå högst möjlgia hastighet.
+
+#### HPC Jobbschemaläggare och resurshanterare
+
+-   Vikitg komponent hos HPC
+
+### Vanliga typer av arkitekturer
+
+Paralllel, cluster och grid beräkning
+
+En HPC desing can kombinera Paralllel, cluster och grid design alltså innefatta alal tre.
+
+#### Parallell beräkning
+
+Förmåga att distribuera en beräknings uppgift eller data på flera noder/processorer
+
+#### Cluster beräkning
+
+Koppla ihop flera datorer till en enhet
+
+#### Grid och distribuerar beräkning
+
+Handlar om att koppla ihop geografiskt spridda beräkngns resurser till en virtuell enhet. Så til skillnad från ett cluster så involverar en grid enheter från flera olika platser och organisationer.
+
+### NGP (äger vår data själv)
+
+Det finns inte så mycket dokumentation för NGP från ett användar perspektiv/ Ingan användamanual. Där för kan vi ta ett annat svensk HPC upsätt för icke sensitive data.
+
+#### Lokalt HPC, grid computing
+
+Det kallas grid computing för att det kommersiella köhantinrings programmet heter Altaier GRID engine.
+
+Plan på att installera ett lokalt HPC. De kommer att likna NGP i sin uppsättning
 
 ### PDC-Dardel
 
-## Cloud
+## Moln/internet beräkning
 
--   
+Tillgång till servrar, lagring, database, nätverk och mjukvara, analysverktyg och intelligens.
+
+### [Intelligence](https://www.researchgate.net/publication/230800624_Cloud_intelligence_what_is_REALLY_new)
+
+-   Elasticitet i tillgång på beräkningsresurser. Förmågan att dynamiskt dra in nya data resurser
+-   Datorstödd affärsanalys (analytiska processer som undersöker data och presetnerar anvädnbar information baserade på till exemple rapporter)
+-   Ofta/alltid affärsdrivande och kräver en betalnings modell. Enskilda användarkonton där var och en betalar för sig.
+-   Oerhört centraliserad resurs med stor kompentens (AWS/Azure vs. NAISS/GMS)
+
+### Wikipedia
+
+Moln beräkning innefattar så många olika saker att en definiton riskear att bli vag.
+
+-   On demand, självbetjäning
+
+-   Tillgänglig för alla sortes enheter,. Mobi, surfplattor och arbetsstationer.
+
+-   Snabb elasticitet
+
+-   Övervakad resursanvändning \#### Påstådda fördelar
+
+-   Kostnade. Betalar bara för när resurserna används
+
+-   Webgränssnitt gär att man kopal upp sig med vad som helst som har en web browser
+
+-   Inget on-premise underhåll
+
+#### Tänkbara nackdelar
+
+-   data säkerhet. Moln användare anförtror sin data till tredjeparts leverantörer.
+-   Reducerad transparans. kan sakan full översikt/insikt i hur resurser övervakas och rapporterass
+-   Fullstädigt översikt över hur systement fungara kan bli omöjligt.Något som kan utläsas av metaforen "moln".
+-   Migratin från moln kan vara komplicerat
+-   Impementering av mjukvara och arbetsflöden kan drabbas av problem som har att göra med bl.a. distriburad beräkningskapacitet.
+-   Om man inte håller bra koll på vilak resurser som körs och vad de kostar så kan man få en överaskning i form av kostander.
+
+#### FIgur text
+
+##### Infrastructure as a service (IaaS)
+
+Tex svervrar, Lagringsdiskar och nätverk
+
+EC2 is and IaaS
+
+##### Platform as a service (PaaS)
+
+Tex operativ system, databaser, säkerhetsprogram
+
+##### Software as a service (SaaS)
+
+Enskilda program. I assume this is when Netflix, AirBnB are examples of Saas on AWS
+
+Famous Saas companies:
+
+Adobe Zoom Microsoft
+
+### [AWS](https://www.spiceworks.com/tech/cloud/articles/aws-basics/)
+
+On demand molnberäkningslösning som inkluderar 200+ tjänster, platformar och APIs som används av företag, myndigheter och privatpersonen som alla betalar efter de resurser de använder.
+
+Elasitic Comput (EC2), Amazon’s virtualla beräknings service, Glacier, en lågpris moln lagrings service, och S3, Amazon’s lagrings system, är tre grund componenter i AWS.
+
+## Lokal server
