@@ -10,11 +10,51 @@
     ]
   },
   {
+    "objectID": "index.html#blir-många-bilder",
+    "href": "index.html#blir-många-bilder",
+    "title": "PL, NGP och Seqera",
+    "section": "Blir många bilder",
+    "text": "Blir många bilder\nJag har ritat många diagram här fritt tagna ut fantasin. Eftersom det är så många (nya) begrepp som presenteras så tror jag det underlättar om man kan knyta ihop dem i mentala modellr. Mina diagram och bilder är ett försök att underllätta den processen.",
+    "crumbs": [
+      "Första sliden"
+    ]
+  },
+  {
+    "objectID": "index.html#svenska",
+    "href": "index.html#svenska",
+    "title": "PL, NGP och Seqera",
+    "section": "Svenska",
+    "text": "Svenska\njag försöker göra presenationen på svenska. Det fungera bra när man diskuterar organisationer etc men ibland finns mej veterligen inga bra motsvarande svenska or. Då får vi slå över.",
+    "crumbs": [
+      "Första sliden"
+    ]
+  },
+  {
     "objectID": "index.html#useful-links",
     "href": "index.html#useful-links",
     "title": "PL, NGP och Seqera",
     "section": "Useful links",
     "text": "Useful links\nhttps://alexd106.github.io/intro2R/Github_intro.html#Option_2_-_RStudio_first\n\nReg ostergotland Logos\nhttps://www.regionostergotland.se/ro/press/grafisk-profil/ladda-ner-logotyp",
+    "crumbs": [
+      "Första sliden"
+    ]
+  },
+  {
+    "objectID": "index.html#ploting-hex-stickers",
+    "href": "index.html#ploting-hex-stickers",
+    "title": "PL, NGP och Seqera",
+    "section": "Ploting Hex stickers",
+    "text": "Ploting Hex stickers\nhttps://github.com/GuangchuangYu/hexSticker\nIs there a package to plot multiple stickers??",
+    "crumbs": [
+      "Första sliden"
+    ]
+  },
+  {
+    "objectID": "index.html#disposition",
+    "href": "index.html#disposition",
+    "title": "PL, NGP och Seqera",
+    "section": "Disposition",
+    "text": "Disposition\n\nPLs organisatoriska sammanhang; samarbetspartners/finansiärer på\n\nSverige nivå (GMS)\nEU nivå\n\nVar pengarna kommer ifrån till GMS? Vilka är projekten?\n\n\nRutinmässig processering av WGS data lämpar sig för HPC/moln miljör\nMed åtkomstmöjlighet tillfällig stor datorkraft och flera användare.\n\n\n\n\n\nPL - reproducerbara arbetsflöden\nUtveckla storskaligt, genom friviligt globalt kollektivt sammarbete över internet, först små analytiska program och sedan kedjor av dem sammanlänkade genom den data som de genererar respektive konsumerar så att det går att automatiskera processeringen från rå sekvenserigndata till tolkningsbara resultat i ett allomfattande arbetsflöde. Arbetsflödet skall kunna köras på vilken beräknings platform som helst som är kraftfull nog att hantera datan. Det betyder oftast en server, ett HPC eller en molnmiljö oberoende av operative system, jobschemaläggare (som blir relevant i för HPCs) eller olika molnmiljöer som tex AWS eller Microsoft Azure. Arbetsflödet skall vara reproducerbart vilket innebär att varje version som tas i bruk måste finns sparat och dokumenterat för senare bruk. Det att program är utvecklade i olika programmeringsspråk och i olika operativ system och versioner av miljöer skall inte försvåra sammanlänkingen av dem.",
     "crumbs": [
       "Första sliden"
     ]
@@ -27,76 +67,6 @@
     "text": "1.1 PL-NGS\nHär ses PL isolerat utan de servade verskamhetsområdena.PL består av tre enheter som vardera servar de tre versamhetsområdena. Hexagonen i kärnan representerar det som de har gemensamt:",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Vad är PL?</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/vad_är_Seqera.html",
-    "href": "chapters/vad_är_Seqera.html",
-    "title": "6  Vad är Seqera?",
-    "section": "",
-    "text": "6.1 Many develpers of groupleaders, Nextflow and nf-core are employess at Seqera",
-    "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Vad är Seqera?</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/klutt.html",
-    "href": "chapters/klutt.html",
-    "title": "6  Bioinformatiskt arbetsflöde - PL sällsynta diagnoser B",
-    "section": "",
-    "text": "Testing, testing",
-    "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Bioinformatiskt arbetsflöde - PL sällsynta diagnoser B</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html",
-    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html",
-    "title": "5  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
-    "section": "",
-    "text": "5.1 Bioinformatiska arbetsflöden behöver nån form av beräknings kraft fär att köras.",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/3_Behov_av_kontinuerlig_utveckling_av_algoritmer_och_mjukvara.html",
-    "href": "chapters/3_Behov_av_kontinuerlig_utveckling_av_algoritmer_och_mjukvara.html",
-    "title": "PL, NGP och Seqera",
-    "section": "",
-    "text": "3 Behov av kontinuerlig utveckling av algoritmer",
-    "crumbs": [
-      "<span class='chapter-number'>19</span>  <span class='chapter-title'>3_Behov_av_kontinuerlig_utveckling_av_algoritmer_och_mjukvara.html</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/vad_är_PL.html#pl-linköping-utgör-en-av-sju-genomic-medicine-centers-gmcs-i-genome-medicine-sweden-gms-som-är-ett-samarbete-mellan-regioner-med-universtietessjukvård-som-finansieras-ungeför-likvärdigt-av",
-    "href": "chapters/vad_är_PL.html#pl-linköping-utgör-en-av-sju-genomic-medicine-centers-gmcs-i-genome-medicine-sweden-gms-som-är-ett-samarbete-mellan-regioner-med-universtietessjukvård-som-finansieras-ungeför-likvärdigt-av",
-    "title": "1  Vad är PL?",
-    "section": "",
-    "text": "Vinnova (innovasionsmyndigheten)\nuniversitetsjukhus regionerna",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Vad är PL?</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/vad_är_NGP.html",
-    "href": "chapters/vad_är_NGP.html",
-    "title": "3  Vad är NGP?",
-    "section": "",
-    "text": "3.1 Tre funktionaliteter",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Vad är NGP?</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#ploting-hex-stickers",
-    "href": "index.html#ploting-hex-stickers",
-    "title": "PL, NGP och Seqera",
-    "section": "Ploting Hex stickers",
-    "text": "Ploting Hex stickers\nhttps://github.com/GuangchuangYu/hexSticker\nIs there a package to plot multiple stickers??",
-    "crumbs": [
-      "Första sliden"
     ]
   },
   {
@@ -120,6 +90,26 @@
     ]
   },
   {
+    "objectID": "chapters/PL_ingår_i_ett_nätverk.html#data-delning-och-central-analys-via-ngp-är-del-i-ett-större-eu-sammanhang",
+    "href": "chapters/PL_ingår_i_ett_nätverk.html#data-delning-och-central-analys-via-ngp-är-del-i-ett-större-eu-sammanhang",
+    "title": "2  PL ingår i det nationella nätverket Genome Medicine Sweden (GMS)",
+    "section": "",
+    "text": "2.1.1",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>PL ingår i det nationella nätverket Genome Medicine Sweden (GMS)</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/vad_är_NGP.html",
+    "href": "chapters/vad_är_NGP.html",
+    "title": "3  Vad är NGP?",
+    "section": "",
+    "text": "3.1 Tre funktionaliteter",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Vad är NGP?</span>"
+    ]
+  },
+  {
     "objectID": "chapters/vad_är_NGP.html#tre-funktionaliteter",
     "href": "chapters/vad_är_NGP.html#tre-funktionaliteter",
     "title": "3  Vad är NGP?",
@@ -134,7 +124,7 @@
     "href": "chapters/vad_är_NGP.html#nytta-för-gmcerna",
     "title": "3  Vad är NGP?",
     "section": "3.2 Nytta för GMCerna",
-    "text": "3.2 Nytta för GMCerna\n-Tolknignsverktyg",
+    "text": "3.2 Nytta för GMCerna\n\nTolknignsverktyg",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Vad är NGP?</span>"
     ]
@@ -190,21 +180,21 @@
     ]
   },
   {
-    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#skall-kunna-köras-var-som-helst",
-    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#skall-kunna-köras-var-som-helst",
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html",
     "title": "5  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
-    "section": "5.3 Skall kunna köras var som helst",
-    "text": "5.3 Skall kunna köras var som helst\n\nFrån tex forsknings- och hälso-perspektiv är det oftast önskvärt att analysresultaten är reproducerbara mellan labb.\nDet kräver bland annat att flödet skall vara så flexibelt som möjligt med tanke på vilka hårdvaru-konfigurationer som det kan köras på.\nresultaten skall bli desamma oavsett å vilket system som flödet körs på.",
+    "section": "",
+    "text": "5.1 Bioinformatiska arbetsflöden behöver nån form av beräknings kraft fär att köras.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
     ]
   },
   {
-    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#olika-flöden-skall-kunna-köras-samtidigt-av-flera-olika-användare",
-    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#olika-flöden-skall-kunna-köras-samtidigt-av-flera-olika-användare",
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#bioinformatiska-arbetsflöden-behöver-nån-form-av-beräknings-kraft-fär-att-köras.",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#bioinformatiska-arbetsflöden-behöver-nån-form-av-beräknings-kraft-fär-att-köras.",
     "title": "5  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
-    "section": "5.7 Olika flöden skall kunna köras samtidigt av flera olika användare",
-    "text": "5.7 Olika flöden skall kunna köras samtidigt av flera olika användare\nHär står alternativet mellan:\n\nEn skalerbar fleranvändarmiljö\nflera enskilda småskaliga miljöer, en för varje användare\n\n\n5.7.1 Mjukvarutveckling baserad på storskaligt samarbete och system för versionskontrollering",
+    "section": "",
+    "text": "I huvudsak av effektiviseringssjäl/ekonomiska så sker det en stor omändring av av ekonomiska själ hur resurskrävande programmatiska uppgifter utförs. Konceptet dator och server håller på att bli förlegat ock ersätts av, HPC, molnberäkning och diverse andra begrepp. Bland annat hårdvaruutvecklingen ställer nya krav på mjukvara, och också på det området så föds kontinuerligt nya begrepp.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
     ]
@@ -220,21 +210,21 @@
     ]
   },
   {
-    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#tar-lång-tid-att-köra",
-    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#tar-lång-tid-att-köra",
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#skall-kunna-köras-var-som-helst",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#skall-kunna-köras-var-som-helst",
     "title": "5  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
-    "section": "5.4 Tar lång tid att köra",
-    "text": "5.4 Tar lång tid att köra\n\nDärför svårt att felsöka\nTar lång tid att köra om vid stop",
+    "section": "5.3 Skall kunna köras var som helst",
+    "text": "5.3 Skall kunna köras var som helst\n\nFrån tex forsknings- och hälso-perspektiv är det oftast önskvärt att analysresultaten är reproducerbara mellan labb.\nDet kräver bland annat att flödet skall vara så flexibelt som möjligt med tanke på vilka hårdvaru-konfigurationer som det kan köras på.\nresultaten skall bli desamma oavsett å vilket system som flödet körs på.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
     ]
   },
   {
-    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#ibland-resurskrävande-från-beräknings-platformen",
-    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#ibland-resurskrävande-från-beräknings-platformen",
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#undvika-att-köra-om-delar-där-riktiga-resultat-redan-genererats---tar-lång-tid-att-köra",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#undvika-att-köra-om-delar-där-riktiga-resultat-redan-genererats---tar-lång-tid-att-köra",
     "title": "5  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
-    "section": "5.5 Ibland resurskrävande från beräknings platformen",
-    "text": "5.5 Ibland resurskrävande från beräknings platformen\n\nRAM\nHårddiskutrymme\nParallell processering (kräver många processorer/cores)",
+    "section": "5.4 Undvika att köra om delar där riktiga resultat redan genererats - tar lång tid att köra",
+    "text": "5.4 Undvika att köra om delar där riktiga resultat redan genererats - tar lång tid att köra\n\nDärför svårt att felsöka\nTar lång tid att köra om vid stop",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
     ]
@@ -247,6 +237,36 @@
     "text": "5.5 Skall följa lagar och regler för den institution som använder dem\n\nIVDR",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#variablelt-behov-av-resurser-från-beräknings-platformen-runtime-management-kräver-ett-skalerbart-system",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#variablelt-behov-av-resurser-från-beräknings-platformen-runtime-management-kräver-ett-skalerbart-system",
+    "title": "5  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
+    "section": "5.6 Variablelt behov av resurser från beräknings platformen (runtime management); Kräver ett skalerbart system",
+    "text": "5.6 Variablelt behov av resurser från beräknings platformen (runtime management); Kräver ett skalerbart system\n\nRAM\nHårddiskutrymme\nParallell processering (kräver många processorer/cores)",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#olika-flöden-skall-kunna-köras-samtidigt-av-flera-olika-användare",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#olika-flöden-skall-kunna-köras-samtidigt-av-flera-olika-användare",
+    "title": "5  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
+    "section": "5.7 Olika flöden skall kunna köras samtidigt av flera olika användare",
+    "text": "5.7 Olika flöden skall kunna köras samtidigt av flera olika användare\nHär står alternativet mellan:\n\nEn skalerbar fleranvändarmiljö\nflera enskilda småskaliga miljöer, en för varje användare\n\n\n5.7.1 Mjukvarutveckling baserad på storskaligt samarbete och system för versionskontrollering",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/vad_är_Seqera.html",
+    "href": "chapters/vad_är_Seqera.html",
+    "title": "6  Vad är Seqera?",
+    "section": "",
+    "text": "6.1 Many develpers of groupleaders, Nextflow and nf-core are employess at Seqera",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Vad är Seqera?</span>"
     ]
   },
   {
@@ -267,26 +287,6 @@
     "text": "6.3 Nextflow\n solve problems with reproducible workflows",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Vad är Seqera?</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#undvika-att-köra-om-delar-där-riktiga-resultat-redan-genererats---tar-lång-tid-att-köra",
-    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#undvika-att-köra-om-delar-där-riktiga-resultat-redan-genererats---tar-lång-tid-att-köra",
-    "title": "5  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
-    "section": "5.4 Undvika att köra om delar där riktiga resultat redan genererats - tar lång tid att köra",
-    "text": "5.4 Undvika att köra om delar där riktiga resultat redan genererats - tar lång tid att köra\n\nDärför svårt att felsöka\nTar lång tid att köra om vid stop",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#variablelt-behov-av-resurser-från-beräknings-platformen",
-    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#variablelt-behov-av-resurser-från-beräknings-platformen",
-    "title": "5  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
-    "section": "5.5 Variablelt behov av resurser från beräknings platformen",
-    "text": "5.5 Variablelt behov av resurser från beräknings platformen\n\nRAM\nHårddiskutrymme\nParallell processering (kräver många processorer/cores)",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
     ]
   },
   {
@@ -324,109 +324,29 @@
     "href": "chapters/hårdvara.html#hpc",
     "title": "8  Hårdvara och beräkningsmiljöer",
     "section": "",
-    "text": "Hur mycket datorkraft man vill ta från HPCn\n\n\n8.1.1 Kompeneter\n\n8.1.1.1 Beräkning\n\nHead eller login node\nVanliga beräknings noder\n\nCPU, GPU\n\n\n\n\n8.1.1.2 Lagring\n\nFysisk lagring (on premise). Kan ofta vara överlägser ur hsitghets/performacne perspektiv. Tillåter parallella filsystem oc hlow latancy access.\nMoln baserad lagring. Skalerbart. Tillåter ofta hög hastighet(numera).\nHybrid\n\n\n\n8.1.1.3 Nätverk\nNoderna måste kunna kommunicera med varann. Viktigt är att upnå högst möjlgia hastighet.\n\n\n8.1.1.4 HPC Jobbschemaläggare och resurshanterare\n\nVikitg komponent hos HPC\n\n\n\n\n8.1.2 Vanliga typer av arkitekturer\nParalllel, cluster och grid beräkning\nEn HPC desing can kombinera Paralllel, cluster och grid design alltså innefatta alal tre.\n\n8.1.2.1 Parallell beräkning\nFörmåga att distribuera en beräknings uppgift eller data på flera noder/processorer\n\n\n8.1.2.2 Cluster beräkning\nKoppla ihop flera datorer till en enhet\n\n\n8.1.2.3 Grid och distribuerar beräkning\nHandlar om att koppla ihop geografiskt spridda beräkngns resurser till en virtuell enhet. Så til skillnad från ett cluster så involverar en grid enheter från flera olika platser och organisationer.\n\n\n\n8.1.3 NGP (äger vår data själv)\nDet finns inte så mycket dokumentation för NGP från ett användar perspektiv/ Ingan användamanual. Där för kan vi ta ett annat svensk HPC upsätt för icke sensitive data.\n\n8.1.3.1 Lokalt HPC, grid computing\nDet kallas grid computing för att det kommersiella köhantinrings programmet heter Altaier GRID engine.\nPlan på att installera ett lokalt HPC. De kommer att likna NGP i sin uppsättning\n\n\n\n8.1.4 PDC-Dardel",
+    "text": "Hur mycket datorkraft man vill ta från HPCn\n\n\n8.1.1 Komponenter\n\n8.1.1.1 Beräkning\n\nHead eller login node\nVanliga beräknings noder\n\nCPU, GPU\n\n\n\n\n8.1.1.2 Lagring\n\nFysisk lagring (on premise). Kan ofta vara överlägser ur hsitghets/performacne perspektiv. Tillåter parallella filsystem oc hlow latancy access.\nMoln baserad lagring. Skalerbart. Tillåter ofta hög hastighet(numera).\nHybrid\n\n\n\n8.1.1.3 Nätverk\nNoderna måste kunna kommunicera med varann. Viktigt är att upnå högst möjlgia hastighet.\n\n\n8.1.1.4 HPC Jobbschemaläggare och resurshanterare\n\nVikitg komponent hos HPC\n\n\n\n\n8.1.2 Vanliga typer av arkitekturer\nParalllel, cluster och grid beräkning\nEn HPC desing can kombinera Paralllel, cluster och grid design alltså innefatta alal tre.\n\n8.1.2.1 Parallell beräkning\nFörmåga att distribuera en beräknings uppgift eller data på flera noder/processorer\n\n\n8.1.2.2 Cluster beräkning\nKoppla ihop flera datorer till en enhet\n\n\n8.1.2.3 Grid och distribuerar beräkning\nHandlar om att koppla ihop geografiskt spridda beräkngns resurser till en virtuell enhet. Så til skillnad från ett cluster så involverar en grid enheter från flera olika platser och organisationer.\n\n\n\n8.1.3 NGP (äger vår data själv)\nDet finns inte så mycket dokumentation för NGP från ett användar perspektiv/ Ingan användamanual. Där för kan vi ta ett annat svensk HPC upsätt för icke sensitive data.\n\n8.1.3.1 Lokalt HPC, grid computing\nDet kallas grid computing för att det kommersiella köhantinrings programmet heter Altaier GRID engine.\nPlan på att installera ett lokalt HPC. De kommer att likna NGP i sin uppsättning\n\n\n\n8.1.4 PDC-Dardel",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Hårdvara och beräkningsmiljöer</span>"
     ]
   },
   {
-    "objectID": "chapters/hårdvara.html#cloud",
-    "href": "chapters/hårdvara.html#cloud",
+    "objectID": "chapters/hårdvara.html#molninternet-beräkning",
+    "href": "chapters/hårdvara.html#molninternet-beräkning",
     "title": "8  Hårdvara och beräkningsmiljöer",
-    "section": "8.2 Cloud",
-    "text": "8.2 Cloud",
+    "section": "8.2 Moln/internet beräkning",
+    "text": "8.2 Moln/internet beräkning\nTillgång till servrar, lagring, database, nätverk och mjukvara, analysverktyg och intelligens.\n\n8.2.1 Intelligence\n\nElasticitet i tillgång på beräkningsresurser. Förmågan att dynamiskt dra in nya data resurser\nDatorstödd affärsanalys (analytiska processer som undersöker data och presetnerar anvädnbar information baserade på till exemple rapporter)\nOfta/alltid affärsdrivande och kräver en betalnings modell. Enskilda användarkonton där var och en betalar för sig.\nOerhört centraliserad resurs med stor kompentens (AWS/Azure vs. NAISS/GMS)\n\n\n\n8.2.2 Wikipedia\nMoln beräkning innefattar så många olika saker att en definiton riskear att bli vag.\n\nOn demand, självbetjäning\nTillgänglig för alla sortes enheter,. Mobi, surfplattor och arbetsstationer.\nSnabb elasticitet\nÖvervakad resursanvändning #### Påstådda fördelar\nKostnade. Betalar bara för när resurserna används\nWebgränssnitt gär att man kopal upp sig med vad som helst som har en web browser\nInget on-premise underhåll\n\n\n8.2.2.1 Tänkbara nackdelar\n\ndata säkerhet. Moln användare anförtror sin data till tredjeparts leverantörer.\nReducerad transparans. kan sakan full översikt/insikt i hur resurser övervakas och rapporterass\nFullstädigt översikt över hur systement fungara kan bli omöjligt.Något som kan utläsas av metaforen “moln”.\nMigratin från moln kan vara komplicerat\nImpementering av mjukvara och arbetsflöden kan drabbas av problem som har att göra med bl.a. distriburad beräkningskapacitet.\nOm man inte håller bra koll på vilak resurser som körs och vad de kostar så kan man få en överaskning i form av kostander.\n\n\n\n8.2.2.2 FIgur text\n\n8.2.2.2.1 Infrastructure as a service (IaaS)\nTex svervrar, Lagringsdiskar och nätverk\nEC2 is and IaaS\n\n\n8.2.2.2.2 Platform as a service (PaaS)\nTex operativ system, databaser, säkerhetsprogram\n\n\n8.2.2.2.3 Software as a service (SaaS)\nEnskilda program. I assume this is when Netflix, AirBnB are examples of Saas on AWS\nFamous Saas companies:\nAdobe Zoom Microsoft\n\n\n\n\n8.2.3 AWS\nOn demand molnberäkningslösning som inkluderar 200+ tjänster, platformar och APIs som används av företag, myndigheter och privatpersonen som alla betalar efter de resurser de använder.\nElasitic Comput (EC2), Amazon’s virtualla beräknings service, Glacier, en lågpris moln lagrings service, och S3, Amazon’s lagrings system, är tre grund componenter i AWS.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Hårdvara och beräkningsmiljöer</span>"
     ]
   },
   {
-    "objectID": "chapters/git_ett_system_för_versionskontrollering.html",
-    "href": "chapters/git_ett_system_för_versionskontrollering.html",
-    "title": "10  git, ett system för versionskontrollering",
-    "section": "",
-    "text": "10.1 Vad kan versionkontrolleras?",
+    "objectID": "chapters/hårdvara.html#lokal-server",
+    "href": "chapters/hårdvara.html#lokal-server",
+    "title": "8  Hårdvara och beräkningsmiljöer",
+    "section": "8.3 Lokal server",
+    "text": "8.3 Lokal server",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>git, ett system för versionskontrollering</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/git_ett_system_för_versionskontrollering.html#vad-kan-versionkontrolleras",
-    "href": "chapters/git_ett_system_för_versionskontrollering.html#vad-kan-versionkontrolleras",
-    "title": "10  git, ett system för versionskontrollering",
-    "section": "",
-    "text": "en fil\nEn folder (-strukture) med flera filer",
-    "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>git, ett system för versionskontrollering</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/git_ett_system_för_versionskontrollering.html#git",
-    "href": "chapters/git_ett_system_för_versionskontrollering.html#git",
-    "title": "10  git, ett system för versionskontrollering",
-    "section": "10.2 git",
-    "text": "10.2 git\nGit bygger på att man har en folder (workspace, working directory, project folder) som innehåller ett ett flera dokument som man vet att man kommer att vidareutveckla över tid med viss osäkerhet, där man kan ångra sig och därför behöva återgå till tidigare versioner. Genom att gömma alla versioner utom den som man jobbar på för tillfället så minimerar programmet den distraherande påverkan som det kan ha att se flera versioer av sitt/sina dokument samtidigt.\nEftersom vidarutvecklingen sker över tid så samarbetar man alltid åtminstone med sitt framtida jag, tex genom att dokumentera/sammanfatta ändringarna som gjorts i varje version. Det underlättar att vid ett senare tillfälle senare bestämma vilken version man vill återgå till. Git underlättar också samarbeta med andra tex genom att detektera när två filändringar överlappar/är motstridigar och erbjuda verktyg för att editera/slå ihop de motstridiga ändringarna.\nEfter att ha installera programmet så börjar arbetet med versionkontollering genom att initiera en s.k. repository i föräldrafoldern för dina dokument.\ngit init\nKommandot skapat en gömd folder “.git” i föräldrafolder. I den gömda foldern så kommer dokumenterade ögonblicksbilder av din/dina fil/filer att sparas.\nArbetsgången med git innnhåller tre centrala moment som motsvars av tre filtillstånd:\n\nGör filändringar; filen/filerna är ändrad(e)\nVälj ändringar som skall förevigas i en ögonblicksbild (med commandot git add); Filens/filernas ändringar har valts ut till nästa ögonblicksbild; staged\nSpara utvallda ändringar i som en ögnblickbild i .git-databsen/repositoryn tilllsammans med dokumentation (med commandot git commit -m); Filens ändringar har sparats i en ögonblicksbild; commited\n\nÖverkurs är sedan att lära sig hur man kan gå tillbaka till (checka ut) tidigare versioner.",
-    "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>git, ett system för versionskontrollering</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/git_ett_system_för_versionskontrollering.html#github",
-    "href": "chapters/git_ett_system_för_versionskontrollering.html#github",
-    "title": "10  git, ett system för versionskontrollering",
-    "section": "10.3 Github",
-    "text": "10.3 Github\nGithub är en website med den huvudsakliga funktionen att dela versionskontrollerade project över internet.",
-    "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>git, ett system för versionskontrollering</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/1_program_utvecklade_i_en_specifik_hårdvarukonfiguration_skall_kunna_köras_i_vilken_som_helst_annan.html",
-    "href": "chapters/1_program_utvecklade_i_en_specifik_hårdvarukonfiguration_skall_kunna_köras_i_vilken_som_helst_annan.html",
-    "title": "14  Program utvecklade i en specifik hårdvarukonfiguration skall kunna köras i vilken som helst annan.",
-    "section": "",
-    "text": "14.1 Container hanterings program",
-    "crumbs": [
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Program utvecklade i en specifik hårdvarukonfiguration skall kunna köras i vilken som helst annan.</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/1_program_utvecklade_i_en_specifik_hårdvarukonfiguration_skall_kunna_köras_i_vilken_som_helst_annan.html#container-hanterings-program",
-    "href": "chapters/1_program_utvecklade_i_en_specifik_hårdvarukonfiguration_skall_kunna_köras_i_vilken_som_helst_annan.html#container-hanterings-program",
-    "title": "14  Program utvecklade i en specifik hårdvarukonfiguration skall kunna köras i vilken som helst annan.",
-    "section": "",
-    "text": "14.1.1 Singularity\n\n\n14.1.2 Docker",
-    "crumbs": [
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Program utvecklade i en specifik hårdvarukonfiguration skall kunna köras i vilken som helst annan.</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/arbetsflödes_hanterings_program_Nextflow_ett_av_många_A.html",
-    "href": "chapters/arbetsflödes_hanterings_program_Nextflow_ett_av_många_A.html",
-    "title": "17  Arbetsflödehanteringsprogram, Nextflow, ett av många",
-    "section": "",
-    "text": "17.1\nNextflow är en gratis och open-source programvara, som utvecklas av företaget Seqera labs.\nNextflow har/är ett eget dedikerat programmeringsspråk, ett s.k. Domain Specific Language (DSL) som tillvärkningen av pipelines baserar sig på.\nSpråket är tillverkat baserat på samma idee som Linux baserar sig på. Anvädn små kraftfulla kommondolinjebaserade program som när de länkas samma underlättar utförandet av komplexa datahanterings uppgifter.",
-    "crumbs": [
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Arbetsflödehanteringsprogram, Nextflow, ett av många</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#variablelt-behov-av-resurser-från-beräknings-platformen-runtime-management",
-    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#variablelt-behov-av-resurser-från-beräknings-platformen-runtime-management",
-    "title": "5  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
-    "section": "5.5 Variablelt behov av resurser från beräknings platformen (runtime management)",
-    "text": "5.5 Variablelt behov av resurser från beräknings platformen (runtime management)\n\nRAM\nHårddiskutrymme\nParallell processering (kräver många processorer/cores)",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#variablelt-behov-av-resurser-från-beräknings-platformen-runtime-management-kräver-ett-skalerbart-system",
-    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#variablelt-behov-av-resurser-från-beräknings-platformen-runtime-management-kräver-ett-skalerbart-system",
-    "title": "5  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
-    "section": "5.6 Variablelt behov av resurser från beräknings platformen (runtime management); Kräver ett skalerbart system",
-    "text": "5.6 Variablelt behov av resurser från beräknings platformen (runtime management); Kräver ett skalerbart system\n\nRAM\nHårddiskutrymme\nParallell processering (kräver många processorer/cores)",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Hårdvara och beräkningsmiljöer</span>"
     ]
   },
   {
@@ -460,13 +380,233 @@
     ]
   },
   {
-    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#bioinformatiska-arbetsflöden-behöver-nån-form-av-beräknings-kraft-fär-att-köras.",
-    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#bioinformatiska-arbetsflöden-behöver-nån-form-av-beräknings-kraft-fär-att-köras.",
-    "title": "5  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
+    "objectID": "chapters/vad_kan_versionskontrolleras.html",
+    "href": "chapters/vad_kan_versionskontrolleras.html",
+    "title": "10  Vad kan versionskontrolleras?",
     "section": "",
-    "text": "I huvudsak av effektiviseringssjäl/ekonomiska så sker det en stor omändring av av ekonomiska själ hur resurskrävande programmatiska uppgifter utförs. Konceptet dator och server håller på att bli förlegat ock ersätts av, HPC, molnberäkning och diverse andra begrepp. Bland annat hårdvaruutvecklingen ställer nya krav på mjukvara, och också på det området så föds kontinuerligt nya begrepp.",
+    "text": "10.1 Det allra enkaste exemplet - en fil\nSom en textfil, eller en program fil.\nIstället för att spara filen som synliga odokumenterade versioner.Tex Version_1,version2,final_version_3 Så använder man ett versions hanterings program som låter oss spara versioner i en dold databas/repository döljer och ber oss som att dokumentera ändringarna i varje version. Med verktyget såkan vi och vilja vilka ändringar som gjort som skall följa med in i ett version shot.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Vad kan versionskontrolleras?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/vad_kan_versionskontrolleras.html#en-folder",
+    "href": "chapters/vad_kan_versionskontrolleras.html#en-folder",
+    "title": "10  Vad kan versionskontrolleras?",
+    "section": "10.2 En folder",
+    "text": "10.2 En folder\nSmam sak kan göras simultatnt för flera filer i en foldr",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Vad kan versionskontrolleras?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/vad_kan_versionskontrolleras.html#den-här-presentationen",
+    "href": "chapters/vad_kan_versionskontrolleras.html#den-här-presentationen",
+    "title": "10  Vad kan versionskontrolleras?",
+    "section": "10.3 Den här presentationen",
+    "text": "10.3 Den här presentationen\nden här presentationen har utveckalts med versins hanterigns progam",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Vad kan versionskontrolleras?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/vad_kan_versionskontrolleras.html#ett-arbetsflödes-schema",
+    "href": "chapters/vad_kan_versionskontrolleras.html#ett-arbetsflödes-schema",
+    "title": "10  Vad kan versionskontrolleras?",
+    "section": "10.4 Ett arbetsflödes schema",
+    "text": "10.4 Ett arbetsflödes schema\nProgrammatiska aarbetsflöden utveckal under versins kontroll",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Vad kan versionskontrolleras?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/git_ett_system_för_versionskontrollering.html",
+    "href": "chapters/git_ett_system_för_versionskontrollering.html",
+    "title": "11  git, ett system för versionskontrollering",
+    "section": "",
+    "text": "11.1 Vad kan versionkontrolleras?",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>git, ett system för versionskontrollering</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/git_ett_system_för_versionskontrollering.html#vad-kan-versionkontrolleras",
+    "href": "chapters/git_ett_system_för_versionskontrollering.html#vad-kan-versionkontrolleras",
+    "title": "11  git, ett system för versionskontrollering",
+    "section": "",
+    "text": "en fil\nEn folder (-strukture) med flera filer",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>git, ett system för versionskontrollering</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/git_ett_system_för_versionskontrollering.html#git",
+    "href": "chapters/git_ett_system_för_versionskontrollering.html#git",
+    "title": "11  git, ett system för versionskontrollering",
+    "section": "11.2 git",
+    "text": "11.2 git\nGit bygger på att man har en folder (workspace, working directory, project folder) som innehåller ett ett flera dokument som man vet att man kommer att vidareutveckla över tid med viss osäkerhet, där man kan ångra sig och därför behöva återgå till tidigare versioner. Genom att gömma alla versioner utom den som man jobbar på för tillfället så minimerar programmet den distraherande påverkan som det kan ha att se flera versioer av sitt/sina dokument samtidigt.\nEftersom vidarutvecklingen sker över tid så samarbetar man alltid åtminstone med sitt framtida jag, tex genom att dokumentera/sammanfatta ändringarna som gjorts i varje version. Det underlättar att vid ett senare tillfälle senare bestämma vilken version man vill återgå till. Git underlättar också samarbeta med andra tex genom att detektera när två filändringar överlappar/är motstridigar och erbjuda verktyg för att editera/slå ihop de motstridiga ändringarna.\nEfter att ha installera programmet så börjar arbetet med versionkontollering genom att initiera en s.k. repository i föräldrafoldern för dina dokument.\ngit init\nKommandot skapat en gömd folder “.git” i föräldrafolder. I den gömda foldern så kommer dokumenterade ögonblicksbilder av din/dina fil/filer att sparas.\nArbetsgången med git innnhåller tre centrala moment som motsvars av tre filtillstånd:\n\nGör filändringar; filen/filerna är ändrad(e)\nVälj ändringar som skall förevigas i en ögonblicksbild (med commandot git add); Filens/filernas ändringar har valts ut till nästa ögonblicksbild; staged\nSpara utvallda ändringar i som en ögnblickbild i .git-databsen/repositoryn tilllsammans med dokumentation (med commandot git commit -m); Filens ändringar har sparats i en ögonblicksbild; commited\n\nÖverkurs är sedan att lära sig hur man kan gå tillbaka till (checka ut) tidigare versioner.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>git, ett system för versionskontrollering</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/git_ett_system_för_versionskontrollering.html#några-egenskaper-hos-git",
+    "href": "chapters/git_ett_system_för_versionskontrollering.html#några-egenskaper-hos-git",
+    "title": "11  git, ett system för versionskontrollering",
+    "section": "11.3 Några egenskaper hos git",
+    "text": "11.3 Några egenskaper hos git\n\n11.3.1 Tillåter icke linjärt skapande\nDvs att man kan jobba på olika delar samtidigt. Du jobbar på en fil som berör ett visst samnahang av det du vill säga med ditt projekt. Så får du en idee om nått du vill säga om ett helt annat samanhang. Då kan du spara det du höll på med börja jobab med en nya ideen och sedan problem fritt återgå til det du höll på med.\n\n\n11.3.2 Simultan/paralllel utveckling\nFlera kan samarbeta på ett dokument utan att riskera att skiva över varandras bidrag.\n\n\n11.3.3 Gör det väldigt svårt att förlora material som en gång sparats in en version.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>git, ett system för versionskontrollering</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/git_ett_system_för_versionskontrollering.html#github",
+    "href": "chapters/git_ett_system_för_versionskontrollering.html#github",
+    "title": "11  git, ett system för versionskontrollering",
+    "section": "11.4 Github",
+    "text": "11.4 Github\nGithub är en website med den huvudsakliga funktionen att dela versionskontrollerade projekt över internet.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>git, ett system för versionskontrollering</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/2_kollektiv_versionskontrollerad_mjukvaru_utvecking_med_git_och_Github_A.html",
+    "href": "chapters/2_kollektiv_versionskontrollerad_mjukvaru_utvecking_med_git_och_Github_A.html",
+    "title": "12  Kollektivt versionskontrollerad mjukvaruutveckling A",
+    "section": "",
+    "text": "12.1 Arbetsfolder\nDett är platsen där du jobbabr för tillfället, där dina filer håller till. Den platsen kallas också “untracked” område hos/av git. Filändringar kommer att markeras och bli sedda i arbetsträdet/arbetsfoldern. Om du gör filändringar här utan vidare tilltag och sedan raderar/skriver över ändringarna så kommer det att vara förlorade. Dette eftersom ändringarna ännu inte sagt att git skall bry sig om ändringaran. Om man gr ändirngar där såk ommer git att se dem, men inte förren git blir tillsgt att “Hej, föj de här filerna ändringar”, kommer git att spara nått som sker med dem.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Kollektivt versionskontrollerad mjukvaruutveckling A</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/2_kollektiv_versionskontrollerad_mjukvaru_utvecking_med_git_och_Github_A.html#staging-areaindexförberdelse-områdefil",
+    "href": "chapters/2_kollektiv_versionskontrollerad_mjukvaru_utvecking_med_git_och_Github_A.html#staging-areaindexförberdelse-områdefil",
+    "title": "12  Kollektivt versionskontrollerad mjukvaruutveckling A",
+    "section": "12.2 Staging area/index/förberdelse område/fil",
+    "text": "12.2 Staging area/index/förberdelse område/fil\nThe staging area är en fil i Git foldern som sparar information om vad som tas med i nästa “commit”/ögonblicksbild.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Kollektivt versionskontrollerad mjukvaruutveckling A</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/2_kollektiv_versionskontrollerad_mjukvaru_utvecking_med_git_och_Github_A.html#lokalt-kodförråd.git-foldern-git-foldern",
+    "href": "chapters/2_kollektiv_versionskontrollerad_mjukvaru_utvecking_med_git_och_Github_A.html#lokalt-kodförråd.git-foldern-git-foldern",
+    "title": "12  Kollektivt versionskontrollerad mjukvaruutveckling A",
+    "section": "12.3 Lokalt kodförråd/.git foldern/ Git foldern",
+    "text": "12.3 Lokalt kodförråd/.git foldern/ Git foldern\nDet är här sm GIt spara metadatan och objectdatabasen för projektet. Git foldern är den som lasta upp till github och som sedna kan kopieras när man klanr från en annan dataor.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Kollektivt versionskontrollerad mjukvaruutveckling A</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/2_kollektiv_versionskontrollerad_mjukvaru_utvecking_med_git_och_Github_A.html#githubfjärr-kodförråd",
+    "href": "chapters/2_kollektiv_versionskontrollerad_mjukvaru_utvecking_med_git_och_Github_A.html#githubfjärr-kodförråd",
+    "title": "12  Kollektivt versionskontrollerad mjukvaruutveckling A",
+    "section": "12.4 Github/fjärr kodförråd",
+    "text": "12.4 Github/fjärr kodförråd\nDet här är . git foldern som lastats upp till Github.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Kollektivt versionskontrollerad mjukvaruutveckling A</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/1_program_utvecklade_i_en_specifik_hårdvarukonfiguration_skall_kunna_köras_i_vilken_som_helst_annan.html",
+    "href": "chapters/1_program_utvecklade_i_en_specifik_hårdvarukonfiguration_skall_kunna_köras_i_vilken_som_helst_annan.html",
+    "title": "15  Program utvecklade i en specifik hårdvarukonfiguration skall kunna köras i vilken som helst annan.",
+    "section": "",
+    "text": "15.1 Vad är software dependancies\nEn programfil som skrivs fungerar alltid i en kontext av andra program filer och för att fungera som tänkt. Programeringsspråk baserar sig ofta på kodbibliotek, “libraires” som kan referereas i en programfil för att användas för sin dedikerade uppgift. Det finns tex kodbibliotek för att hämta dta ur en databas. Då kan en mjukvara beroende av det kodbilboteket för att kommunicera med databaser för att fungera som tänkt.\nEtt software dependancy är en kodbibliotek eller paket som återanvänds i ett mjukvara. Tex så kan ett maskinlärningsprojekt anropa en python bibliotek för att bygga modeller.",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Program utvecklade i en specifik hårdvarukonfiguration skall kunna köras i vilken som helst annan.</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/1_program_utvecklade_i_en_specifik_hårdvarukonfiguration_skall_kunna_köras_i_vilken_som_helst_annan.html#vad-är-software-dependancies",
+    "href": "chapters/1_program_utvecklade_i_en_specifik_hårdvarukonfiguration_skall_kunna_köras_i_vilken_som_helst_annan.html#vad-är-software-dependancies",
+    "title": "15  Program utvecklade i en specifik hårdvarukonfiguration skall kunna köras i vilken som helst annan.",
+    "section": "",
+    "text": "15.1.1 Conda packages (paket)",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Program utvecklade i en specifik hårdvarukonfiguration skall kunna köras i vilken som helst annan.</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/1_program_utvecklade_i_en_specifik_hårdvarukonfiguration_skall_kunna_köras_i_vilken_som_helst_annan.html#nextflow-och-container-hanterings-program",
+    "href": "chapters/1_program_utvecklade_i_en_specifik_hårdvarukonfiguration_skall_kunna_köras_i_vilken_som_helst_annan.html#nextflow-och-container-hanterings-program",
+    "title": "15  Program utvecklade i en specifik hårdvarukonfiguration skall kunna köras i vilken som helst annan.",
+    "section": "15.2 Nextflow och container hanterings program",
+    "text": "15.2 Nextflow och container hanterings program\n\n15.2.1 Enklt exempel\nnextflow run &lt;script&gt; -with-apptainer [apptainer image fiel]\n\n\n15.2.2 Medium-enkelt exempel; setting container in nextflow.config\n\n15.2.2.1 config\nprocess.container = /path/to/apptainer.img\napptainer.enabled = true\n\n\n15.2.2.2 cmd\nnextflow run &lt;script&gt; -with-apptainer [apptainer image fiel]\n\n\n\n15.2.3 nf-core pipeline exemple on local machine; setting container using profiles\nnextflow run nf-core/raredisease -r \"dev\" -profile test,singularity -outdir kljj \n-profile\n\n\n15.2.4 nf-core pipeline exemple on remote hpc using slurm; setting container using profiles\nnextflow run nf-core/raredisease -r \"dev\" -profile test,singularity,pdc_kth -outdir kljj --project naiss2024-22-481",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Program utvecklade i en specifik hårdvarukonfiguration skall kunna köras i vilken som helst annan.</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/1_program_utvecklade_i_en_specifik_hårdvarukonfiguration_skall_kunna_köras_i_vilken_som_helst_annan.html#nextflow-och-container-registries",
+    "href": "chapters/1_program_utvecklade_i_en_specifik_hårdvarukonfiguration_skall_kunna_köras_i_vilken_som_helst_annan.html#nextflow-och-container-registries",
+    "title": "15  Program utvecklade i en specifik hårdvarukonfiguration skall kunna köras i vilken som helst annan.",
+    "section": "15.3 Nextflow och container registries",
+    "text": "15.3 Nextflow och container registries\nNär ett container namn anges (i process definitionen) så kollar Nextflow först om en containern med det namnet finns i en lokal folder dedikerad för container images. Om det inte finns någon sådan så så försöker Nextflow ladda ner den från angivet Container registret. ### repositores #### DOcker hub #### Quay #### Biocontainers Kopplar ihop Bioconda och containers. Har ett register med container images för varje Bioconda recept. Biocontianer ger en docker image som innehåller programmet/n som man angett. Med Biocontaines så maåste man ange “tag” när man lastar ned en image. Det betyder att man laltid är medveten om vilken tag/version som man lastar ner. ### Alternativ för att ange källa\nfile://   # only for local files\nshub://   # apptainer hub\ndocker:// # docker registry (not needed since default with  apptainer profiles [does not work with Docker engine??])",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Program utvecklade i en specifik hårdvarukonfiguration skall kunna köras i vilken som helst annan.</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/1_program_utvecklade_i_en_specifik_hårdvarukonfiguration_skall_kunna_köras_i_vilken_som_helst_annan.html#nf-core-och-conttainer-hanterings-program",
+    "href": "chapters/1_program_utvecklade_i_en_specifik_hårdvarukonfiguration_skall_kunna_köras_i_vilken_som_helst_annan.html#nf-core-och-conttainer-hanterings-program",
+    "title": "15  Program utvecklade i en specifik hårdvarukonfiguration skall kunna köras i vilken som helst annan.",
+    "section": "15.4 nf-core och conttainer hanterings program",
+    "text": "15.4 nf-core och conttainer hanterings program\n\n15.4.1 Moduler\nNextflows intentioner med modul konceptet var att det skall blir lättare att dela med sig av “odelbara”/atomiska segment av Nextflow scripts från ett workflow script till ett annat.\nnf-core har som kriterie för en model att den skall vara verkligt odelbar dvs:\nAlla nf-core arbetsflöden använder en container per process, och merparten av processer är inkapslade i delade moduler i nf-core/modules repository.\n“process” är i Nextflow ett grundläggande språkelement som tillåter att köra främmande script eller program.\nprocessen definierar: - conda och container registry - input - output - script som skall köras i kontainern\n\n\n15.4.2 Subworkflows\nNextflow tillåter också delning av en kedja av logiskt sammanhängande moduler som tillsammans utför ett delmoment i ett fullt workflow. Såna delar av ett workflow kallas för subworkflows.",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Program utvecklade i en specifik hårdvarukonfiguration skall kunna köras i vilken som helst annan.</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/1_program_utvecklade_i_en_specifik_hårdvarukonfiguration_skall_kunna_köras_i_vilken_som_helst_annan.html#container-hanterings-program-container-runtimes",
+    "href": "chapters/1_program_utvecklade_i_en_specifik_hårdvarukonfiguration_skall_kunna_köras_i_vilken_som_helst_annan.html#container-hanterings-program-container-runtimes",
+    "title": "15  Program utvecklade i en specifik hårdvarukonfiguration skall kunna köras i vilken som helst annan.",
+    "section": "15.5 Container hanterings program / container runtimes",
+    "text": "15.5 Container hanterings program / container runtimes\nMed runtime menas en den miljö i vilket ett program är ämnat att köras. (Tillskillnad frå kompileras).\nContainrar kör i ett helt eget filsystem och kan som standard inte komma åt filsystemet på den datorn som härbergerar(hostar) containern.\nMed cmd-line alternativet –volume kan man dock koppla på ett filsystem från den hostande datorn\n–volume härbergerande path:“containerpath\n\n15.5.1 Apptainer/Singularity\nDe huvudsakliga fördelarna med Apptainer är att den kan köras utan rrot priviligier och kräver inte en demon process. Detta teillsamans med några andra egenskaper som tex att den stödjer mountin autofs mounts, gör Apptainer bettre lämpade för HPCs.\nhttps://depot.galaxyproject.org/singularity/\nAvoiding security issues: When a user runs a container with Apptainer, it is started as a normal process running under the user’s account. Standard file permissions and other security controls based on user accounts, groups, and processes apply.\n\n\n15.5.2 Docker\nDocker security issue. To be able to install Docker on a multiuser computational system/HPC one has to have adminsitraive privilage. A default Docker installation uses a root-owned daemon to start containers, and users can request that the daemon start a container on their behalf. The users might then get privilages to for instance change vital files for the HPC to run properly.\n\n\n15.5.3 Conda\n\n\n15.5.4 Wave",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Program utvecklade i en specifik hårdvarukonfiguration skall kunna köras i vilken som helst annan.</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/1_program_utvecklade_i_en_specifik_hårdvarukonfiguration_skall_kunna_köras_i_vilken_som_helst_annan.html#container-register",
+    "href": "chapters/1_program_utvecklade_i_en_specifik_hårdvarukonfiguration_skall_kunna_köras_i_vilken_som_helst_annan.html#container-register",
+    "title": "15  Program utvecklade i en specifik hårdvarukonfiguration skall kunna köras i vilken som helst annan.",
+    "section": "15.6 Container register",
+    "text": "15.6 Container register\n\n15.6.1 Quay",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Program utvecklade i en specifik hårdvarukonfiguration skall kunna köras i vilken som helst annan.</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/container_hanteringsprogram_och_container_register.html",
+    "href": "chapters/container_hanteringsprogram_och_container_register.html",
+    "title": "16  Container hanteringsprogram och container register",
+    "section": "",
+    "text": "16.1 Vad man kan göra med Nextflow, nf-core och nf-core tools",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Container hanteringsprogram och container register</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/container_hanteringsprogram_och_container_register.html#vad-man-kan-göra-med-nextflow-nf-core-och-nf-core-tools",
+    "href": "chapters/container_hanteringsprogram_och_container_register.html#vad-man-kan-göra-med-nextflow-nf-core-och-nf-core-tools",
+    "title": "16  Container hanteringsprogram och container register",
+    "section": "",
+    "text": "16.1.1 Kommunicera/samverka/socialisera\n\nSlack\nGithub (finns verktyg för kommunikatin tex Issues )\nSeqera Forum\n\n\n\n16.1.2 Utbilda\n\nTutorials\nVideos\n\n\n16.1.2.1 nextflow docs\n\n\n\n16.1.3 nextflow training\n\n16.1.3.1 seqera docs\n\n\n16.1.3.2 nf-core docs\n\n\n\n16.1.4 Använda\n\nLasta ned pipelien för offline anvädning (nf-core tools)\n\nnextflow run\n\n\n16.1.5 Utveckla\n\nskriva\ntesta\n\n\n16.1.5.0.1 nf-core tools\nHantera Pipelines, Subworkflows och Moduler",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Container hanteringsprogram och container register</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/arbetsflödes_hanterings_program_Nextflow_ett_av_många_A.html",
+    "href": "chapters/arbetsflödes_hanterings_program_Nextflow_ett_av_många_A.html",
+    "title": "17  Arbetsflödehanteringsprogram, Nextflow, ett av många",
+    "section": "",
+    "text": "17.1\nNextflow är en gratis och open-source programvara, som utvecklas av företaget Seqera labs.\nNextflow har/är ett eget dedikerat programmeringsspråk, ett s.k. Domain Specific Language (DSL) som tillvärkningen av pipelines baserar sig på.\nSpråket är tillverkat baserat på samma idee som Linux baserar sig på. Använd små kraftfulla kommondolinjebaserade program som när de länkas samma underlättar utförandet av komplexa datahanterings uppgifter.",
+    "crumbs": [
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Arbetsflödehanteringsprogram, Nextflow, ett av många</span>"
     ]
   },
   {
@@ -484,39 +624,89 @@
     "href": "chapters/arbetsflödes_hanterings_program_Nextflow_ett_av_många_A.html#nextflow-är",
     "title": "17  Arbetsflödehanteringsprogram, Nextflow, ett av många",
     "section": "17.3 Nextflow är",
-    "text": "17.3 Nextflow är\n\n17.3.1 Ett scriptspråk dedikerat för att bygga programmatikska arbetsföden\n\n\n17.3.2 Ett vertyg för att interagera med\n\n17.3.2.1 container hanteringsprogram\n\n\n17.3.2.2 versions hanteringsprogram\n\n\n17.3.2.3 Executors/platforms\nKan kommunicera med dessa och specificera vilka resurser varje enskil modul kräver.\n\n\n17.3.2.4",
+    "text": "17.3 Nextflow är\n\n17.3.1 Ett scriptspråk dedikerat för att bygga programmatiska arbetsflöden\nBästa sättet att förvara scripten är naturligtvis som en versionskontrollerade repository typ på Github.\nEnklaste exemplet (Hello world):\n#!/usr/bin/env nextflow\n\n/*\n * Use echo to print 'Hello World!' to standard out\n */\nprocess sayHello {\n\n    output:\n        stdout\n\n    script:\n    \"\"\"\n    echo 'Hello World!'\n    \"\"\"\n}\n\nworkflow {\n\n    // emit a greeting\n    sayHello()\n}\nKan sedan köras från kommandolinjen efter Nexflow installation.\nnextflow run hello-world.nf\n\n\n\n17.3.2 Ett vertyg för att interagera med\n\n17.3.2.1 container hanteringsprogram\n\n\n17.3.2.2 versions hanteringsprogram\n\n\n17.3.2.3 Executors/platforms\noch för reentrancy, parallelisation\nKan kommunicera med dessa och specificera vilka resurser varje enskild modul kräver.\n\n\n17.3.2.4",
     "crumbs": [
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Arbetsflödehanteringsprogram, Nextflow, ett av många</span>"
     ]
   },
   {
-    "objectID": "chapters/PL_ingår_i_ett_nätverk.html#data-delning-och-central-analys-via-ngp-är-del-i-ett-större-eu-sammanhang",
-    "href": "chapters/PL_ingår_i_ett_nätverk.html#data-delning-och-central-analys-via-ngp-är-del-i-ett-större-eu-sammanhang",
-    "title": "2  PL ingår i det nationella nätverket Genome Medicine Sweden (GMS)",
+    "objectID": "chapters/vill_du_veta_mer.html",
+    "href": "chapters/vill_du_veta_mer.html",
+    "title": "25  Vill du veta mer?",
     "section": "",
-    "text": "2.1.1",
+    "text": "25.1 Workflow managers",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>PL ingår i det nationella nätverket Genome Medicine Sweden (GMS)</span>"
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Vill du veta mer?</span>"
     ]
   },
   {
-    "objectID": "chapters/hårdvara.html#molninternet-beräkning",
-    "href": "chapters/hårdvara.html#molninternet-beräkning",
-    "title": "8  Hårdvara och beräkningsmiljöer",
-    "section": "8.2 Moln/internet beräkning",
-    "text": "8.2 Moln/internet beräkning\nTillgång till servrar, lagring, database, nätverk och mjukvara, analysverktyg och intelligens.\n\n8.2.1 Intelligence\n\nElasticitet i tillgång på beräkningsresurser. Förmågan att dynamiskt dra in nya data resurser\nDatorstödd affärsanalys (analytiska processer som undersöker data och presetnerar anvädnbar information baserade på till exemple rapporter)\nOfta/alltid affärsdrivande och kräver en betalnings modell. Enskilda användarkonton där var och en betalar för sig.\nOerhört centraliserad resurs med stor kompentens (AWS/Azure vs. NAISS/GMS)\n\n\n\n8.2.2 Wikipedia\nMoln beräkning innefattar så många olika saker att en definiton riskear att bli vag.\n\nOn demand, självbetjäning\nTillgänglig för alla sortes enheter,. Mobi, surfplattor och arbetsstationer.\nSnabb elasticitet\nÖvervakad resursanvändning #### Påstådda fördelar\nKostnade. Betalar bara för när resurserna används\nWebgränssnitt gär att man kopal upp sig med vad som helst som har en web browser\nInget on-premise underhåll\n\n\n8.2.2.1 Tänkbara nackdelar\n\ndata säkerhet. Moln användare anförtror sin data till tredjeparts leverantörer.\nReducerad transparans. kan sakan full översikt/insikt i hur resurser övervakas och rapporterass\nFullstädigt översikt över hur systement fungara kan bli omöjligt.Något som kan utläsas av metaforen “moln”.\nMigratin från moln kan vara komplicerat\nImpementering av mjukvara och arbetsflöden kan drabbas av problem som har att göra med bl.a. distriburad beräkningskapacitet.\nOm man inte håller bra koll på vilak resurser som körs och vad de kostar så kan man få en överaskning i form av kostander.\n\n\n\n8.2.2.2 FIgur text\n\n8.2.2.2.1 Infrastructure as a service (IaaS)\nTex svervrar, Lagringsdiskar och nätverk\nEC2 is and IaaS\n\n\n8.2.2.2.2 Platform as a service (PaaS)\nTex operativ system, databaser, säkerhetsprogram\n\n\n8.2.2.2.3 Software as a service (SaaS)\nEnskilda program. I assume this is when Netflix, AirBnB are examples of Saas on AWS\nFamous Saas companies:\nAdobe Zoom Microsoft\n\n\n\n\n8.2.3 AWS\nOn demand molnberäkningslösning som inkluderar 200+ tjänster, platformar och APIs som används av företag, myndigheter och privatpersonen som alla betalar efter de resurser de använder.\nElasitic Comput (EC2), Amazon’s virtualla beräknings service, Glacier, en lågpris moln lagrings service, och S3, Amazon’s lagrings system, är tre grund componenter i AWS.",
+    "objectID": "chapters/vill_du_veta_mer.html#workflow-managers",
+    "href": "chapters/vill_du_veta_mer.html#workflow-managers",
+    "title": "25  Vill du veta mer?",
+    "section": "",
+    "text": "25.1.1 Nextflow\n\n\n25.1.2 nf-core\n\n\n25.1.3 Seqera",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Hårdvara och beräkningsmiljöer</span>"
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Vill du veta mer?</span>"
     ]
   },
   {
-    "objectID": "chapters/hårdvara.html#lokal-server",
-    "href": "chapters/hårdvara.html#lokal-server",
-    "title": "8  Hårdvara och beräkningsmiljöer",
-    "section": "8.3 Lokal server",
-    "text": "8.3 Lokal server",
+    "objectID": "chapters/vill_du_veta_mer.html#version-controllers",
+    "href": "chapters/vill_du_veta_mer.html#version-controllers",
+    "title": "25  Vill du veta mer?",
+    "section": "25.2 Version controllers",
+    "text": "25.2 Version controllers\n\n25.2.1 Git\n\n\n25.2.2 Repositories\n\n25.2.2.1 Github",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Hårdvara och beräkningsmiljöer</span>"
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Vill du veta mer?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/vill_du_veta_mer.html#container-management-systems",
+    "href": "chapters/vill_du_veta_mer.html#container-management-systems",
+    "title": "25  Vill du veta mer?",
+    "section": "25.3 Container management systems",
+    "text": "25.3 Container management systems\n\n25.3.1 Singularity\n\n\n25.3.2 Wave\n\n\n25.3.3 Conda\n\n\n25.3.4 Docker",
+    "crumbs": [
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Vill du veta mer?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/vill_du_veta_mer.html#hpc",
+    "href": "chapters/vill_du_veta_mer.html#hpc",
+    "title": "25  Vill du veta mer?",
+    "section": "25.4 HPC",
+    "text": "25.4 HPC\n\n25.4.1 NAISS",
+    "crumbs": [
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Vill du veta mer?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/vill_du_veta_mer.html#cloud-services",
+    "href": "chapters/vill_du_veta_mer.html#cloud-services",
+    "title": "25  Vill du veta mer?",
+    "section": "25.5 Cloud services",
+    "text": "25.5 Cloud services",
+    "crumbs": [
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Vill du veta mer?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/vill_du_veta_mer.html#ai",
+    "href": "chapters/vill_du_veta_mer.html#ai",
+    "title": "25  Vill du veta mer?",
+    "section": "25.6 AI",
+    "text": "25.6 AI",
+    "crumbs": [
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Vill du veta mer?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/länkar_online_bilder.html",
+    "href": "chapters/länkar_online_bilder.html",
+    "title": "26  Länkar till online bilder presenaton",
+    "section": "",
+    "text": "26.1 Git ett system för versionskontrollering\nhttps://www.neonscience.org/resources/learning-hub/tutorials/github-git-add\nhttps://images.app.goo.gl/ERfAufK2HQMuXEkn9",
+    "crumbs": [
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Länkar till online bilder presenaton</span>"
     ]
   }
 ]

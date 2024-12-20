@@ -8,13 +8,11 @@ Precisions medicinsk laboratorium (PL) i Linköping utför laboratorie tjänster
 
 PL-Linköping utgör en av sju Genomic Medicine Centers (GMCs) i Genome Medicine Sweden (GMS) som är ett samarbete mellan regioner med universtietessjukvård som finansieras ungeför likvärdigt av: - Vinnova (innovasionsmyndigheten) - universitetsjukhus regionerna
 
-
 ## PL-NGS
 
-Här ses PL isolerat utan de servade verskamhetsområdena.PL består av tre enheter som vardera servar de tre versamhetsområdena.
-Hexagonen i kärnan representerar det som de har gemensamt:
+Här ses PL isolerat utan de servade verskamhetsområdena.PL består av tre enheter som vardera servar de tre versamhetsområdena. Hexagonen i kärnan representerar det som de har gemensamt:
 
-- Ledning
-- Sekvenseringsmaskiner
-  - (Presentationen kommer att begränsa sig till att se på PL utifrån ett sekvenserings perspektiv, eftersm det är det som jag jobbar med.).
-- Datornätverk
+-   Ledning
+-   Sekvenseringsmaskiner
+    -   (Presentationen kommer att begränsa sig till att se på PL utifrån ett sekvenserings perspektiv, eftersm det är det som jag jobbar med.).
+-   Datornätverk

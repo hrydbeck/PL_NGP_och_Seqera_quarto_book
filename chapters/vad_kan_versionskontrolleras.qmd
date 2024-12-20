@@ -1,1 +1,29 @@
-# Vad kan versionkontrolleras?
+# Vad kan versionskontrolleras?
+
+Varje nf-core arbetsflöde görs tillgängligt via Github en website med det huvudsakliga syftet att dela versionskontrollerade project över internet. Versionkontrollering är användbart för nästan allt skapande som kan utföras på en dator. Här pratar vi om det utifrån perspekivet att arbetsflödeshanterings program
+
+-   En fil
+
+-   En folder med filer och subfoldrar
+
+-   Den här presentationen
+
+-   Ett arbetsfödesschema
+
+## Det allra enkaste exemplet - en fil
+
+Som en textfil, eller en program fil.
+
+Istället för att spara filen som synliga odokumenterade versioner.Tex Version_1,version2,final_version_3 Så använder man ett versions hanterings program som låter oss spara versioner i en dold databas/repository döljer och ber oss som att dokumentera ändringarna i varje version. Med verktyget såkan vi och vilja vilka ändringar som gjort som skall följa med in i ett version shot.
+
+## En folder
+
+Smam sak kan göras simultatnt för flera filer i en foldr
+
+## Den här presentationen
+
+den här presentationen har utveckalts med versins hanterigns progam
+
+## Ett arbetsflödes schema
+
+Programmatiska aarbetsflöden utveckal under versins kontroll

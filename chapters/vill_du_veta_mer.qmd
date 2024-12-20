@@ -1,0 +1,35 @@
+# Vill du veta mer?
+
+## Workflow managers
+
+### Nextflow
+
+### nf-core
+
+### Seqera
+
+## Version controllers
+
+### Git
+
+### Repositories
+
+#### Github
+
+## Container management systems
+
+### Singularity
+
+### Wave
+
+### Conda
+
+### Docker
+
+## HPC
+
+### NAISS
+
+## Cloud services
+
+## AI

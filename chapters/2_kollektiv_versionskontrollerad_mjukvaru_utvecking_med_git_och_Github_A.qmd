@@ -1,1 +1,23 @@
 # Kollektivt versionskontrollerad mjukvaruutveckling A
+
+Molnbaserat Git kodförråd (repository). Det gör det lättare för personer och grupper att använda GIt för versionskontrollering och samarbete.
+
+Github gränssnittet är användarvänligt nog så att tom nyblivna programmerare (ni) kan använda det. Github är så användarvänligt att en del personer tom använder det för att skriva böcker eller PhD uppsatser.
+
+Vem som helst kan skapa ett konto, logga in och lasta upp versions kontrollerade kodförråd/dokumet foldrar.
+
+## Arbetsfolder
+
+Dett är platsen där du jobbabr för tillfället, där dina filer håller till. Den platsen kallas också "untracked" område hos/av git. Filändringar kommer att markeras och bli sedda i arbetsträdet/arbetsfoldern. Om du gör filändringar här utan vidare tilltag och sedan raderar/skriver över ändringarna så kommer det att vara förlorade. Dette eftersom ändringarna ännu inte sagt att git skall bry sig om ändringaran. Om man gr ändirngar där såk ommer git att se dem, men inte förren git blir tillsgt att "Hej, föj de här filerna ändringar", kommer git att spara nått som sker med dem.
+
+## Staging area/index/förberdelse område/fil
+
+The staging area är en fil i Git foldern som sparar information om vad som tas med i nästa "commit"/ögonblicksbild.
+
+## Lokalt kodförråd/.git foldern/ Git foldern
+
+Det är här sm GIt spara metadatan och objectdatabasen för projektet. Git foldern är den som lasta upp till github och som sedna kan kopieras när man klanr från en annan dataor.
+
+## Github/fjärr kodförråd
+
+Det här är . git foldern som lastats upp till Github.

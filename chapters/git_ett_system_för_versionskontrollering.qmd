@@ -30,6 +30,18 @@ Arbetsgången med git innnhåller tre centrala moment som motsvars av tre filtil
 
 Överkurs är sedan att lära sig hur man kan gå tillbaka till (checka ut) tidigare versioner.
 
+## Några egenskaper hos git
+
+### Tillåter icke linjärt skapande
+
+Dvs att man kan jobba på olika delar samtidigt. Du jobbar på en fil som berör ett visst samnahang av det du vill säga med ditt projekt. Så får du en idee om nått du vill säga om ett helt annat samanhang. Då kan du spara det du höll på med börja jobab med en nya ideen och sedan problem fritt återgå til det du höll på med.
+
+### Simultan/paralllel utveckling
+
+Flera kan samarbeta på ett dokument utan att riskera att skiva över varandras bidrag.
+
+### Gör det väldigt svårt att förlora material som en gång sparats in en version.
+
 ## Github
 
-Github är en website med den huvudsakliga funktionen att dela versionskontrollerade project över internet.
+Github är en website med den huvudsakliga funktionen att dela versionskontrollerade projekt över internet.

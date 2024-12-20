@@ -1,5 +1,15 @@
 # Vad är ett bioinformatiskt arbetsflöde?
 
+För program för analys av sekvenseringsdata har det alltid funnits två huvudsakliga alternativ. Det ena har varit att kommersiella programvaror där utvecklingen sker inom ett företag, gärna det företag som står för sekvenserings utrustningen, där utvecklarna får betalt för sitt utvecklingsarbete. Det andra har varit att forskare har utvecklat program för egen räknings och sedan gjort dem tillgänglig för resten av världen under en licens som innebär att de kan användas gratis. Gratisprogrammet tenderar att vara små och utföra enskilda uppgifter och har genererats i stora mängder och ofta så väljs ett fåtal ut efter benchmarkingstudier. Man får då ett antal smaå progaram som utför varje enskild uppgift väldigt bra, men som måste sättas ihop i en kedja av program, ett bioinformatiskt arbetsföde, för att utföra hela analysuppgiften. Från sekvenserignsoutput till annoterade varianter som är kalra för tolkning. De förstnämnda programmen tenderar att vara monolitiska peka och klick program utan någon större möjlighet för användarna nedströms att se vad som pågår under huven. Användaren får garantier av företaget att programmet gör det som efterfrågas, programmet ges input och genererar output.
+
+Det att sätta ihop små program som utför enskilda uppgifter på ett bra eller tom ulitmat sätt har länga varit princip tillämpad i Unix/Linux miljön och visat sig vaara ett framgångsrecept av många olika anledningar. En av dem är att det lämpar sig för ostrukturerat samamrbeta som det ofta är frågan om utanför en företags miljö. Det har med stör sannolikhet format ideen om sättat som bioinformatiska gratis programvaror sammanfogas till större så kallde arbetsföden eller pipelines.
+
+Sekvensdata för ett human genome tar stor plats på en hårddisk. För att aligna shortread sekvenser från ett helt mänskligt DNA så krävas mycket RAM minne och stor processor kraft och parallel processering är nödvändig. Hårdvaran som lämpar sig för analys av mänskliga helgenom sekvenser framförallt om man förväntar sig analys av många personers DNA per tidsenheet är vad som kallas HPC eller cloud.
+
+Nog för att pipelines har fördelar men de kommer också med utmaningar.
+
+Programmerings arbetsflöden spelar en stor roll för forskings generellt för LifeScence specifikt och ser ut att komma att spela en central roll för Precisions Diagnostik, lokalt, nationellt och internationellt
+
 ## Exempel från Sällsynta diagnoser - Del i ett större arbetsflöde
 
 Här visas en schematisering av ett arbetsflöde på PL-rd. Schematiskeringen är förenklad och framför allt i det bioinformatiska flöden så har saker som tex identifiering av kopietalsförändringar utelämnats.

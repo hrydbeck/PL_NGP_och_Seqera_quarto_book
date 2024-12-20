@@ -1,0 +1,15 @@
+# Länkar till online bilder presenaton
+
+HPC-schematic.png
+
+<https://wvuhpc.github.io/Introduction-HPC/aio/index.html>
+
+## Git ett system för versionskontrollering
+
+<https://www.neonscience.org/resources/learning-hub/tutorials/github-git-add>
+
+![](images\git_1.png)
+
+<https://images.app.goo.gl/ERfAufK2HQMuXEkn9>
+
+![](images\github_1.png)

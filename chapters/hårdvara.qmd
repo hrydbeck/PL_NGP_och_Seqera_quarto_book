@@ -18,7 +18,7 @@ Det som är genomgående för mjukvaran är att de erbjuder möjligheten att for
 
 -   Hur mycket datorkraft man vill ta från HPCn
 
-### Kompeneter
+### Komponenter
 
 #### Beräkning
 

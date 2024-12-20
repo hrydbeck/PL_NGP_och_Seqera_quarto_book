@@ -6,6 +6,14 @@ Nu skall vi prata om arbetsflödes hanteringsprogram och om hur de kan komma til
 
 Den här boken är skriven med "Quarto boo"k. This is a Quarto book. För att lära mer om Quarto books kolla på <https://quarto.org/docs/books>.
 
+## Blir många bilder
+
+Jag har ritat många diagram här fritt tagna ut fantasin. Eftersom det är så många (nya) begrepp som presenteras så tror jag det underlättar om man kan knyta ihop dem i mentala modellr. Mina diagram och bilder är ett försök att underllätta den processen.
+
+## Svenska
+
+jag försöker göra presenationen på svenska. Det fungera bra när man diskuterar organisationer etc men ibland finns mej veterligen inga bra motsvarande svenska or. Då får vi slå över.
+
 ## Useful links
 
 https://alexd106.github.io/intro2R/Github_intro.html#Option_2\_-\_RStudio_first
@@ -19,3 +27,23 @@ https://alexd106.github.io/intro2R/Github_intro.html#Option_2\_-\_RStudio_first
 https://github.com/GuangchuangYu/hexSticker
 
 Is there a package to plot multiple stickers??
+
+
+## Disposition
+
+### PLs organisatoriska sammanhang; samarbetspartners/finansiärer på
+- Sverige nivå (GMS)
+- EU nivå
+
+Var pengarna kommer ifrån till GMS?
+Vilka är projekten?
+
+### Rutinmässig processering av WGS data lämpar sig för HPC/moln miljör
+
+Med åtkomstmöjlighet tillfällig stor datorkraft och flera användare.
+
+###
+
+### PL - reproducerbara arbetsflöden
+
+Utveckla storskaligt, genom friviligt globalt kollektivt sammarbete över internet, först små analytiska program och sedan kedjor av dem sammanlänkade genom den data som de genererar respektive konsumerar så att det går att automatiskera processeringen från rå sekvenserigndata till tolkningsbara resultat i ett allomfattande arbetsflöde. Arbetsflödet skall kunna köras på vilken beräknings platform som helst som är kraftfull nog att hantera datan. Det betyder oftast en server, ett HPC eller en molnmiljö oberoende av operative system, jobschemaläggare (som blir relevant i för HPCs) eller olika molnmiljöer som tex AWS eller Microsoft Azure. Arbetsflödet skall vara reproducerbart vilket innebär att varje version som tas i bruk måste finns sparat och dokumenterat för senare bruk. Det att program är utvecklade i olika programmeringsspråk och i olika operativ system och versioner av miljöer skall inte försvåra sammanlänkingen av dem.

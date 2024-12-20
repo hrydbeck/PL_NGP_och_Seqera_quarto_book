@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 0827c904-4f64-4b93-83fa-fb0af7b29e3a
+      url: 'https://halfdan.quarto.pub/test'

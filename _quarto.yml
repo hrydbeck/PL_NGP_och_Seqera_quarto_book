@@ -31,6 +31,8 @@ book:
     - chapters/konfigurera_köra_och_debugga_nf_core_raredisease_arbetsfödet_från_kommando_linjen_på_en_HPC.qmd
     - chapters/om_Seqera_igen.qmd
     - chapters/konfigurera_köra_och debugga nf_core_raredisease_arbetsfödet_på_Seqera.qmd
+    - chapters/vill_du_veta_mer.qmd
+    - chapters/länkar_online_bilder.qmd
     - references.qmd
 
 bibliography: references.bib
@@ -38,8 +40,6 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
-  pdf:
-    documentclass: scrreprt
 
 editor: visual
 

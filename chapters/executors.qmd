@@ -14,12 +14,13 @@ SLURMs primära funktion är att allokera resurser inom klustret till dess anvä
 
 You can submit a job script to the Slurm queue system from the login node with:
 
-```
+```         
 sbatch mitt_slurm_jobb.sh
 ```
 
 mitt_slurm_jobb.sh
-```
+
+```         
 #!/bin/bash -l
 # The -l above is required to get the full environment with modules
 
@@ -49,7 +50,7 @@ srun ./myexe > my_output_file
 
 Running Bowtie
 
-```
+```         
 #!/bin/bash
 #SBATCH --job-name=bowtie2_example
 #SBATCH --cpus-per-task=8
@@ -76,7 +77,7 @@ bowtie2 -p $SLURM_CPUS_PER_TASK -x lambda_virus -1 ./example/reads/reads_1.fq -2
 
 # Local alignment example
 bowtie2 -p $SLURM_CPUS_PER_TASK --local -x lambda_virus -U ./example/reads/longreads.fq -S align3.sam
-``` 
+```
 
 ## Kommersiell
 
@@ -84,13 +85,13 @@ bowtie2 -p $SLURM_CPUS_PER_TASK --local -x lambda_virus -U ./example/reads/longr
 
 #### Submitta ett jobb
 
-```
+```         
 qsub -V -b n -cwd mitt_gridengine_jobb.sh
 ```
 
 mitt_gridengine_jobb.sh
 
-```
+```         
 #!/bin/bash
                     #$ -N run_bowtie2
                     #$ -cwd
