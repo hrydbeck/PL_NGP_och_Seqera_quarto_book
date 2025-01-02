@@ -16,3 +16,8 @@ Här ses PL isolerat utan de servade verskamhetsområdena.PL består av tre enhe
 -   Sekvenseringsmaskiner
     -   (Presentationen kommer att begränsa sig till att se på PL utifrån ett sekvenserings perspektiv, eftersm det är det som jag jobbar med.).
 -   Datornätverk
+
+<!-- -->
+
+-   Tre enheter som servar tre verksamhetsområden
+-   Varje enhet utför av olika workflows om kan delas in i olika segment. Tex huruvida det rör sig fysiskt laboratoriearbete eller data analys.

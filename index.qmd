@@ -2,6 +2,8 @@
 
 Alterative titel: Bioinformatik på PL?
 
+Varför denna presentaton? För närvarandsa upplevar jag glappet mellan det jag jobbar med och skall försöka beskriva i den här presenationen och de ni jobbar som ganska stort. Beröringsytorna kan upplvanas som ganska få. Den här presenntione är ett försöka på att börja överbygga det glappet och att skapa fler beröringsytor så att bioinforatik kan bli ett samtalämne på kafferasterna. Presentationen är också ett sätt för mig testa min försålse av organistionen och olika koncept gentemot den hos er som är mer erfarna och kanske har met intirkata modellar av olika delar och kanske har modeller som formats fåna andra perspektiv. Därför så ser ag den här presentationen som en möjlighet att nöta våra olika uppfattningar om vad PL är mot varandra men också ett sett att identifiera gemensaam intressen och potensielle nya presentationor som fördjupar sig i det som ny bara introduceras översiktligt i en slide eller så.
+
 Nu skall vi prata om arbetsflödes hanteringsprogram och om hur de kan komma till nytta för oss på Precisions medicinskt laboratorium
 
 Den här boken är skriven med "Quarto boo"k. This is a Quarto book. För att lära mer om Quarto books kolla på <https://quarto.org/docs/books>.
@@ -28,21 +30,20 @@ https://github.com/GuangchuangYu/hexSticker
 
 Is there a package to plot multiple stickers??
 
-
 ## Disposition
 
 ### PLs organisatoriska sammanhang; samarbetspartners/finansiärer på
-- Sverige nivå (GMS)
-- EU nivå
 
-Var pengarna kommer ifrån till GMS?
-Vilka är projekten?
+-   Sverige nivå (GMS)
+-   EU nivå
+
+Var pengarna kommer ifrån till GMS? Vilka är projekten?
 
 ### Rutinmässig processering av WGS data lämpar sig för HPC/moln miljör
 
 Med åtkomstmöjlighet tillfällig stor datorkraft och flera användare.
 
-###
+### 
 
 ### PL - reproducerbara arbetsflöden
 
