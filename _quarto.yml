@@ -10,6 +10,8 @@ book:
     - chapters/vad_är_PL.qmd
     - chapters/PL_ingår_i_ett_nätverk.qmd
     - chapters/vad_är_NGP.qmd
+    - chapters/GMS_och_vinnova.qmd
+    - chapters/upplastning_av_data_NGP.qmd
     - chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.qmd
     - chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.qmd
     - chapters/vad_är_Seqera.qmd

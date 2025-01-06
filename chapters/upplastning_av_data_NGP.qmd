@@ -1,0 +1,11 @@
+# Upplastning av data NGP
+
+
+Variant data och klinisk information kan användas för att att besvara andra frågor. Särksilt om den slås samman med fler dataset av sama slag så att statistiks styrka ökas.
+
+
+
+## Retrospektivt projekt
+
+## Prospektivt projekt
+
