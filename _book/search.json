@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "PL, NGP och Seqera",
     "section": "",
-    "text": "Första sliden\nAlterative titel: Bioinformatik på PL?\nVarför denna presentaton? För närvarandsa upplevar jag glappet mellan det jag jobbar med och skall försöka beskriva i den här presenationen och de ni jobbar som ganska stort. Beröringsytorna kan upplvanas som ganska få. Den här presenntione är ett försöka på att börja överbygga det glappet och att skapa fler beröringsytor så att bioinforatik kan bli ett samtalämne på kafferasterna. Presentationen är också ett sätt för mig testa min försålse av organistionen och olika koncept gentemot den hos er som är mer erfarna och kanske har met intirkata modellar av olika delar och kanske har modeller som formats fåna andra perspektiv. Därför så ser ag den här presentationen som en möjlighet att nöta våra olika uppfattningar om vad PL är mot varandra men också ett sett att identifiera gemensaam intressen och potensielle nya presentationor som fördjupar sig i det som ny bara introduceras översiktligt i en slide eller så.\nNu skall vi prata om arbetsflödes hanteringsprogram och om hur de kan komma till nytta för oss på Precisions medicinskt laboratorium\nDen här boken är skriven med “Quarto boo”k. This is a Quarto book. För att lära mer om Quarto books kolla på https://quarto.org/docs/books.",
+    "text": "Första sliden\nAlterative titel: Bioinformatik på PL?\nVarför denna presentation? Förnärvarande upplever jag glappet mellan det jag jobbar med och skall försöka beskriva i den här presenationen och de ni jobbar som ganska stort. Beröringsytorna kan upplevas som ganska få. Den här presentation är ett försöka på att börja överbygga det glappet och att skapa fler beröringsytor så att bioinformatik kan bli ett samtalsämne på kafferasterna. Presentationen är också ett sätt för mig testa min förståelse av organisationen och olika koncept gentemot den hos er som är mer erfarna och kanske har mer intrikata modeller av olika delar och kanske har modeller som formats fåna andra perspektiv. Därför så ser jag den här presentationen som en möjlighet att nöta våra olika uppfattningar om vad PL är mot varandra men också ett sett att identifiera gemensam intressen och potentielle nya presentationer som fördjupar sig i det som ny bara introduceras översiktligt i en slide eller så. En del av matrialet kan tänaks vara använbart också för presentation av PL externt och tanken är att den skall kunna återanvändas och modifieras av den som vill.\nNu skall vi prata om arbetsflödes hanteringsprogram och om hur de kan komma till nytta för oss på Precisions medicinskt laboratorium\nDen här boken är skriven med “Quarto boo”k. This is a Quarto book. För att lära mer om Quarto books kolla på https://quarto.org/docs/books.",
     "crumbs": [
       "Första sliden"
     ]
@@ -14,7 +14,7 @@
     "href": "index.html#blir-många-bilder",
     "title": "PL, NGP och Seqera",
     "section": "Blir många bilder",
-    "text": "Blir många bilder\nJag har ritat många diagram här fritt tagna ut fantasin. Eftersom det är så många (nya) begrepp som presenteras så tror jag det underlättar om man kan knyta ihop dem i mentala modellr. Mina diagram och bilder är ett försök att underllätta den processen.",
+    "text": "Blir många bilder\nJag har ritat många diagram här fritt tagna ut fantasin. Eftersom det är så många (nya) begrepp som presenteras så tror jag det underlättar om man kan knyta ihop dem i mentala modeller. Mina diagram och bilder är ett försök att underlätta den processen.",
     "crumbs": [
       "Första sliden"
     ]
@@ -24,7 +24,7 @@
     "href": "index.html#svenska",
     "title": "PL, NGP och Seqera",
     "section": "Svenska",
-    "text": "Svenska\njag försöker göra presenationen på svenska. Det fungera bra när man diskuterar organisationer etc men ibland finns mej veterligen inga bra motsvarande svenska or. Då får vi slå över.",
+    "text": "Svenska\nJag försöker göra presentationen på svenska. Det fungera bra när man diskuterar organisationer etc men ibland finns mig veterligen inga bra motsvarande svenska ord. Då får vi slå över.",
     "crumbs": [
       "Första sliden"
     ]
@@ -54,7 +54,7 @@
     "href": "index.html#disposition",
     "title": "PL, NGP och Seqera",
     "section": "Disposition",
-    "text": "Disposition\n\nPLs organisatoriska sammanhang; samarbetspartners/finansiärer på\n\nSverige nivå (GMS)\nEU nivå\n\nVar pengarna kommer ifrån till GMS? Vilka är projekten?\n\n\nRutinmässig processering av WGS data lämpar sig för HPC/moln miljör\nMed åtkomstmöjlighet tillfällig stor datorkraft och flera användare.\n\n\n\n\n\nPL - reproducerbara arbetsflöden\nUtveckla storskaligt, genom friviligt globalt kollektivt sammarbete över internet, först små analytiska program och sedan kedjor av dem sammanlänkade genom den data som de genererar respektive konsumerar så att det går att automatiskera processeringen från rå sekvenserigndata till tolkningsbara resultat i ett allomfattande arbetsflöde. Arbetsflödet skall kunna köras på vilken beräknings platform som helst som är kraftfull nog att hantera datan. Det betyder oftast en server, ett HPC eller en molnmiljö oberoende av operative system, jobschemaläggare (som blir relevant i för HPCs) eller olika molnmiljöer som tex AWS eller Microsoft Azure. Arbetsflödet skall vara reproducerbart vilket innebär att varje version som tas i bruk måste finns sparat och dokumenterat för senare bruk. Det att program är utvecklade i olika programmeringsspråk och i olika operativ system och versioner av miljöer skall inte försvåra sammanlänkingen av dem.",
+    "text": "Disposition\n\nPLs organisatoriska sammanhang; samarbetspartners/finansiärer på\n\nSverige nivå (GMS)\nEU nivå\n\nVar pengarna kommer ifrån till GMS? Vilka är projekten?\n\n\nRutinmässig processering av WGS data lämpar sig för HPC/moln miljör\nMed åtkomstmöjlighet tillfällig stor datorkraft och flera användare.\n\n\n\n\n\nPL - reproducerbara arbetsflöden\nUtveckla storskaligt, genom frivilligt globalt kollektivt samarbete över internet, först små analytiska program och sedan kedjor av dem sammanlänkade genom den data som de genererar respektive konsumerar så att det går att automatisera processeringen från rå sekvenserings data till tolkningsbara resultat i ett allomfattande arbetsflöde. Arbetsflödet skall kunna köras på vilken beräknings platform som helst som är kraftfull nog att hantera datan. Det betyder oftast en server, ett HPC eller en molnmiljö oberoende av operative system, jobschemaläggare (som blir relevant i för HPCs) eller olika molnmiljöer som tex AWS eller Microsoft Azure. Arbetsflödet skall vara reproducerbart vilket innebär att varje version som tas i bruk måste finns sparat och dokumenterat för senare bruk. Det att program är utvecklade i olika programmeringsspråk och i olika operativ system och versioner av miljöer skall inte försvåra sammankopplingen av dem.",
     "crumbs": [
       "Första sliden"
     ]
@@ -712,11 +712,11 @@
   {
     "objectID": "chapters/GMS_och_vinnova.html",
     "href": "chapters/GMS_och_vinnova.html",
-    "title": "4  Upplastning av data NGP",
+    "title": "4  GMS (Vinnova och Swelife)",
     "section": "",
-    "text": "4.1 Retrospektivt projekt",
+    "text": "4.1 Två huvudsakliga projekt är viktiga för PL.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Upplastning av data NGP</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GMS (Vinnova och Swelife)</span>"
     ]
   },
   {
@@ -747,6 +747,46 @@
     "text": "5.2 Prospektivt projekt",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Upplastning av data NGP</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/GMS_och_vinnova.html#två-huvudsakliga-projekt-är-viktiga-för-pl.",
+    "href": "chapters/GMS_och_vinnova.html#två-huvudsakliga-projekt-är-viktiga-för-pl.",
+    "title": "4  GMS (Vinnova och Swelife)",
+    "section": "",
+    "text": "4.1.1 Systemdemonstrator för nationellt tillgängliggörande av omikdata (oktober 2023 - september 2027)\nhttps://www.vinnova.se/p/systemdemonstrator-for-nationellt-tillgangliggorande-av-omikdata-for-vard-forskning-och-innovation/\nhttps://genomicmedicine.se/systemdemonstrator-for-nationellt-tillgangliggorande-av-omikdata-for-vard-forskning-och-innovation-2/\n\n\n4.1.2 Skalbar nationell datadelning av omikdata för vård, forsking och innovation\nSwelife\nVinnova",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GMS (Vinnova och Swelife)</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/GMS_och_vinnova.html#arbetspaket",
+    "href": "chapters/GMS_och_vinnova.html#arbetspaket",
+    "title": "4  GMS (Vinnova och Swelife)",
+    "section": "4.2 Arbetspaket",
+    "text": "4.2 Arbetspaket\nDetta projekt omfattas av sex arbetspaketen, varav jag deltar i två, och PL ersätts för det, listast också här:\n\nAP1:Organisation, koordinering och internationellt engagemang . Organisationen av projektet, förankring gentemot externa aktörer, projektparter och internt inom GMS samt deltagande i EU-projekt kring delning av hälsodata. Ansvarig: Per Sikora, Annelie Lago, Anders Edsjö, Mirja Carlsson Möller\nAP2: Automatisk och retrospektiv datainsamling från GMC Samordnat utvecklingsarbete på sju GMC säkerställer automatiska lösningar för insamling av metadata från lokala system och vidarebefordran in i NGP tillsammans med genomikdata. En ettårig sprint med extra resurser för att retrospektivt samla in data genererad på GMC:er mellan 2019-2023. ​Ansvarig: René Kadén\n\n-AP3: Datadelning och integration mellan GMS och Fohm Etablering av en krypterad länk mellan GENSAM-servrar på Fohm och NGP plattformen inom VGR. Data och metadata skall laddas upp till GENSAM från NGP. GENSAM ska kunna söka och hämta data baserat på accessrättigheter samt leverera data till individuella regioner via NGP. Ansvarig: Carlo Berg\n\nAP4: Delning av hälsodata mellan NGP och DDLS Inom ramen för skalbara pilotprojekt etableras koppling mellan befintlig infrastruktur inom NGP med mottagande strukturer under uppbyggnad inom DDLS precisionsmedicinsnod. Detta för tillgängliggörande och överföring av hälsodata inom etikgodkända forskningsstudier. Systemet säkerställer att data endast delas från studier där datadelning godkänts av sjukvårdshuvudman och till de forskare godkännandet gäller. När lösningar utvecklats används dessa som mall för lösningar inom nya områden. Pilotprojekten utvecklar lösningar för datadelning inom de två områden där behovet idag är störst och de konkreta pilotprojekten väljs utifrån genomförbarhet och möjlighet att initiera arbetet utan dröjsmål. Arbetet kommer att kopplas till redan pågående och separat finansierat arbete med elektroniska lösningar för informerat samtycke som sker inom GMS. ​Ansvarig: Janne Lehtiö\nAP5: Integration och informationsdelning mellan NGP, IPÖ och kvalitetsregistren Utveckling av en genomikmodul inom IPÖ samt datadelning från NGP till översikten i realtid inför behandlingsbeslut. Utvecklad genomikmodul ska kunna användas i separata kvalitetsregister i framtiden. Ansvarig: Eva-Lena Engberg\nAP6: Inklusion i kliniska prövningar Samarbete mellan NGP och Lif där prioriterade aktiviteter för att öka inklusion i kliniska prövningar genomförs. Feasibility-portalen möjliggör att med federerade beräkningar uppskatta antalet patienter som kan inkluderas i en tänkt klinisk studie. Standardiserade rapporter kring molekylär biomarkörstatus vid olika cancerformer som bakgrund både till kliniska studier och för hälsoekonomiska beräkningar inför införande av nya målinriktade behandlingar. Ett system för flaggning av inklusionsgrundande molekylära förändringar skulle kunna öka den löpande inklusionen i precisonsmedicinska kliniska studier. Uppgifter om eventuella möjliga studier och kontaktuppgifter till dessa går till behandlande läkare för att inte äventyra sekretess. Alla aktiviteter bygger på federerad behandling av rutinmässigt insamlade av genomikdata. Portalen och standardiserade rapporter ger avidentifierad data. Identifiering av patienter aktuella för kliniska studier kräver återkoppling på personnivå till ansvarig läkare. Ansvarig: Anders Edsjö, Therese Fagerqvist, Maria Johansson",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GMS (Vinnova och Swelife)</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/GMS_och_vinnova.html#vinnova",
+    "href": "chapters/GMS_och_vinnova.html#vinnova",
+    "title": "4  GMS (Vinnova och Swelife)",
+    "section": "4.3 Vinnova",
+    "text": "4.3 Vinnova\nVinnova är Sveriges innovationsmyndighet\nVinnova är en statlig myndighet under Klimat- och näringslivs­departementet och nationell kontaktmyndighet för EU:s ramprogram för forskning och innovation. Vi är också regeringens expertmyndighet inom det innovationspolitiska området.\nVi är cirka 240 medarbetare\n\n4.3.1 Strategiska innovationsprogram: Samarbete för hållbar innovation\nVinnova, Energimyndigheten och Formas finansierar sjutton strategiska innovationsprogram. Genom samverkan inom områden som är strategiskt viktiga för Sverige skapas förutsättningar för hållbara lösningar på globala samhällsutmaningar och en ökad internationell konkurrenskraft. Inom programmen utvecklar företag, akademi och organisationer tillsammans framtidens hållbara produkter och tjänster. Alla som kan bidra till utvecklingen är välkomna att söka finansiering.\n\n4.3.1.1 Swelife\nhttps://www.vinnova.se/m/strategiska-innovationsprogram/",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GMS (Vinnova och Swelife)</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/GMS_och_vinnova.html#ap2",
+    "href": "chapters/GMS_och_vinnova.html#ap2",
+    "title": "4  GMS (Vinnova och Swelife)",
+    "section": "4.4 AP2",
+    "text": "4.4 AP2\n\n4.4.1 Prospektivt projekt\n\n\n4.4.2 Retrospektivt",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GMS (Vinnova och Swelife)</span>"
     ]
   }
 ]

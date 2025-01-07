@@ -2,7 +2,7 @@
 
 Alterative titel: Bioinformatik på PL?
 
-Varför denna presentaton? För närvarandsa upplevar jag glappet mellan det jag jobbar med och skall försöka beskriva i den här presenationen och de ni jobbar som ganska stort. Beröringsytorna kan upplvanas som ganska få. Den här presenntione är ett försöka på att börja överbygga det glappet och att skapa fler beröringsytor så att bioinforatik kan bli ett samtalämne på kafferasterna. Presentationen är också ett sätt för mig testa min försålse av organistionen och olika koncept gentemot den hos er som är mer erfarna och kanske har met intirkata modellar av olika delar och kanske har modeller som formats fåna andra perspektiv. Därför så ser ag den här presentationen som en möjlighet att nöta våra olika uppfattningar om vad PL är mot varandra men också ett sett att identifiera gemensaam intressen och potensielle nya presentationor som fördjupar sig i det som ny bara introduceras översiktligt i en slide eller så.
+Varför denna presentation? Förnärvarande upplever jag glappet mellan det jag jobbar med och skall försöka beskriva i den här presenationen och de ni jobbar som ganska stort. Beröringsytorna kan upplevas som ganska få. Den här presentation är ett försöka på att börja överbygga det glappet och att skapa fler beröringsytor så att bioinformatik kan bli ett samtalsämne på kafferasterna. Presentationen är också ett sätt för mig testa min förståelse av organisationen och olika koncept gentemot den hos er som är mer erfarna och kanske har mer intrikata modeller av olika delar och kanske har modeller som formats fåna andra perspektiv. Därför så ser jag den här presentationen som en möjlighet att nöta våra olika uppfattningar om vad PL är mot varandra men också ett sett att identifiera gemensam intressen och potentielle nya presentationer som fördjupar sig i det som ny bara introduceras översiktligt i en slide eller så. En del av matrialet kan tänaks vara använbart också för presentation av PL externt och tanken är att den skall kunna återanvändas och modifieras av den som vill.
 
 Nu skall vi prata om arbetsflödes hanteringsprogram och om hur de kan komma till nytta för oss på Precisions medicinskt laboratorium
 
@@ -10,11 +10,11 @@ Den här boken är skriven med "Quarto boo"k. This is a Quarto book. För att l�
 
 ## Blir många bilder
 
-Jag har ritat många diagram här fritt tagna ut fantasin. Eftersom det är så många (nya) begrepp som presenteras så tror jag det underlättar om man kan knyta ihop dem i mentala modellr. Mina diagram och bilder är ett försök att underllätta den processen.
+Jag har ritat många diagram här fritt tagna ut fantasin. Eftersom det är så många (nya) begrepp som presenteras så tror jag det underlättar om man kan knyta ihop dem i mentala modeller. Mina diagram och bilder är ett försök att underlätta den processen.
 
 ## Svenska
 
-jag försöker göra presenationen på svenska. Det fungera bra när man diskuterar organisationer etc men ibland finns mej veterligen inga bra motsvarande svenska or. Då får vi slå över.
+Jag försöker göra presentationen på svenska. Det fungera bra när man diskuterar organisationer etc men ibland finns mig veterligen inga bra motsvarande svenska ord. Då får vi slå över.
 
 ## Useful links
 
@@ -47,4 +47,4 @@ Med åtkomstmöjlighet tillfällig stor datorkraft och flera användare.
 
 ### PL - reproducerbara arbetsflöden
 
-Utveckla storskaligt, genom friviligt globalt kollektivt sammarbete över internet, först små analytiska program och sedan kedjor av dem sammanlänkade genom den data som de genererar respektive konsumerar så att det går att automatiskera processeringen från rå sekvenserigndata till tolkningsbara resultat i ett allomfattande arbetsflöde. Arbetsflödet skall kunna köras på vilken beräknings platform som helst som är kraftfull nog att hantera datan. Det betyder oftast en server, ett HPC eller en molnmiljö oberoende av operative system, jobschemaläggare (som blir relevant i för HPCs) eller olika molnmiljöer som tex AWS eller Microsoft Azure. Arbetsflödet skall vara reproducerbart vilket innebär att varje version som tas i bruk måste finns sparat och dokumenterat för senare bruk. Det att program är utvecklade i olika programmeringsspråk och i olika operativ system och versioner av miljöer skall inte försvåra sammanlänkingen av dem.
+Utveckla storskaligt, genom frivilligt globalt kollektivt samarbete över internet, först små analytiska program och sedan kedjor av dem sammanlänkade genom den data som de genererar respektive konsumerar så att det går att automatisera processeringen från rå sekvenserings data till tolkningsbara resultat i ett allomfattande arbetsflöde. Arbetsflödet skall kunna köras på vilken beräknings platform som helst som är kraftfull nog att hantera datan. Det betyder oftast en server, ett HPC eller en molnmiljö oberoende av operative system, jobschemaläggare (som blir relevant i för HPCs) eller olika molnmiljöer som tex AWS eller Microsoft Azure. Arbetsflödet skall vara reproducerbart vilket innebär att varje version som tas i bruk måste finns sparat och dokumenterat för senare bruk. Det att program är utvecklade i olika programmeringsspråk och i olika operativ system och versioner av miljöer skall inte försvåra sammankopplingen av dem.
