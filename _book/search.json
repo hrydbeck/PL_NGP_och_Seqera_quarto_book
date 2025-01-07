@@ -788,5 +788,35 @@
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>GMS (Vinnova och Swelife)</span>"
     ]
+  },
+  {
+    "objectID": "chapters/centrala_uppgifter.html",
+    "href": "chapters/centrala_uppgifter.html",
+    "title": "1  Centrala uppgifter",
+    "section": "",
+    "text": "Lasta upp sekvensdata från hårdiskar och klinisk data från LIS till NGP\n\nDet som finns lagrat\nAutomatik för framtiden\n\nFå på plats ett bioinformatiskt arbetsflöde för identifiera och annotera genetiska varianter utifrån helgenoms sekvensdata.\n\nMed test-data på Dardell\nMed vår data på NGP/GRID\n\nHjälpa till som bioinformatiker\n\nMikrobilellt övervaknings verktyg på NGP",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Centrala uppgifter</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/PL_sammanhang_och_funktion_inom_RO.html",
+    "href": "chapters/PL_sammanhang_och_funktion_inom_RO.html",
+    "title": "2  PL sammanhang och funktion inom RÖ",
+    "section": "",
+    "text": "2.1 PL-NGS\nHär ses PL isolerat utan de servade verskamhetsområdena.PL består av tre enheter som vardera servar de tre versamhetsområdena. Hexagonen i kärnan representerar det som de har gemensamt:",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>PL sammanhang och funktion inom RÖ</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/PL_sammanhang_och_funktion_inom_RO.html#pl-ngs",
+    "href": "chapters/PL_sammanhang_och_funktion_inom_RO.html#pl-ngs",
+    "title": "2  PL sammanhang och funktion inom RÖ",
+    "section": "",
+    "text": "Ledning\nSekvenseringsmaskiner\n\n(Presentationen kommer att begränsa sig till att se på PL utifrån ett sekvenserings perspektiv, eftersm det är det som jag jobbar med.).\n\nDatornätverk\n\n\n\nTre enheter som servar tre verksamhetsområden\nVarje enhet utför av olika workflows om kan delas in i olika segment. Tex huruvida det rör sig fysiskt laboratoriearbete eller data analys.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>PL sammanhang och funktion inom RÖ</span>"
+    ]
   }
 ]

@@ -7,7 +7,9 @@ book:
   date: "2024-10-24"
   chapters:
     - index.qmd
-    - chapters/vad_är_PL.qmd
+    - chapters/centrala_uppgifter.qmd
+    - chapters/PL_sammanhang_och_funktion_inom_RO.qmd
+    - Sekvenserings_och_kliniks_data.qmd
     - chapters/PL_ingår_i_ett_nätverk.qmd
     - chapters/vad_är_NGP.qmd
     - chapters/GMS_och_vinnova.qmd

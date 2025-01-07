@@ -1,0 +1,10 @@
+# Centrala uppgifter
+
+-   Lasta upp sekvensdata från hårdiskar och klinisk data från LIS till NGP
+    -   Det som finns lagrat
+    -   Automatik för framtiden
+-   Få på plats ett bioinformatiskt arbetsflöde för identifiera och annotera genetiska varianter utifrån helgenoms sekvensdata.
+    -   Med test-data på Dardell
+    -   Med vår data på NGP/GRID
+-   Hjälpa till som bioinformatiker
+    -   Mikrobilellt övervaknings verktyg på NGP

@@ -1,8 +1,20 @@
-# Vad är PL?
+# PL sammanhang och funktion inom RÖ
+
+## Sammanhang
 
 Precisions medicinsk laboratorium (PL) i Linköping utför laboratorie tjänster och analys för de **tre verksamhetsområdena** Klinisk patologi, Klinisk genetik och Klinisk mikrobiologi.
 
+## Funktion
+
+### 1 In  Prov
+
+PL blir tillsänt prov och medföljande remiss från respekive område
+
+### 2 Ut Varianter...
+
 -   För Pat och klin_gen så handlar det om att PL blir till-sänt prov och medföljande remiss och i bästa fall sänder tillbaka bakomliggande genetiska varianter.
+
+### 3  och resistensgener
 
 -   För Mikro så handlar det om att man får bakterieprov och sänder tillbaka information om potentiella resistensgener och MLST varainter.
 
