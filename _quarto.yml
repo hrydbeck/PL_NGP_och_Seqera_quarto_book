@@ -9,11 +9,16 @@ book:
     - index.qmd
     - chapters/centrala_uppgifter.qmd
     - chapters/PL_sammanhang_och_funktion_inom_RO.qmd
-    - Sekvenserings_och_kliniks_data.qmd
-    - chapters/PL_ingår_i_ett_nätverk.qmd
+    - chapters/Sekvenserings_och_klinisk_data.qmd
+    - chapters/pl_ngs.qmd
+    - chapters/vad_är_ett_arbets.qmd
+    - chapters/pl_gemensamt.qmd
+    - chapters/PL_sammanhang_och_funktion_inom_GMS.qmd
     - chapters/vad_är_NGP.qmd
-    - chapters/GMS_och_vinnova.qmd
+    - chapters/vad_är_GMS.qmd
+    - chapters/vision_för_europeikst_datadelningsnätverk.qmd
     - chapters/upplastning_av_data_NGP.qmd
+    - chapters/NGP_är_tänkt_att_i_huvudsak_köra_bioinformatiska_arbetsflöden.qmd
     - chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.qmd
     - chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.qmd
     - chapters/vad_är_Seqera.qmd

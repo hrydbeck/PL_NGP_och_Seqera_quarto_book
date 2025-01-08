@@ -102,161 +102,161 @@
   {
     "objectID": "chapters/vad_är_NGP.html",
     "href": "chapters/vad_är_NGP.html",
-    "title": "3  Vad är NGP?",
+    "title": "7  Vad är NGP?",
     "section": "",
-    "text": "3.1 Tre funktionaliteter",
+    "text": "7.1 Tre funktionaliteter",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Vad är NGP?</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Vad är NGP?</span>"
     ]
   },
   {
     "objectID": "chapters/vad_är_NGP.html#tre-funktionaliteter",
     "href": "chapters/vad_är_NGP.html#tre-funktionaliteter",
-    "title": "3  Vad är NGP?",
+    "title": "7  Vad är NGP?",
     "section": "",
-    "text": "3.1.1 NGPr\nDet är hit det är tänkt att GMC-nodena skall kunna lasta upp sin data. NGPc är ett fleranvändar system. Varje GMS nod är en användare eller Tenant som det kallas i moln tjänst användbar språk. NGPC har ett data lagrings segment som är privat för varja Tenant. I tillägg så har det ett segment som är gemensamt.\n\n\n3.1.2 NGPi\nDetta är en funktinalitet som skall göra det lättare och snabbare att hitta relevant data för olika användare av systemet.\n\n\n3.1.3 NGPc\nHar kommer analys verktyg att installeras som i huvudsak kommer att utgöras av pipelines eller workflows eller bioinformatiska arbetsflöden. I sin allra enklaste definitin så är ett sådan arbetsflöde en antal program som kopplats ihop för att till tillsammans utföra uppgifter vars komplexitet gör att det inte finns enskilda program som kan utföra dem.",
+    "text": "7.1.1 NGPr\nDet är hit det är tänkt att GMC-nodena skall kunna lasta upp sin data. NGPc är ett fleranvändar system. Varje GMS nod är en användare eller Tenant som det kallas i moln tjänst användbar språk. NGPC har ett data lagrings segment som är privat för varja Tenant. I tillägg så har det ett segment som är gemensamt.\n\n\n7.1.2 NGPi\nDetta är en funktinalitet som skall göra det lättare och snabbare att hitta relevant data för olika användare av systemet.\n\n\n7.1.3 NGPc\nHar kommer analys verktyg att installeras som i huvudsak kommer att utgöras av pipelines eller workflows eller bioinformatiska arbetsflöden. I sin allra enklaste definitin så är ett sådan arbetsflöde en antal program som kopplats ihop för att till tillsammans utföra uppgifter vars komplexitet gör att det inte finns enskilda program som kan utföra dem.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Vad är NGP?</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Vad är NGP?</span>"
     ]
   },
   {
     "objectID": "chapters/vad_är_NGP.html#nytta-för-gmcerna",
     "href": "chapters/vad_är_NGP.html#nytta-för-gmcerna",
-    "title": "3  Vad är NGP?",
-    "section": "3.2 Nytta för GMCerna",
-    "text": "3.2 Nytta för GMCerna\n\nTolknignsverktyg",
+    "title": "7  Vad är NGP?",
+    "section": "7.2 Nytta för GMCerna",
+    "text": "7.2 Nytta för GMCerna\n\nTolknignsverktyg",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Vad är NGP?</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Vad är NGP?</span>"
     ]
   },
   {
     "objectID": "chapters/vad_är_NGP.html#övriga-benefaktorer",
     "href": "chapters/vad_är_NGP.html#övriga-benefaktorer",
-    "title": "3  Vad är NGP?",
-    "section": "3.3 Övriga benefaktorer",
-    "text": "3.3 Övriga benefaktorer\n\nUniversitet - DDLS\nFöretag\nMyndigheter, Fohm",
+    "title": "7  Vad är NGP?",
+    "section": "7.3 Övriga benefaktorer",
+    "text": "7.3 Övriga benefaktorer\n\nUniversitet - DDLS\nFöretag\nMyndigheter, Fohm",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Vad är NGP?</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Vad är NGP?</span>"
     ]
   },
   {
     "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html",
     "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html",
-    "title": "6  Vad är ett bioinformatiskt arbetsflöde?",
+    "title": "12  Vad är ett arbetsflöde?",
     "section": "",
-    "text": "6.1 Exempel från Sällsynta diagnoser - Del i ett större arbetsflöde\nHär visas en schematisering av ett arbetsflöde på PL-rd. Schematiskeringen är förenklad och framför allt i det bioinformatiska flöden så har saker som tex identifiering av kopietalsförändringar utelämnats.",
+    "text": "12.0.1 Den enklaste definitionen\nEn serie aktiviteter som måste till för att utföra en uppgift. Serien skall vara repeterbar.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Vad är ett bioinformatiskt arbetsflöde?</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Vad är ett arbetsflöde?</span>"
     ]
   },
   {
     "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#exempel-från-sällsynta-diagnoser---del-i-ett-större-arbetsflöde",
     "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#exempel-från-sällsynta-diagnoser---del-i-ett-större-arbetsflöde",
-    "title": "6  Vad är ett bioinformatiskt arbetsflöde?",
-    "section": "",
-    "text": "6.1.1 Manuell/fysisk del\n\nDet startar med att prov kommer in\nDNA extraheras och bibliotek prepareras och lastas på en sekvenseringsmaksin\n\n\n\n6.1.2 Bioinformatisk del\n\nSekvenseringsmaskinen skriver sekvens och kvalitetsdata data, ursprungligen ofta i nått företagsspecifikt format.\nTextfiler, sk fastq-filer, en för varje sekvenserad fragment, med sekvens och kvalitetsdata tillverkas.\nFragment-sekvens-datan filtreras och och alignas (radas upp) mot ett referensgenome\nVarianter i förhållande till referens genomet identifieras och sparas i en Variant Call File VCF.\nVarianterna annoteras med information som möjliggör efterkommande tolkning\n\n\n\n6.1.3 Samarbete människa maskin\n\nTolkning",
+    "title": "12  Vad är ett arbetsflöde?",
+    "section": "13.3 Exempel från Sällsynta diagnoser - Del i ett större arbetsflöde",
+    "text": "13.3 Exempel från Sällsynta diagnoser - Del i ett större arbetsflöde\nHär visas en schematisering av ett arbetsflöde på PL-rd. Schematiskeringen är förenklad och framför allt i det bioinformatiska flöden så har saker som tex identifiering av kopietalsförändringar utelämnats.\n\n13.3.1 Manuell/fysisk del\n\nDet startar med att prov kommer in\nDNA extraheras och bibliotek prepareras och lastas på en sekvenseringsmaskin\n\n\n\n13.3.2 Bioinformatisk del\n\nSekvenseringsmaskinen skriver sekvens och kvalitetsdata data, ursprungligen ofta i nått företagsspecifikt format.\nText filer, sk fastq-filer, en för varje sekvenserad fragment, med sekvens och kvalitetsdata tillverkas.\nFragment-sekvens-datan filtreras och och alignas (radas upp) mot ett referensgenome\nVarianter i förhållande till referens genomet identifieras och sparas i en Variant Call File VCF.\nVarianterna annoteras med information som möjliggör efterkommande tolkning\n\n\n\n13.3.3 Samarbete människa maskin\n\nTolkning",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Vad är ett bioinformatiskt arbetsflöde?</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Vad är ett arbetsflöde?</span>"
     ]
   },
   {
     "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#liknande-arbetsflöden-finns-ju-också-för-patologi-och-mikrogrupperna",
     "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#liknande-arbetsflöden-finns-ju-också-för-patologi-och-mikrogrupperna",
-    "title": "6  Vad är ett bioinformatiskt arbetsflöde?",
-    "section": "6.2 Liknande arbetsflöden finns ju också för Patologi och Mikrogrupperna",
-    "text": "6.2 Liknande arbetsflöden finns ju också för Patologi och Mikrogrupperna\nDet visade arbetsflödet skall klara helgenoms analyser vilket gör bioinformatik delen mer resurskrävande än de övriga flödena.",
+    "title": "12  Vad är ett arbetsflöde?",
+    "section": "13.4 Liknande arbetsflöden finns ju också för Patologi och Mikrogrupperna",
+    "text": "13.4 Liknande arbetsflöden finns ju också för Patologi och Mikrogrupperna\nDet visade arbetsflödet skall klara helgenoms analyser vilket gör bioinformatik delen mer resurskrävande än de övriga flödena.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Vad är ett bioinformatiskt arbetsflöde?</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Vad är ett arbetsflöde?</span>"
     ]
   },
   {
     "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#section",
     "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#section",
-    "title": "6  Vad är ett bioinformatiskt arbetsflöde?",
-    "section": "6.3 ",
-    "text": "6.3",
+    "title": "12  Vad är ett arbetsflöde?",
+    "section": "13.2 ",
+    "text": "13.2",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Vad är ett bioinformatiskt arbetsflöde?</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Vad är ett arbetsflöde?</span>"
     ]
   },
   {
     "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html",
     "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html",
-    "title": "7  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
+    "title": "13  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
     "section": "",
-    "text": "7.1 Bioinformatiska arbetsflöden behöver nån form av beräknings kraft fär att köras.",
+    "text": "13.1 Bioinformatiska arbetsflöden behöver nån form av beräknings kraft fär att köras.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
     ]
   },
   {
     "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#bioinformatiska-arbetsflöden-behöver-nån-form-av-beräknings-kraft-fär-att-köras.",
     "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#bioinformatiska-arbetsflöden-behöver-nån-form-av-beräknings-kraft-fär-att-köras.",
-    "title": "7  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
+    "title": "13  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
     "section": "",
     "text": "I huvudsak av effektiviseringssjäl/ekonomiska så sker det en stor omändring av av ekonomiska själ hur resurskrävande programmatiska uppgifter utförs. Konceptet dator och server håller på att bli förlegat ock ersätts av, HPC, molnberäkning och diverse andra begrepp. Bland annat hårdvaruutvecklingen ställer nya krav på mjukvara, och också på det området så föds kontinuerligt nya begrepp.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
     ]
   },
   {
     "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#konkurenskraftig-utveckling",
     "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#konkurenskraftig-utveckling",
-    "title": "7  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
-    "section": "7.2 Konkurenskraftig utveckling",
-    "text": "7.2 Konkurenskraftig utveckling\n\nFör att förbli konkurrenskraftigt så måste det finnas resurser för intensiv utveckling av flödet\nAv ingående program och av flödet som sådant\nKräver ett system för att hantera versioner både av flödet och av de ingående komponenterna",
+    "title": "13  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
+    "section": "13.2 Konkurenskraftig utveckling",
+    "text": "13.2 Konkurenskraftig utveckling\n\nFör att förbli konkurrenskraftigt så måste det finnas resurser för intensiv utveckling av flödet\nAv ingående program och av flödet som sådant\nKräver ett system för att hantera versioner både av flödet och av de ingående komponenterna",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
     ]
   },
   {
     "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#skall-kunna-köras-var-som-helst",
     "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#skall-kunna-köras-var-som-helst",
-    "title": "7  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
-    "section": "7.3 Skall kunna köras var som helst",
-    "text": "7.3 Skall kunna köras var som helst\n\nFrån tex forsknings- och hälso-perspektiv är det oftast önskvärt att analysresultaten är reproducerbara mellan labb.\nDet kräver bland annat att flödet skall vara så flexibelt som möjligt med tanke på vilka hårdvaru-konfigurationer som det kan köras på.\nresultaten skall bli desamma oavsett å vilket system som flödet körs på.",
+    "title": "13  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
+    "section": "13.3 Skall kunna köras var som helst",
+    "text": "13.3 Skall kunna köras var som helst\n\nFrån tex forsknings- och hälso-perspektiv är det oftast önskvärt att analysresultaten är reproducerbara mellan labb.\nDet kräver bland annat att flödet skall vara så flexibelt som möjligt med tanke på vilka hårdvaru-konfigurationer som det kan köras på.\nresultaten skall bli desamma oavsett å vilket system som flödet körs på.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
     ]
   },
   {
     "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#undvika-att-köra-om-delar-där-riktiga-resultat-redan-genererats---tar-lång-tid-att-köra",
     "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#undvika-att-köra-om-delar-där-riktiga-resultat-redan-genererats---tar-lång-tid-att-köra",
-    "title": "7  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
-    "section": "7.4 Undvika att köra om delar där riktiga resultat redan genererats - tar lång tid att köra",
-    "text": "7.4 Undvika att köra om delar där riktiga resultat redan genererats - tar lång tid att köra\n\nDärför svårt att felsöka\nTar lång tid att köra om vid stop",
+    "title": "13  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
+    "section": "13.4 Undvika att köra om delar där riktiga resultat redan genererats - tar lång tid att köra",
+    "text": "13.4 Undvika att köra om delar där riktiga resultat redan genererats - tar lång tid att köra\n\nDärför svårt att felsöka\nTar lång tid att köra om vid stop",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
     ]
   },
   {
     "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#skall-följa-lagar-och-regler-för-den-institution-som-använder-dem",
     "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#skall-följa-lagar-och-regler-för-den-institution-som-använder-dem",
-    "title": "7  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
-    "section": "7.5 Skall följa lagar och regler för den institution som använder dem",
-    "text": "7.5 Skall följa lagar och regler för den institution som använder dem\n\nIVDR",
+    "title": "13  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
+    "section": "13.5 Skall följa lagar och regler för den institution som använder dem",
+    "text": "13.5 Skall följa lagar och regler för den institution som använder dem\n\nIVDR",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
     ]
   },
   {
     "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#variablelt-behov-av-resurser-från-beräknings-platformen-runtime-management-kräver-ett-skalerbart-system",
     "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#variablelt-behov-av-resurser-från-beräknings-platformen-runtime-management-kräver-ett-skalerbart-system",
-    "title": "7  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
-    "section": "7.6 Variablelt behov av resurser från beräknings platformen (runtime management); Kräver ett skalerbart system",
-    "text": "7.6 Variablelt behov av resurser från beräknings platformen (runtime management); Kräver ett skalerbart system\n\nRAM\nHårddiskutrymme\nParallell processering (kräver många processorer/cores)",
+    "title": "13  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
+    "section": "13.6 Variablelt behov av resurser från beräknings platformen (runtime management); Kräver ett skalerbart system",
+    "text": "13.6 Variablelt behov av resurser från beräknings platformen (runtime management); Kräver ett skalerbart system\n\nRAM\nHårddiskutrymme\nParallell processering (kräver många processorer/cores)",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
     ]
   },
   {
     "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#olika-flöden-skall-kunna-köras-samtidigt-av-flera-olika-användare",
     "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_B.html#olika-flöden-skall-kunna-köras-samtidigt-av-flera-olika-användare",
-    "title": "7  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
-    "section": "7.7 Olika flöden skall kunna köras samtidigt av flera olika användare",
-    "text": "7.7 Olika flöden skall kunna köras samtidigt av flera olika användare\nHär står alternativet mellan:\n\nEn skalerbar fleranvändarmiljö\nflera enskilda småskaliga miljöer, en för varje användare\n\n\n7.7.1 Mjukvarutveckling baserad på storskaligt samarbete och system för versionskontrollering",
+    "title": "13  Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden",
+    "section": "13.7 Olika flöden skall kunna köras samtidigt av flera olika användare",
+    "text": "13.7 Olika flöden skall kunna köras samtidigt av flera olika användare\nHär står alternativet mellan:\n\nEn skalerbar fleranvändarmiljö\nflera enskilda småskaliga miljöer, en för varje användare\n\n\n13.7.1 Mjukvarutveckling baserad på storskaligt samarbete och system för versionskontrollering",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden</span>"
     ]
   },
   {
@@ -732,21 +732,21 @@
   {
     "objectID": "chapters/upplastning_av_data_NGP.html",
     "href": "chapters/upplastning_av_data_NGP.html",
-    "title": "5  Upplastning av data NGP",
+    "title": "10  Upplastning av data NGP",
     "section": "",
-    "text": "5.1 Retrospektivt projekt",
+    "text": "10.1 Retrospektivt projekt",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Upplastning av data NGP</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Upplastning av data NGP</span>"
     ]
   },
   {
     "objectID": "chapters/upplastning_av_data_NGP.html#prospektivt-projekt",
     "href": "chapters/upplastning_av_data_NGP.html#prospektivt-projekt",
-    "title": "5  Upplastning av data NGP",
-    "section": "5.2 Prospektivt projekt",
-    "text": "5.2 Prospektivt projekt",
+    "title": "10  Upplastning av data NGP",
+    "section": "10.2 Prospektivt projekt",
+    "text": "10.2 Prospektivt projekt",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Upplastning av data NGP</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Upplastning av data NGP</span>"
     ]
   },
   {
@@ -804,7 +804,7 @@
     "href": "chapters/PL_sammanhang_och_funktion_inom_RO.html",
     "title": "2  PL sammanhang och funktion inom RÖ",
     "section": "",
-    "text": "2.1 PL-NGS\nHär ses PL isolerat utan de servade verskamhetsområdena.PL består av tre enheter som vardera servar de tre versamhetsområdena. Hexagonen i kärnan representerar det som de har gemensamt:",
+    "text": "2.1 Sammanhang\nPrecisions medicinsk laboratorium (PL) i Linköping utför laboratorie tjänster och analys för de tre verksamhetsområdena Klinisk patologi, Klinisk genetik och Klinisk mikrobiologi.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>PL sammanhang och funktion inom RÖ</span>"
     ]
@@ -813,10 +813,190 @@
     "objectID": "chapters/PL_sammanhang_och_funktion_inom_RO.html#pl-ngs",
     "href": "chapters/PL_sammanhang_och_funktion_inom_RO.html#pl-ngs",
     "title": "2  PL sammanhang och funktion inom RÖ",
-    "section": "",
-    "text": "Ledning\nSekvenseringsmaskiner\n\n(Presentationen kommer att begränsa sig till att se på PL utifrån ett sekvenserings perspektiv, eftersm det är det som jag jobbar med.).\n\nDatornätverk\n\n\n\nTre enheter som servar tre verksamhetsområden\nVarje enhet utför av olika workflows om kan delas in i olika segment. Tex huruvida det rör sig fysiskt laboratoriearbete eller data analys.",
+    "section": "2.3 PL-NGS",
+    "text": "2.3 PL-NGS\nHär ses PL isolerat utan de servade verskamhetsområdena.PL består av tre enheter som vardera servar de tre versamhetsområdena. Hexagonen i kärnan representerar det som de har gemensamt:\n\nLedning\nSekvenseringsmaskiner\n\n(Presentationen kommer att begränsa sig till att se på PL utifrån ett sekvenserings perspektiv, eftersm det är det som jag jobbar med.).\n\nDatornätverk\n\n\n\nTre enheter som servar tre verksamhetsområden\nVarje enhet utför av olika workflows om kan delas in i olika segment. Tex huruvida det rör sig fysiskt laboratoriearbete eller data analys.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>PL sammanhang och funktion inom RÖ</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/PL_sammanhang_och_funktion_inom_RO.html#funktion",
+    "href": "chapters/PL_sammanhang_och_funktion_inom_RO.html#funktion",
+    "title": "2  PL sammanhang och funktion inom RÖ",
+    "section": "2.2 Funktion",
+    "text": "2.2 Funktion\n\n2.2.1 1 In Prov\nPL blir tillsänt prov och medföljande remiss från respekive område\n\n\n2.2.2 2 Ut Varianter…\n\nFör Pat och klin_gen så handlar det om att PL blir till-sänt prov och medföljande remiss och i bästa fall sänder tillbaka bakomliggande genetiska varianter.\n\n\n\n2.2.3 3 och resistensgener\n\nFör Mikro så handlar det om att man får bakterieprov och sänder tillbaka information om potentiella resistensgener och MLST varainter.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>PL sammanhang och funktion inom RÖ</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/Sekvenserings_och_kliniks_data.html",
+    "href": "chapters/Sekvenserings_och_kliniks_data.html",
+    "title": "3  Sekvenserings och klinisk data",
+    "section": "",
+    "text": "Här omnämns data som är central bland annat eftersom den har stor potential att återanvändas i GMS nätverket. Mne också eftersom det är denna som biologerna tolkar för att hitta varianter som kan tänkas orsaka diagnos (för patologi och sällsynta diagnoser).",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Sekvenserings och klinisk data</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/PL_sammanhang_och_funktion_inom_RO.html#section",
+    "href": "chapters/PL_sammanhang_och_funktion_inom_RO.html#section",
+    "title": "2  PL sammanhang och funktion inom RÖ",
+    "section": "2.3 ",
+    "text": "2.3",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>PL sammanhang och funktion inom RÖ</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/Sekvenserings_och_klinisk_data.html",
+    "href": "chapters/Sekvenserings_och_klinisk_data.html",
+    "title": "3  Sekvenserings och klinisk data",
+    "section": "",
+    "text": "Här omnämns data som är central bland annat eftersom den har stor potential att återanvändas i GMS nätverket. Mne också eftersom det är denna som biologerna tolkar för att hitta varianter som kan tänkas orsaka diagnos (för patologi och sällsynta diagnoser).",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Sekvenserings och klinisk data</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/pl_ngs.html",
+    "href": "chapters/pl_ngs.html",
+    "title": "4  PL NGS",
+    "section": "",
+    "text": "Här ses PL isolerat utan de servade verskamhetsområdena.PL består av tre enheter som vardera servar de tre versamhetsområdena. Hexagonen i kärnan representerar det som de har gemensamt:\n\nTre enheter som servar tre verksamhetsområden\nVarje enhet utför av olika workflows om kan delas in i olika segment. Tex huruvida det rör sig fysiskt laboratoriearbete eller data analys.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>PL NGS</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/pl_gemensamt.html",
+    "href": "chapters/pl_gemensamt.html",
+    "title": "5  PL gemensamt",
+    "section": "",
+    "text": "Ledning\nSekvenseringsmaskiner\n\n(Presentationen kommer att begränsa sig till att se på PL utifrån ett sekvenserings perspektiv, eftersm det är det som jag jobbar med.).\n\nDatornätverk",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>PL gemensamt</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/PL_sammanhang_och_funktion_inom_GMS.html",
+    "href": "chapters/PL_sammanhang_och_funktion_inom_GMS.html",
+    "title": "6  PL - sammanhang och funkton inom Genome Medicine Sweden (GMS)",
+    "section": "",
+    "text": "6.1 Data delning och central analys via NGP är del i ett större EU sammanhang\nMotsvarigheten till NGP på EU-nivå är förmodligen European Health Data Space (EHDS). Drivande organistino bakom är [European Healt Union](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/promoting-our-european-way-life/european-health-union_en)\nEHDS är viktigt för de är drivande i tolkning och tilläggslagstiftning kring General Data Protection Regulation (GDPR)",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>PL - sammanhang och funkton inom Genome Medicine Sweden (GMS)</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/PL_sammanhang_och_funktion_inom_GMS.html#data-delning-och-central-analys-via-ngp-är-del-i-ett-större-eu-sammanhang",
+    "href": "chapters/PL_sammanhang_och_funktion_inom_GMS.html#data-delning-och-central-analys-via-ngp-är-del-i-ett-större-eu-sammanhang",
+    "title": "6  PL - sammanhang och funkton inom Genome Medicine Sweden (GMS)",
+    "section": "",
+    "text": "6.1.1 \nPL-Linköping utgör en av sju Genomic Medicine Centers (GMCs) i Genome Medicine Sweden (GMS) som är ett samarbete mellan regioner med universtietessjukvård som finansieras ungeför likvärdigt av: - Vinnova (innovasionsmyndigheten) - universitetsjukhus regionerna",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>PL - sammanhang och funkton inom Genome Medicine Sweden (GMS)</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/vad_är_GMS.html",
+    "href": "chapters/vad_är_GMS.html",
+    "title": "8  Vad är GMS?",
+    "section": "",
+    "text": "8.1 Två huvudsakliga projekt är viktiga för PL.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Vad är GMS?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/vad_är_GMS.html#två-huvudsakliga-projekt-är-viktiga-för-pl.",
+    "href": "chapters/vad_är_GMS.html#två-huvudsakliga-projekt-är-viktiga-för-pl.",
+    "title": "8  Vad är GMS?",
+    "section": "",
+    "text": "8.1.1 Systemdemonstrator för nationellt tillgängliggörande av omikdata (oktober 2023 - september 2027)\nhttps://www.vinnova.se/p/systemdemonstrator-for-nationellt-tillgangliggorande-av-omikdata-for-vard-forskning-och-innovation/\nhttps://genomicmedicine.se/systemdemonstrator-for-nationellt-tillgangliggorande-av-omikdata-for-vard-forskning-och-innovation-2/\n\n\n8.1.2 Skalbar nationell datadelning av omikdata för vård, forsking och innovation\nSwelife\nVinnova",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Vad är GMS?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/vad_är_GMS.html#arbetspaket",
+    "href": "chapters/vad_är_GMS.html#arbetspaket",
+    "title": "8  Vad är GMS?",
+    "section": "8.2 Arbetspaket",
+    "text": "8.2 Arbetspaket\nDetta projekt omfattas av sex arbetspaketen, varav jag deltar i två, och PL ersätts för det, listast också här:\n\nAP1:Organisation, koordinering och internationellt engagemang . Organisationen av projektet, förankring gentemot externa aktörer, projektparter och internt inom GMS samt deltagande i EU-projekt kring delning av hälsodata. Ansvarig: Per Sikora, Annelie Lago, Anders Edsjö, Mirja Carlsson Möller\nAP2: Automatisk och retrospektiv datainsamling från GMC Samordnat utvecklingsarbete på sju GMC säkerställer automatiska lösningar för insamling av metadata från lokala system och vidarebefordran in i NGP tillsammans med genomikdata. En ettårig sprint med extra resurser för att retrospektivt samla in data genererad på GMC:er mellan 2019-2023. ​Ansvarig: René Kadén\n\n-AP3: Datadelning och integration mellan GMS och Fohm Etablering av en krypterad länk mellan GENSAM-servrar på Fohm och NGP plattformen inom VGR. Data och metadata skall laddas upp till GENSAM från NGP. GENSAM ska kunna söka och hämta data baserat på accessrättigheter samt leverera data till individuella regioner via NGP. Ansvarig: Carlo Berg\n\nAP4: Delning av hälsodata mellan NGP och DDLS Inom ramen för skalbara pilotprojekt etableras koppling mellan befintlig infrastruktur inom NGP med mottagande strukturer under uppbyggnad inom DDLS precisionsmedicinsnod. Detta för tillgängliggörande och överföring av hälsodata inom etikgodkända forskningsstudier. Systemet säkerställer att data endast delas från studier där datadelning godkänts av sjukvårdshuvudman och till de forskare godkännandet gäller. När lösningar utvecklats används dessa som mall för lösningar inom nya områden. Pilotprojekten utvecklar lösningar för datadelning inom de två områden där behovet idag är störst och de konkreta pilotprojekten väljs utifrån genomförbarhet och möjlighet att initiera arbetet utan dröjsmål. Arbetet kommer att kopplas till redan pågående och separat finansierat arbete med elektroniska lösningar för informerat samtycke som sker inom GMS. ​Ansvarig: Janne Lehtiö\nAP5: Integration och informationsdelning mellan NGP, IPÖ och kvalitetsregistren Utveckling av en genomikmodul inom IPÖ samt datadelning från NGP till översikten i realtid inför behandlingsbeslut. Utvecklad genomikmodul ska kunna användas i separata kvalitetsregister i framtiden. Ansvarig: Eva-Lena Engberg\nAP6: Inklusion i kliniska prövningar Samarbete mellan NGP och Lif där prioriterade aktiviteter för att öka inklusion i kliniska prövningar genomförs. Feasibility-portalen möjliggör att med federerade beräkningar uppskatta antalet patienter som kan inkluderas i en tänkt klinisk studie. Standardiserade rapporter kring molekylär biomarkörstatus vid olika cancerformer som bakgrund både till kliniska studier och för hälsoekonomiska beräkningar inför införande av nya målinriktade behandlingar. Ett system för flaggning av inklusionsgrundande molekylära förändringar skulle kunna öka den löpande inklusionen i precisonsmedicinska kliniska studier. Uppgifter om eventuella möjliga studier och kontaktuppgifter till dessa går till behandlande läkare för att inte äventyra sekretess. Alla aktiviteter bygger på federerad behandling av rutinmässigt insamlade av genomikdata. Portalen och standardiserade rapporter ger avidentifierad data. Identifiering av patienter aktuella för kliniska studier kräver återkoppling på personnivå till ansvarig läkare. Ansvarig: Anders Edsjö, Therese Fagerqvist, Maria Johansson",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Vad är GMS?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/vad_är_GMS.html#vinnova",
+    "href": "chapters/vad_är_GMS.html#vinnova",
+    "title": "8  Vad är GMS?",
+    "section": "8.3 Vinnova",
+    "text": "8.3 Vinnova\nVinnova är Sveriges innovationsmyndighet\nVinnova är en statlig myndighet under Klimat- och näringslivs­departementet och nationell kontaktmyndighet för EU:s ramprogram för forskning och innovation. Vi är också regeringens expertmyndighet inom det innovationspolitiska området.\nVi är cirka 240 medarbetare\n\n8.3.1 Strategiska innovationsprogram: Samarbete för hållbar innovation\nVinnova, Energimyndigheten och Formas finansierar sjutton strategiska innovationsprogram. Genom samverkan inom områden som är strategiskt viktiga för Sverige skapas förutsättningar för hållbara lösningar på globala samhällsutmaningar och en ökad internationell konkurrenskraft. Inom programmen utvecklar företag, akademi och organisationer tillsammans framtidens hållbara produkter och tjänster. Alla som kan bidra till utvecklingen är välkomna att söka finansiering.\n\n8.3.1.1 Swelife\nhttps://www.vinnova.se/m/strategiska-innovationsprogram/",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Vad är GMS?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/vad_är_GMS.html#ap2",
+    "href": "chapters/vad_är_GMS.html#ap2",
+    "title": "8  Vad är GMS?",
+    "section": "8.4 AP2",
+    "text": "8.4 AP2\n\n8.4.1 Prospektivt projekt\n\n\n8.4.2 Retrospektivt",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Vad är GMS?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#vi-har-tvåtree-typer-av-arbetsflöden",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#vi-har-tvåtree-typer-av-arbetsflöden",
+    "title": "12  Vad är ett arbetsflöde?",
+    "section": "12.1 Vi har två(tree) typer av arbetsflöden",
+    "text": "12.1 Vi har två(tree) typer av arbetsflöden\n1.) Extrahera ett fysiskt material ur ett annant\n2.) Extrahera information ut data\n3.) Extrahera kunskap ut information",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Vad är ett arbetsflöde?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#om-vi-tar-arbetsflödet-för-sällsynta-sjukdomar",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#om-vi-tar-arbetsflödet-för-sällsynta-sjukdomar",
+    "title": "12  Vad är ett arbetsflöde?",
+    "section": "12.2 Om vi tar arbetsflödet för sällsynta sjukdomar",
+    "text": "12.2 Om vi tar arbetsflödet för sällsynta sjukdomar\n\nSå har vi först ett arbetsflöde där ett bioloigskt prov skall omvandlas till ett DNA bibliotek färdigt att lasta på en sekvenseringsmasking. (Ytterligare ett initiall arbetsflöde handlar om att föra in klinks informatino i ett laboratorie informations system)\nDet påföljs av sekvenseringen av DNA bibliotket\nSedan följer ett bioinfomatiskt arbetflöde där textfiler med DNA kods information omvandlas till textfiler med variatioenr i förhållande till en till ett referensgenom samt beskrivande information för respektive variation.\nDet sista arbetsflödet handlar om att använda resultatet från det bioinformatoriska arbetsflödet och klinisk information för att försöka hitta genetiska variationer som orsakar en viss diagnos.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Vad är ett arbetsflöde?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#varifrån-kommer-ideen-om-programmatiska-arbetsflödenworkflowspipelines",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#varifrån-kommer-ideen-om-programmatiska-arbetsflödenworkflowspipelines",
+    "title": "12  Vad är ett arbetsflöde?",
+    "section": "13.1 Varifrån kommer ideen om programmatiska arbetsflöden/workflows/pipelines",
+    "text": "13.1 Varifrån kommer ideen om programmatiska arbetsflöden/workflows/pipelines\nFör program för analys av sekvenseringsdata har det alltid funnits två huvudsakliga alternativ. Det ena har varit att kommersiella programvaror där utvecklingen sker inom ett företag, gärna det företag som står för sekvenserings utrustningen, där utvecklarna får betalt för sitt utvecklingsarbete. Det andra har varit att forskare har utvecklat program för egen räknings och sedan gjort dem tillgänglig för resten av världen under en licens som innebär att de kan användas gratis. Gratis programmet tenderar att vara små och utföra enskilda uppgifter och har genererats i stora mängder och ofta så väljs ett fåtal ut efter benchmarkingstudier. Man får då ett antal smaå progaram som utför varje enskild uppgift väldigt bra, men som måste sättas ihop i en kedja av program, ett bioinformatiskt arbetsföde, för att utföra hela analysuppgiften. Från sekvenserings-output till annoterade varianter som är klara för tolkning. De förstnämnda programmen tenderar att vara monolitiska peka och klick program utan någon större möjlighet för användarna nedströms att se vad som pågår under huven. Användaren får garantier av företaget att programmet gör det som efterfrågas, programmet ges input och genererar output.\nDet att sätta ihop små program som utför enskilda uppgifter på ett bra eller tom ulitmat sätt har länga varit princip tillämpad i Unix/Linux miljön och visat sig vara ett framgångs recept av många olika anledningar. En av dem är att det lämpar sig för ostrukturerat samarbeta som det ofta är frågan om utanför en företags miljö. Det har med stor sannolikhet format iden om sättet som bioinformatiska gratis programvaror sammanfogas till större så kallade arbetsflöden eller pipelines.\nSekvensdata för ett humant genome tar stor plats på en hårddisk. För att aligna shortread sekvenser från ett helt mänskligt DNA så krävas mycket RAM minne och stor processor kraft och parallell processering är nödvändig. Hårdvaran som lämpar sig för analys av mänskliga helgenom sekvenser framför allt om man förväntar sig analys av många personers DNA per tidsenhet är vad som kallas HPC eller moln.\nNog för att pipelines har fördelar men de kommer också med utmaningar.\nProgrammerings arbetsflöden spelar en stor roll för forskings generellt för LifeScience specifikt och ser ut att komma att spela en central roll för Precisions Diagnostik, lokalt, nationellt och internationellt",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Vad är ett arbetsflöde?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#arbetsflödeshantering",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#arbetsflödeshantering",
+    "title": "12  Vad är ett arbetsflöde?",
+    "section": "13.5 Arbetsflödeshantering",
+    "text": "13.5 Arbetsflödeshantering\nVäxte först fram ur ett behov av att tillskriva roller till olika delar av arbetsflödet",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Vad är ett arbetsflöde?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#arbetsflödeshateringssystem-översättnging-wikipedia-eng",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#arbetsflödeshateringssystem-översättnging-wikipedia-eng",
+    "title": "12  Vad är ett arbetsflöde?",
+    "section": "13.6 Arbetsflödeshateringssystem (översättnging wikipedia eng)",
+    "text": "13.6 Arbetsflödeshateringssystem (översättnging wikipedia eng)\nEtt arbetsflödeshanteringssystem (WfMS) är ett mjukvarusystem för att sätta upp, utföra och övervaka en definierad sekvens av processer och uppgifter, med de breda målen att öka produktiviteten, minska kostnaderna, bli mer agil och förbättra informationsutbytet inom en organisation. [ 19 ] Dessa system kan vara processcentrerade eller datacentrerade, och de kan representera arbetsflödet som grafiska kartor. Ett arbetsflödeshanteringssystem kan också inkludera ett utbyggbart gränssnitt så att externa mjukvaruapplikationer kan integreras och ge stöd för bredare arbetsflöden som ger snabbare svarstider och förbättrad produktivitet",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Vad är ett arbetsflöde?</span>"
     ]
   }
 ]
