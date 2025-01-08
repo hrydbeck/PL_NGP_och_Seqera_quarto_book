@@ -1,0 +1,1 @@
+# NGP är tänkt att i huvudsak köra bioinformatiska arbetsflöden

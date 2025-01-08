@@ -1,0 +1,61 @@
+# Vad är GMS?
+
+(Vinnova och Swelife)
+
+Patienter i hela Sverige ska få tillgång till bred gensekvensering som kan leda till bättre diagnostik och mer individanpassad behandling. Detta genomförs som ett brett samverkansprojekt över hela landet
+
+GMS startade 2018 och får pengar från Vinnova och från de sju regionerna.
+
+GMS utvecklar/bidrar till vård genom projekt.
+
+## Två huvudsakliga projekt är viktiga för PL.
+
+### Systemdemonstrator för nationellt tillgängliggörande av omikdata (oktober 2023 - september 2027)
+
+https://www.vinnova.se/p/systemdemonstrator-for-nationellt-tillgangliggorande-av-omikdata-for-vard-forskning-och-innovation/
+
+https://genomicmedicine.se/systemdemonstrator-for-nationellt-tillgangliggorande-av-omikdata-for-vard-forskning-och-innovation-2/
+
+### Skalbar nationell datadelning av omikdata för vård, forsking och innovation
+
+Swelife
+
+Vinnova
+
+## Arbetspaket
+
+Detta projekt omfattas av sex arbetspaketen, varav jag deltar i två, och PL ersätts för det, listast också [här](https://genomicmedicine.se/skalbar-nationell-datadelning-av-omikdata-for-vard-forskning-och-innovation/):
+
+-   AP1:Organisation, koordinering och internationellt engagemang . Organisationen av projektet, förankring gentemot externa aktörer, projektparter och internt inom GMS samt deltagande i EU-projekt kring delning av hälsodata. Ansvarig: Per Sikora, Annelie Lago, Anders Edsjö, Mirja Carlsson Möller
+
+-   **AP2:** Automatisk och retrospektiv datainsamling från GMC Samordnat utvecklingsarbete på sju GMC säkerställer automatiska lösningar för insamling av metadata från lokala system och vidarebefordran in i NGP tillsammans med genomikdata. En ettårig sprint med extra resurser för att retrospektivt samla in data genererad på GMC:er mellan 2019-2023. ​Ansvarig: René Kadén
+
+\-**AP3:** Datadelning och integration mellan GMS och Fohm Etablering av en krypterad länk mellan GENSAM-servrar på Fohm och NGP plattformen inom VGR. Data och metadata skall laddas upp till GENSAM från NGP. GENSAM ska kunna söka och hämta data baserat på accessrättigheter samt leverera data till individuella regioner via NGP. Ansvarig: Carlo Berg
+
+-   AP4: Delning av hälsodata mellan NGP och DDLS Inom ramen för skalbara pilotprojekt etableras koppling mellan befintlig infrastruktur inom NGP med mottagande strukturer under uppbyggnad inom DDLS precisionsmedicinsnod. Detta för tillgängliggörande och överföring av hälsodata inom etikgodkända forskningsstudier. Systemet säkerställer att data endast delas från studier där datadelning godkänts av sjukvårdshuvudman och till de forskare godkännandet gäller. När lösningar utvecklats används dessa som mall för lösningar inom nya områden. Pilotprojekten utvecklar lösningar för datadelning inom de två områden där behovet idag är störst och de konkreta pilotprojekten väljs utifrån genomförbarhet och möjlighet att initiera arbetet utan dröjsmål. Arbetet kommer att kopplas till redan pågående och separat finansierat arbete med elektroniska lösningar för informerat samtycke som sker inom GMS. ​Ansvarig: Janne Lehtiö
+
+-   AP5: Integration och informationsdelning mellan NGP, IPÖ och kvalitetsregistren Utveckling av en genomikmodul inom IPÖ samt datadelning från NGP till översikten i realtid inför behandlingsbeslut. Utvecklad genomikmodul ska kunna användas i separata kvalitetsregister i framtiden. Ansvarig: Eva-Lena Engberg
+
+-   AP6: Inklusion i kliniska prövningar Samarbete mellan NGP och Lif där prioriterade aktiviteter för att öka inklusion i kliniska prövningar genomförs. Feasibility-portalen möjliggör att med federerade beräkningar uppskatta antalet patienter som kan inkluderas i en tänkt klinisk studie. Standardiserade rapporter kring molekylär biomarkörstatus vid olika cancerformer som bakgrund både till kliniska studier och för hälsoekonomiska beräkningar inför införande av nya målinriktade behandlingar. Ett system för flaggning av inklusionsgrundande molekylära förändringar skulle kunna öka den löpande inklusionen i precisonsmedicinska kliniska studier. Uppgifter om eventuella möjliga studier och kontaktuppgifter till dessa går till behandlande läkare för att inte äventyra sekretess. Alla aktiviteter bygger på federerad behandling av rutinmässigt insamlade av genomikdata. Portalen och standardiserade rapporter ger avidentifierad data. Identifiering av patienter aktuella för kliniska studier kräver återkoppling på personnivå till ansvarig läkare. Ansvarig: Anders Edsjö, Therese Fagerqvist, Maria Johansson
+
+## Vinnova
+
+Vinnova är Sveriges innovationsmyndighet
+
+Vinnova är en statlig myndighet under Klimat- och näringslivs­departementet och nationell kontaktmyndighet för EU:s ramprogram för forskning och innovation. Vi är också regeringens expertmyndighet inom det innovationspolitiska området.
+
+Vi är cirka 240 medarbetare
+
+### Strategiska innovationsprogram: Samarbete för hållbar innovation
+
+Vinnova, Energimyndigheten och Formas finansierar sjutton strategiska innovationsprogram. Genom samverkan inom områden som är strategiskt viktiga för Sverige skapas förutsättningar för hållbara lösningar på globala samhällsutmaningar och en ökad internationell konkurrenskraft. Inom programmen utvecklar företag, akademi och organisationer tillsammans framtidens hållbara produkter och tjänster. Alla som kan bidra till utvecklingen är välkomna att söka finansiering.
+
+#### Swelife
+
+https://www.vinnova.se/m/strategiska-innovationsprogram/
+
+## AP2
+
+### Prospektivt projekt
+
+### Retrospektivt

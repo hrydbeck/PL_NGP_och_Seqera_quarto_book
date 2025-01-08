@@ -1,0 +1,7 @@
+# PL NGS
+
+Här ses PL isolerat utan de servade verskamhetsområdena.PL består av tre enheter som vardera servar de tre versamhetsområdena. Hexagonen i kärnan representerar det som de har gemensamt:
+
+-   Tre enheter som servar tre verksamhetsområden
+-   Varje enhet utför av olika arbetsflöden om kan delas in i olika segment.
+-   Tex huruvida det rör sig fysiskt laboratoriearbete eller data analys.

@@ -1,0 +1,23 @@
+# PL - sammanhang och funkton inom Genome Medicine Sweden (GMS)
+
+Nätverket har sju noder, eller Genomisk Medicin Centrum (GMCs) som utgörs ave regionerna universitetssjukhus.
+
+På universitetssidan så har de ett systernätverk som organiseras av SciLifeLab där noderna, eller Clinical Genomics (CG) key services, ligger på sju av landets universitet. Det finns en vision om lokal synergi mellan Clinical Genomcs och Genomiks Medicin Centra, där meningen är att CGs skall stötta GMCs med kompetens.
+
+GMS finansierar till hälften av projekt medlen som ansökts om hos Vinnova och till hälfden av de involverade regionerna.
+
+Det är framför allt två projekt som berör PL:
+
+-   Swelife
+
+-   Systemdemonstrator **(NGP)**
+
+## Data delning och central analys via NGP är del i ett större EU sammanhang
+
+Motsvarigheten till NGP på EU-nivå är förmodligen [European Health Data Space (EHDS)](https://health.ec.europa.eu/ehealth-digital-health-and-care/european-health-data-space_en). Drivande organistino bakom är \[European Healt Union\](<https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/promoting-our-european-way-life/european-health-union_en>)
+
+EHDS är viktigt för de är drivande i tolkning och tilläggslagstiftning kring [General Data Protection Regulation](https://gdpr-info.eu/) (GDPR)
+
+### 
+
+PL-Linköping utgör en av sju Genomic Medicine Centers (GMCs) i Genome Medicine Sweden (GMS) som är ett samarbete mellan regioner med universtietessjukvård som finansieras ungeför likvärdigt av: - Vinnova (innovasionsmyndigheten) - universitetsjukhus regionerna

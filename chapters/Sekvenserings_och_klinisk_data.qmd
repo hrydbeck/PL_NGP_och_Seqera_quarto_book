@@ -1,0 +1,4 @@
+# Sekvenserings och klinisk data
+
+Här omnämns data som är central bland annat eftersom den har stor potential att återanvändas i GMS nätverket.
+Mne också eftersom det är denna som biologerna tolkar för att hitta varianter som kan tänkas orsaka diagnos (för patologi och sällsynta diagnoser).

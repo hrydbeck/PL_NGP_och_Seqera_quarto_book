@@ -1,0 +1,7 @@
+# PL gemensamt
+
+-   Ledning
+-   Sekvenseringsmaskiner
+    -   (Presentationen kommer att begränsa sig till att se på PL utifrån ett sekvenserings perspektiv, eftersm det är det som jag jobbar med.).
+-   Datornätverk
+-   

@@ -1,0 +1,44 @@
+# Vad är ett arbetsflöde
+
+### Den enklaste definitionen 
+
+En serie aktiviteter som måste till för att utföra en uppgift. Serien skall vara repeterbar.
+
+### Lite mer komplicerad
+
+Det finns många definitioner av vad det svenska ordet arbetsflöde betyder. Vad jag syftar till i den är presentationen och vad som stämmer bra med hur det engelska ordet workflow används i förhållande tll bioinformatikska pipelines är:
+
+"En repeterbar serie aktiviteter och de start-, mellan- och slut-produkter som måste till för att utföra en uppgift."
+
+### Från Wikipedia
+
+En paraply/övergripande/generisk term för orchestrerade/hanterade/reglarade/kontrollerade och repeterbara aktivitesmönster, som möjliggörs av den systematiska sammankopplingen av resurser med processer som omvandlar material, erbjuder tjänster eller processerar information. Termen kan visualiseras/framställas som en sekvens av operationer/manövrar/aktiviteter, en eller er en grupps arbete eller som en eller flera komplex(a) mekanismer.
+
+Arbetsflöden kan också ses å som ett fundamentalt byggnadsblock som skall passa in i och kombinerats med andra delar av en organisations struktur som tex informationsteknologi, grupper/avdelnngar, projekt och hierarkier.
+
+### Mina funderingar/anteckngiar
+
+Kan lätt förestälal sig att begreppet väaxte fram med industrialiseringen och sedna med förmågan att hantera digitaliserad information.
+
+Också kopplat till framväxten av kavalitetstänk kpplat till produktion.
+
+## Vi har två(tree) typer av arbetsflöden
+
+1.) Extrahera ett fysiskt material ur ett annant
+
+2.) Extrahera information ut data
+
+3.) Extrahera kunskap ut information
+
+## Om vi tar arbetsflödet för sällsynta sjukdomar
+
+1.  Så har vi först ett arbetsflöde där ett bioloigskt prov skall omvandlas till ett DNA bibliotek färdigt att lasta på en sekvenseringsmasking. (Ytterligare ett initiall arbetsflöde handlar om att föra in klinks informatino i ett laboratorie informations system)
+2.  Det påföljs av sekvenseringen av DNA bibliotket
+3.  Sedan följer ett bioinfomatiskt arbetflöde där textfiler med DNA kods information omvandlas till textfiler med variatioenr i förhållande till en till ett referensgenom samt beskrivande information för respektive variation.
+4.  Det sista arbetsflödet handlar om att använda resultatet från det bioinformatoriska arbetsflödet och klinisk information för att försöka hitta genetiska variationer som orsakar en viss diagnos.
+
+# Begreppet arbetsflöde har många betydelser
+
+Så det behövs definieras i det här sammanhanget. Det är tillockmed så att jag hört sjukhusgenteikerna prata om att de utvecklar arbetsflöden utan att ha förstått vad det menat. Den definitine av arbetsföde är mer komplicerad och den överlåter jg til dem.
+
+Inom PL och dess organisatoriska sammanhang så används alltså åtminstone två definitioner av arbetsflöde. I det sammanhang där jag är involverad så används kanske inte det svenska begreppet men bara ordet workflow eller pipeline. Så kanske man borde hålla sig till det.
