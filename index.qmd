@@ -1,6 +1,6 @@
 # Första sliden {.unnumbered}
 
-Alterative titel: Bioinformatik på PL?
+Alterative titel: Bioinformatik på PL? Vi, svensk precisions medicin och arbetsflödeshanterare; Vårt lab, NGS och analytiska arbetsflödeshanteringsprogram
 
 Varför denna presentation? Förnärvarande upplever jag glappet mellan det jag jobbar med och skall försöka beskriva i den här presenationen och de ni jobbar som ganska stort. Beröringsytorna kan upplevas som ganska få. Den här presentation är ett försöka på att börja överbygga det glappet och att skapa fler beröringsytor så att bioinformatik kan bli ett samtalsämne på kafferasterna. Presentationen är också ett sätt för mig testa min förståelse av organisationen och olika koncept gentemot den hos er som är mer erfarna och kanske har mer intrikata modeller av olika delar och kanske har modeller som formats fåna andra perspektiv. Därför så ser jag den här presentationen som en möjlighet att nöta våra olika uppfattningar om vad PL är mot varandra men också ett sett att identifiera gemensam intressen och potentielle nya presentationer som fördjupar sig i det som ny bara introduceras översiktligt i en slide eller så. En del av matrialet kan tänaks vara använbart också för presentation av PL externt och tanken är att den skall kunna återanvändas och modifieras av den som vill.
 
