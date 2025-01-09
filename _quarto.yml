@@ -11,7 +11,7 @@ book:
     - chapters/PL_sammanhang_och_funktion_inom_RO.qmd
     - chapters/Sekvenserings_och_klinisk_data.qmd
     - chapters/pl_ngs.qmd
-    - chapters/vad_är_ett_arbets.qmd
+    - chapters/vad_är_ett_arbetsflöde.qmd
     - chapters/pl_gemensamt.qmd
     - chapters/PL_sammanhang_och_funktion_inom_GMS.qmd
     - chapters/vad_är_NGP.qmd

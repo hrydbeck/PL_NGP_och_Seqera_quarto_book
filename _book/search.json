@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "PL, NGP och Seqera",
     "section": "",
-    "text": "Första sliden\nAlterative titel: Bioinformatik på PL?\nVarför denna presentation? Förnärvarande upplever jag glappet mellan det jag jobbar med och skall försöka beskriva i den här presenationen och de ni jobbar som ganska stort. Beröringsytorna kan upplevas som ganska få. Den här presentation är ett försöka på att börja överbygga det glappet och att skapa fler beröringsytor så att bioinformatik kan bli ett samtalsämne på kafferasterna. Presentationen är också ett sätt för mig testa min förståelse av organisationen och olika koncept gentemot den hos er som är mer erfarna och kanske har mer intrikata modeller av olika delar och kanske har modeller som formats fåna andra perspektiv. Därför så ser jag den här presentationen som en möjlighet att nöta våra olika uppfattningar om vad PL är mot varandra men också ett sett att identifiera gemensam intressen och potentielle nya presentationer som fördjupar sig i det som ny bara introduceras översiktligt i en slide eller så. En del av matrialet kan tänaks vara använbart också för presentation av PL externt och tanken är att den skall kunna återanvändas och modifieras av den som vill.\nNu skall vi prata om arbetsflödes hanteringsprogram och om hur de kan komma till nytta för oss på Precisions medicinskt laboratorium\nDen här boken är skriven med “Quarto boo”k. This is a Quarto book. För att lära mer om Quarto books kolla på https://quarto.org/docs/books.",
+    "text": "Första sliden\nAlterative titel: Bioinformatik på PL? Vi, svensk precisions medicin och arbetsflödeshanterare; Vårt lab, NGS och analytiska arbetsflödeshanteringsprogram\nVarför denna presentation? Förnärvarande upplever jag glappet mellan det jag jobbar med och skall försöka beskriva i den här presenationen och de ni jobbar som ganska stort. Beröringsytorna kan upplevas som ganska få. Den här presentation är ett försöka på att börja överbygga det glappet och att skapa fler beröringsytor så att bioinformatik kan bli ett samtalsämne på kafferasterna. Presentationen är också ett sätt för mig testa min förståelse av organisationen och olika koncept gentemot den hos er som är mer erfarna och kanske har mer intrikata modeller av olika delar och kanske har modeller som formats fåna andra perspektiv. Därför så ser jag den här presentationen som en möjlighet att nöta våra olika uppfattningar om vad PL är mot varandra men också ett sett att identifiera gemensam intressen och potentielle nya presentationer som fördjupar sig i det som ny bara introduceras översiktligt i en slide eller så. En del av matrialet kan tänaks vara använbart också för presentation av PL externt och tanken är att den skall kunna återanvändas och modifieras av den som vill.\nNu skall vi prata om arbetsflödes hanteringsprogram och om hur de kan komma till nytta för oss på Precisions medicinskt laboratorium\nDen här boken är skriven med “Quarto boo”k. This is a Quarto book. För att lära mer om Quarto books kolla på https://quarto.org/docs/books.",
     "crumbs": [
       "Första sliden"
     ]
@@ -142,31 +142,31 @@
   {
     "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html",
     "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html",
-    "title": "12  Vad är ett arbetsflöde?",
+    "title": "13  Varifrån kommer ideen om programmatiska arbetsflöden/workflows/pipelines",
     "section": "",
-    "text": "12.0.1 Den enklaste definitionen\nEn serie aktiviteter som måste till för att utföra en uppgift. Serien skall vara repeterbar.",
+    "text": "13.1",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Vad är ett arbetsflöde?</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Varifrån kommer ideen om programmatiska arbetsflöden/workflows/pipelines</span>"
     ]
   },
   {
     "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#exempel-från-sällsynta-diagnoser---del-i-ett-större-arbetsflöde",
     "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#exempel-från-sällsynta-diagnoser---del-i-ett-större-arbetsflöde",
-    "title": "12  Vad är ett arbetsflöde?",
-    "section": "13.3 Exempel från Sällsynta diagnoser - Del i ett större arbetsflöde",
-    "text": "13.3 Exempel från Sällsynta diagnoser - Del i ett större arbetsflöde\nHär visas en schematisering av ett arbetsflöde på PL-rd. Schematiskeringen är förenklad och framför allt i det bioinformatiska flöden så har saker som tex identifiering av kopietalsförändringar utelämnats.\n\n13.3.1 Manuell/fysisk del\n\nDet startar med att prov kommer in\nDNA extraheras och bibliotek prepareras och lastas på en sekvenseringsmaskin\n\n\n\n13.3.2 Bioinformatisk del\n\nSekvenseringsmaskinen skriver sekvens och kvalitetsdata data, ursprungligen ofta i nått företagsspecifikt format.\nText filer, sk fastq-filer, en för varje sekvenserad fragment, med sekvens och kvalitetsdata tillverkas.\nFragment-sekvens-datan filtreras och och alignas (radas upp) mot ett referensgenome\nVarianter i förhållande till referens genomet identifieras och sparas i en Variant Call File VCF.\nVarianterna annoteras med information som möjliggör efterkommande tolkning\n\n\n\n13.3.3 Samarbete människa maskin\n\nTolkning",
+    "title": "13  Varifrån kommer ideen om programmatiska arbetsflöden/workflows/pipelines",
+    "section": "13.2 Exempel från Sällsynta diagnoser - Del i ett större arbetsflöde",
+    "text": "13.2 Exempel från Sällsynta diagnoser - Del i ett större arbetsflöde\nHär visas en schematisering av ett arbetsflöde på PL-rd. Schematiskeringen är förenklad och framför allt i det bioinformatiska flöden så har saker som tex identifiering av kopietalsförändringar utelämnats.\n\n13.2.1 Manuell/fysisk del\n\nDet startar med att prov kommer in\nDNA extraheras och bibliotek prepareras och lastas på en sekvenseringsmaskin\n\n\n\n13.2.2 Bioinformatisk del\n\nSekvenseringsmaskinen skriver sekvens och kvalitetsdata data, ursprungligen ofta i nått företagsspecifikt format.\nText filer, sk fastq-filer, en för varje sekvenserad fragment, med sekvens och kvalitetsdata tillverkas.\nFragment-sekvens-datan filtreras och och alignas (radas upp) mot ett referensgenome\nVarianter i förhållande till referens genomet identifieras och sparas i en Variant Call File VCF.\nVarianterna annoteras med information som möjliggör efterkommande tolkning\n\n\n\n13.2.3 Samarbete människa maskin\n\nTolkning",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Vad är ett arbetsflöde?</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Varifrån kommer ideen om programmatiska arbetsflöden/workflows/pipelines</span>"
     ]
   },
   {
     "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#liknande-arbetsflöden-finns-ju-också-för-patologi-och-mikrogrupperna",
     "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#liknande-arbetsflöden-finns-ju-också-för-patologi-och-mikrogrupperna",
-    "title": "12  Vad är ett arbetsflöde?",
-    "section": "13.4 Liknande arbetsflöden finns ju också för Patologi och Mikrogrupperna",
-    "text": "13.4 Liknande arbetsflöden finns ju också för Patologi och Mikrogrupperna\nDet visade arbetsflödet skall klara helgenoms analyser vilket gör bioinformatik delen mer resurskrävande än de övriga flödena.",
+    "title": "13  Varifrån kommer ideen om programmatiska arbetsflöden/workflows/pipelines",
+    "section": "13.3 Liknande arbetsflöden finns ju också för Patologi och Mikrogrupperna",
+    "text": "13.3 Liknande arbetsflöden finns ju också för Patologi och Mikrogrupperna\nDet visade arbetsflödet skall klara helgenoms analyser vilket gör bioinformatik delen mer resurskrävande än de övriga flödena.",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Vad är ett arbetsflöde?</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Varifrån kommer ideen om programmatiska arbetsflöden/workflows/pipelines</span>"
     ]
   },
   {
@@ -864,7 +864,7 @@
     "href": "chapters/pl_ngs.html",
     "title": "4  PL NGS",
     "section": "",
-    "text": "Här ses PL isolerat utan de servade verskamhetsområdena.PL består av tre enheter som vardera servar de tre versamhetsområdena. Hexagonen i kärnan representerar det som de har gemensamt:\n\nTre enheter som servar tre verksamhetsområden\nVarje enhet utför av olika workflows om kan delas in i olika segment. Tex huruvida det rör sig fysiskt laboratoriearbete eller data analys.",
+    "text": "Här ses PL isolerat utan de servade verskamhetsområdena.PL består av tre enheter som vardera servar de tre versamhetsområdena. Hexagonen i kärnan representerar det som de har gemensamt:\n\nTre enheter som servar tre verksamhetsområden\nVarje enhet utför av olika arbetsflöden om kan delas in i olika segment.\nTex huruvida det rör sig fysiskt laboratoriearbete eller data analys.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>PL NGS</span>"
     ]
@@ -902,51 +902,51 @@
   {
     "objectID": "chapters/vad_är_GMS.html",
     "href": "chapters/vad_är_GMS.html",
-    "title": "8  Vad är GMS?",
+    "title": "9  Vad är GMS?",
     "section": "",
-    "text": "8.1 Två huvudsakliga projekt är viktiga för PL.",
+    "text": "9.1 Två huvudsakliga projekt är viktiga för PL.",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Vad är GMS?</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Vad är GMS?</span>"
     ]
   },
   {
     "objectID": "chapters/vad_är_GMS.html#två-huvudsakliga-projekt-är-viktiga-för-pl.",
     "href": "chapters/vad_är_GMS.html#två-huvudsakliga-projekt-är-viktiga-för-pl.",
-    "title": "8  Vad är GMS?",
+    "title": "9  Vad är GMS?",
     "section": "",
-    "text": "8.1.1 Systemdemonstrator för nationellt tillgängliggörande av omikdata (oktober 2023 - september 2027)\nhttps://www.vinnova.se/p/systemdemonstrator-for-nationellt-tillgangliggorande-av-omikdata-for-vard-forskning-och-innovation/\nhttps://genomicmedicine.se/systemdemonstrator-for-nationellt-tillgangliggorande-av-omikdata-for-vard-forskning-och-innovation-2/\n\n\n8.1.2 Skalbar nationell datadelning av omikdata för vård, forsking och innovation\nSwelife\nVinnova",
+    "text": "9.1.1 Systemdemonstrator för nationellt tillgängliggörande av omikdata (oktober 2023 - september 2027)\nhttps://www.vinnova.se/p/systemdemonstrator-for-nationellt-tillgangliggorande-av-omikdata-for-vard-forskning-och-innovation/\nhttps://genomicmedicine.se/systemdemonstrator-for-nationellt-tillgangliggorande-av-omikdata-for-vard-forskning-och-innovation-2/\n\n\n9.1.2 Skalbar nationell datadelning av omikdata för vård, forsking och innovation\nSwelife\nVinnova",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Vad är GMS?</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Vad är GMS?</span>"
     ]
   },
   {
     "objectID": "chapters/vad_är_GMS.html#arbetspaket",
     "href": "chapters/vad_är_GMS.html#arbetspaket",
-    "title": "8  Vad är GMS?",
-    "section": "8.2 Arbetspaket",
-    "text": "8.2 Arbetspaket\nDetta projekt omfattas av sex arbetspaketen, varav jag deltar i två, och PL ersätts för det, listast också här:\n\nAP1:Organisation, koordinering och internationellt engagemang . Organisationen av projektet, förankring gentemot externa aktörer, projektparter och internt inom GMS samt deltagande i EU-projekt kring delning av hälsodata. Ansvarig: Per Sikora, Annelie Lago, Anders Edsjö, Mirja Carlsson Möller\nAP2: Automatisk och retrospektiv datainsamling från GMC Samordnat utvecklingsarbete på sju GMC säkerställer automatiska lösningar för insamling av metadata från lokala system och vidarebefordran in i NGP tillsammans med genomikdata. En ettårig sprint med extra resurser för att retrospektivt samla in data genererad på GMC:er mellan 2019-2023. ​Ansvarig: René Kadén\n\n-AP3: Datadelning och integration mellan GMS och Fohm Etablering av en krypterad länk mellan GENSAM-servrar på Fohm och NGP plattformen inom VGR. Data och metadata skall laddas upp till GENSAM från NGP. GENSAM ska kunna söka och hämta data baserat på accessrättigheter samt leverera data till individuella regioner via NGP. Ansvarig: Carlo Berg\n\nAP4: Delning av hälsodata mellan NGP och DDLS Inom ramen för skalbara pilotprojekt etableras koppling mellan befintlig infrastruktur inom NGP med mottagande strukturer under uppbyggnad inom DDLS precisionsmedicinsnod. Detta för tillgängliggörande och överföring av hälsodata inom etikgodkända forskningsstudier. Systemet säkerställer att data endast delas från studier där datadelning godkänts av sjukvårdshuvudman och till de forskare godkännandet gäller. När lösningar utvecklats används dessa som mall för lösningar inom nya områden. Pilotprojekten utvecklar lösningar för datadelning inom de två områden där behovet idag är störst och de konkreta pilotprojekten väljs utifrån genomförbarhet och möjlighet att initiera arbetet utan dröjsmål. Arbetet kommer att kopplas till redan pågående och separat finansierat arbete med elektroniska lösningar för informerat samtycke som sker inom GMS. ​Ansvarig: Janne Lehtiö\nAP5: Integration och informationsdelning mellan NGP, IPÖ och kvalitetsregistren Utveckling av en genomikmodul inom IPÖ samt datadelning från NGP till översikten i realtid inför behandlingsbeslut. Utvecklad genomikmodul ska kunna användas i separata kvalitetsregister i framtiden. Ansvarig: Eva-Lena Engberg\nAP6: Inklusion i kliniska prövningar Samarbete mellan NGP och Lif där prioriterade aktiviteter för att öka inklusion i kliniska prövningar genomförs. Feasibility-portalen möjliggör att med federerade beräkningar uppskatta antalet patienter som kan inkluderas i en tänkt klinisk studie. Standardiserade rapporter kring molekylär biomarkörstatus vid olika cancerformer som bakgrund både till kliniska studier och för hälsoekonomiska beräkningar inför införande av nya målinriktade behandlingar. Ett system för flaggning av inklusionsgrundande molekylära förändringar skulle kunna öka den löpande inklusionen i precisonsmedicinska kliniska studier. Uppgifter om eventuella möjliga studier och kontaktuppgifter till dessa går till behandlande läkare för att inte äventyra sekretess. Alla aktiviteter bygger på federerad behandling av rutinmässigt insamlade av genomikdata. Portalen och standardiserade rapporter ger avidentifierad data. Identifiering av patienter aktuella för kliniska studier kräver återkoppling på personnivå till ansvarig läkare. Ansvarig: Anders Edsjö, Therese Fagerqvist, Maria Johansson",
+    "title": "9  Vad är GMS?",
+    "section": "9.2 Arbetspaket",
+    "text": "9.2 Arbetspaket\nDetta projekt omfattas av sex arbetspaketen, varav jag deltar i två, och PL ersätts för det, listast också här:\n\nAP1:Organisation, koordinering och internationellt engagemang . Organisationen av projektet, förankring gentemot externa aktörer, projektparter och internt inom GMS samt deltagande i EU-projekt kring delning av hälsodata. Ansvarig: Per Sikora, Annelie Lago, Anders Edsjö, Mirja Carlsson Möller\nAP2: Automatisk och retrospektiv datainsamling från GMC Samordnat utvecklingsarbete på sju GMC säkerställer automatiska lösningar för insamling av metadata från lokala system och vidarebefordran in i NGP tillsammans med genomikdata. En ettårig sprint med extra resurser för att retrospektivt samla in data genererad på GMC:er mellan 2019-2023. ​Ansvarig: René Kadén\n\n-AP3: Datadelning och integration mellan GMS och Fohm Etablering av en krypterad länk mellan GENSAM-servrar på Fohm och NGP plattformen inom VGR. Data och metadata skall laddas upp till GENSAM från NGP. GENSAM ska kunna söka och hämta data baserat på accessrättigheter samt leverera data till individuella regioner via NGP. Ansvarig: Carlo Berg\n\nAP4: Delning av hälsodata mellan NGP och DDLS Inom ramen för skalbara pilotprojekt etableras koppling mellan befintlig infrastruktur inom NGP med mottagande strukturer under uppbyggnad inom DDLS precisionsmedicinsnod. Detta för tillgängliggörande och överföring av hälsodata inom etikgodkända forskningsstudier. Systemet säkerställer att data endast delas från studier där datadelning godkänts av sjukvårdshuvudman och till de forskare godkännandet gäller. När lösningar utvecklats används dessa som mall för lösningar inom nya områden. Pilotprojekten utvecklar lösningar för datadelning inom de två områden där behovet idag är störst och de konkreta pilotprojekten väljs utifrån genomförbarhet och möjlighet att initiera arbetet utan dröjsmål. Arbetet kommer att kopplas till redan pågående och separat finansierat arbete med elektroniska lösningar för informerat samtycke som sker inom GMS. ​Ansvarig: Janne Lehtiö\nAP5: Integration och informationsdelning mellan NGP, IPÖ och kvalitetsregistren Utveckling av en genomikmodul inom IPÖ samt datadelning från NGP till översikten i realtid inför behandlingsbeslut. Utvecklad genomikmodul ska kunna användas i separata kvalitetsregister i framtiden. Ansvarig: Eva-Lena Engberg\nAP6: Inklusion i kliniska prövningar Samarbete mellan NGP och Lif där prioriterade aktiviteter för att öka inklusion i kliniska prövningar genomförs. Feasibility-portalen möjliggör att med federerade beräkningar uppskatta antalet patienter som kan inkluderas i en tänkt klinisk studie. Standardiserade rapporter kring molekylär biomarkörstatus vid olika cancerformer som bakgrund både till kliniska studier och för hälsoekonomiska beräkningar inför införande av nya målinriktade behandlingar. Ett system för flaggning av inklusionsgrundande molekylära förändringar skulle kunna öka den löpande inklusionen i precisonsmedicinska kliniska studier. Uppgifter om eventuella möjliga studier och kontaktuppgifter till dessa går till behandlande läkare för att inte äventyra sekretess. Alla aktiviteter bygger på federerad behandling av rutinmässigt insamlade av genomikdata. Portalen och standardiserade rapporter ger avidentifierad data. Identifiering av patienter aktuella för kliniska studier kräver återkoppling på personnivå till ansvarig läkare. Ansvarig: Anders Edsjö, Therese Fagerqvist, Maria Johansson",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Vad är GMS?</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Vad är GMS?</span>"
     ]
   },
   {
     "objectID": "chapters/vad_är_GMS.html#vinnova",
     "href": "chapters/vad_är_GMS.html#vinnova",
-    "title": "8  Vad är GMS?",
-    "section": "8.3 Vinnova",
-    "text": "8.3 Vinnova\nVinnova är Sveriges innovationsmyndighet\nVinnova är en statlig myndighet under Klimat- och näringslivs­departementet och nationell kontaktmyndighet för EU:s ramprogram för forskning och innovation. Vi är också regeringens expertmyndighet inom det innovationspolitiska området.\nVi är cirka 240 medarbetare\n\n8.3.1 Strategiska innovationsprogram: Samarbete för hållbar innovation\nVinnova, Energimyndigheten och Formas finansierar sjutton strategiska innovationsprogram. Genom samverkan inom områden som är strategiskt viktiga för Sverige skapas förutsättningar för hållbara lösningar på globala samhällsutmaningar och en ökad internationell konkurrenskraft. Inom programmen utvecklar företag, akademi och organisationer tillsammans framtidens hållbara produkter och tjänster. Alla som kan bidra till utvecklingen är välkomna att söka finansiering.\n\n8.3.1.1 Swelife\nhttps://www.vinnova.se/m/strategiska-innovationsprogram/",
+    "title": "9  Vad är GMS?",
+    "section": "9.3 Vinnova",
+    "text": "9.3 Vinnova\nVinnova är Sveriges innovationsmyndighet\nVinnova är en statlig myndighet under Klimat- och näringslivs­departementet och nationell kontaktmyndighet för EU:s ramprogram för forskning och innovation. Vi är också regeringens expertmyndighet inom det innovationspolitiska området.\nVi är cirka 240 medarbetare\n\n9.3.1 Strategiska innovationsprogram: Samarbete för hållbar innovation\nVinnova, Energimyndigheten och Formas finansierar sjutton strategiska innovationsprogram. Genom samverkan inom områden som är strategiskt viktiga för Sverige skapas förutsättningar för hållbara lösningar på globala samhällsutmaningar och en ökad internationell konkurrenskraft. Inom programmen utvecklar företag, akademi och organisationer tillsammans framtidens hållbara produkter och tjänster. Alla som kan bidra till utvecklingen är välkomna att söka finansiering.\n\n9.3.1.1 Swelife\nhttps://www.vinnova.se/m/strategiska-innovationsprogram/",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Vad är GMS?</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Vad är GMS?</span>"
     ]
   },
   {
     "objectID": "chapters/vad_är_GMS.html#ap2",
     "href": "chapters/vad_är_GMS.html#ap2",
-    "title": "8  Vad är GMS?",
-    "section": "8.4 AP2",
-    "text": "8.4 AP2\n\n8.4.1 Prospektivt projekt\n\n\n8.4.2 Retrospektivt",
+    "title": "9  Vad är GMS?",
+    "section": "9.4 AP2",
+    "text": "9.4 AP2\n\n9.4.1 Prospektivt projekt\n\n\n9.4.2 Retrospektivt",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Vad är GMS?</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Vad är GMS?</span>"
     ]
   },
   {
@@ -982,21 +982,61 @@
   {
     "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#arbetsflödeshantering",
     "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#arbetsflödeshantering",
-    "title": "12  Vad är ett arbetsflöde?",
-    "section": "13.5 Arbetsflödeshantering",
-    "text": "13.5 Arbetsflödeshantering\nVäxte först fram ur ett behov av att tillskriva roller till olika delar av arbetsflödet",
+    "title": "13  Varifrån kommer ideen om programmatiska arbetsflöden/workflows/pipelines",
+    "section": "13.4 Arbetsflödeshantering",
+    "text": "13.4 Arbetsflödeshantering\nVäxte först fram ur ett behov av att tillskriva roller till olika delar av arbetsflödet",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Vad är ett arbetsflöde?</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Varifrån kommer ideen om programmatiska arbetsflöden/workflows/pipelines</span>"
     ]
   },
   {
     "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#arbetsflödeshateringssystem-översättnging-wikipedia-eng",
     "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#arbetsflödeshateringssystem-översättnging-wikipedia-eng",
-    "title": "12  Vad är ett arbetsflöde?",
-    "section": "13.6 Arbetsflödeshateringssystem (översättnging wikipedia eng)",
-    "text": "13.6 Arbetsflödeshateringssystem (översättnging wikipedia eng)\nEtt arbetsflödeshanteringssystem (WfMS) är ett mjukvarusystem för att sätta upp, utföra och övervaka en definierad sekvens av processer och uppgifter, med de breda målen att öka produktiviteten, minska kostnaderna, bli mer agil och förbättra informationsutbytet inom en organisation. [ 19 ] Dessa system kan vara processcentrerade eller datacentrerade, och de kan representera arbetsflödet som grafiska kartor. Ett arbetsflödeshanteringssystem kan också inkludera ett utbyggbart gränssnitt så att externa mjukvaruapplikationer kan integreras och ge stöd för bredare arbetsflöden som ger snabbare svarstider och förbättrad produktivitet",
+    "title": "13  Varifrån kommer ideen om programmatiska arbetsflöden/workflows/pipelines",
+    "section": "13.5 Arbetsflödeshateringssystem (översättnging wikipedia eng)",
+    "text": "13.5 Arbetsflödeshateringssystem (översättnging wikipedia eng)\nEtt arbetsflödeshanteringssystem (WfMS) är ett mjukvarusystem för att sätta upp, utföra och övervaka en definierad sekvens av processer och uppgifter, med de breda målen att öka produktiviteten, minska kostnaderna, bli mer agil och förbättra informationsutbytet inom en organisation. [ 19 ] Dessa system kan vara processcentrerade eller datacentrerade, och de kan representera arbetsflödet som grafiska kartor. Ett arbetsflödeshanteringssystem kan också inkludera ett utbyggbart gränssnitt så att externa mjukvaruapplikationer kan integreras och ge stöd för bredare arbetsflöden som ger snabbare svarstider och förbättrad produktivitet",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Vad är ett arbetsflöde?</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Varifrån kommer ideen om programmatiska arbetsflöden/workflows/pipelines</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/vad_är_ett_arbetsflöde.html",
+    "href": "chapters/vad_är_ett_arbetsflöde.html",
+    "title": "5  Vad är ett arbetsflöde",
+    "section": "",
+    "text": "5.0.1 Den enklaste definitionen\nEn serie aktiviteter som måste till för att utföra en uppgift. Serien skall vara repeterbar.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Vad är ett arbetsflöde</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/vad_är_ett_arbetsflöde.html#vi-har-tvåtree-typer-av-arbetsflöden",
+    "href": "chapters/vad_är_ett_arbetsflöde.html#vi-har-tvåtree-typer-av-arbetsflöden",
+    "title": "5  Vad är ett arbetsflöde",
+    "section": "5.1 Vi har två(tree) typer av arbetsflöden",
+    "text": "5.1 Vi har två(tree) typer av arbetsflöden\n1.) Extrahera ett fysiskt material ur ett annant\n2.) Extrahera information ut data\n3.) Extrahera kunskap ut information",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Vad är ett arbetsflöde</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/vad_är_ett_arbetsflöde.html#om-vi-tar-arbetsflödet-för-sällsynta-sjukdomar",
+    "href": "chapters/vad_är_ett_arbetsflöde.html#om-vi-tar-arbetsflödet-för-sällsynta-sjukdomar",
+    "title": "5  Vad är ett arbetsflöde",
+    "section": "5.2 Om vi tar arbetsflödet för sällsynta sjukdomar",
+    "text": "5.2 Om vi tar arbetsflödet för sällsynta sjukdomar\n\nSå har vi först ett arbetsflöde där ett bioloigskt prov skall omvandlas till ett DNA bibliotek färdigt att lasta på en sekvenseringsmasking. (Ytterligare ett initiall arbetsflöde handlar om att föra in klinks informatino i ett laboratorie informations system)\nDet påföljs av sekvenseringen av DNA bibliotket\nSedan följer ett bioinfomatiskt arbetflöde där textfiler med DNA kods information omvandlas till textfiler med variatioenr i förhållande till en till ett referensgenom samt beskrivande information för respektive variation.\nDet sista arbetsflödet handlar om att använda resultatet från det bioinformatoriska arbetsflödet och klinisk information för att försöka hitta genetiska variationer som orsakar en viss diagnos.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Vad är ett arbetsflöde</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#nf-core-raredisease-arbetsflödet",
+    "href": "chapters/bioinformatiskt_arbetsflöde_PL_sällsynta_diagnoser_A.html#nf-core-raredisease-arbetsflödet",
+    "title": "13  Varifrån kommer ideen om programmatiska arbetsflöden/workflows/pipelines",
+    "section": "13.6 Nf-core raredisease arbetsflödet",
+    "text": "13.6 Nf-core raredisease arbetsflödet\nDetta är det arbetsflödet som jag har försökt få att fungera sen jag började jobba här. Det anses vara det mest komplicerade av alla de 121 (as of 2024-01-08) arbetslföden som nf-core konsortet har utvecklat. Det finns ett stort itressea av at få det att fungera inte bara i Sverige men globalt och inom företeg Seqera som växt fram från skaparna av Nextflow.\npipelinen är byggt med arbetsflödes hanterings programmet Nextflow.\nEftersom pipelinen är svår att köra med helgenomdata så är det svårt att uppskatta vilka resurser som kräs för att köra det.\nnf-core/raredisease consists of several tools used for various purposes. For convenience, we have grouped those tools under the following categories:\n\nAlignment (bwamem2/bwa/bwameme/Sentieon BWA mem)\nQC stats from the alignment files\nRepeat expansions (ExpansionsHunter & Stranger)\nVariant calling - SNV (DeepVariant/Sentieon DNAscope)\nVariant calling - Structural variants (SV) (Tiddit & Manta)\nCopy number variant calling (GATK’s GermlineCNVCaller)\nSNV annotation & ranking (rohcall, vcfanno, ensembl VEP, GENMOD)\nSV annotation & ranking (SVDB query, ensembl VEP, GENMOD)\nMitochondrial annotation\n\nDetta är alltså bara en kategori indelning av de program som görs. Det flesta av programmen som körs behöver specifik input data vilket i nuläget gör det väldigt komplicerat att färdigställ input för en körning.",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Varifrån kommer ideen om programmatiska arbetsflöden/workflows/pipelines</span>"
     ]
   }
 ]
