@@ -1,0 +1,9 @@
+# Arbetsflödes hanterings program, Nextflow - del 2
+
+De problem som det flesta bioinformatiska program löser är ofta bergrändade i förhållande till hela den uppgift som måste lösas. Det utvecklas som mindre fristående program.
+
+det som skall tiill för att utveckla mindre fristånde program är
+
+1.  Programmeringsutveckings miljö som tex C, Python ller R
+2.  Ett versions hanterings program
+3.  Ett web baserat verktyg för att dela med sig av programmet till användarna

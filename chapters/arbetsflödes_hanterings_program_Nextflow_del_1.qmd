@@ -1,0 +1,3 @@
+# Arbetsflödes hanterings program, Nextflow - del 1
+
+Ett bioinformatiskt programs framväxt börjar ofta med att antal personer inser att det finns ett behov att lösa en viss uppgift. Några i gruppen är mest intresserade av att lösa uppgiften i sig och andra ser möjligheten i att utveckla verktyget för att lösa uppgiften och åter andra kan vara intresserade av båda perspektiven. En vanlig uppgift är att extrahera information ut data eller kanske tom kundap ur informaton.

@@ -1,1 +1,5 @@
 # NGP är tänkt att i huvudsak köra bioinformatiska arbetsflöden
+
+-   Huvudsakligen baserat på Workflow management systemet Nextflow.
+-   Ett av de prioriterade är nf-core/raredisease
+-   Utför det som önskas av vår raredisease grupp

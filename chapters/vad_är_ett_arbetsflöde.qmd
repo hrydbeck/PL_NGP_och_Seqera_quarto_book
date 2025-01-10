@@ -1,6 +1,6 @@
 # Vad är ett arbetsflöde
 
-### Den enklaste definitionen 
+### Den enklaste definitionen
 
 En serie aktiviteter som måste till för att utföra en uppgift. Serien skall vara repeterbar.
 
@@ -42,3 +42,23 @@ Också kopplat till framväxten av kavalitetstänk kpplat till produktion.
 Så det behövs definieras i det här sammanhanget. Det är tillockmed så att jag hört sjukhusgenteikerna prata om att de utvecklar arbetsflöden utan att ha förstått vad det menat. Den definitine av arbetsföde är mer komplicerad och den överlåter jg til dem.
 
 Inom PL och dess organisatoriska sammanhang så används alltså åtminstone två definitioner av arbetsflöde. I det sammanhang där jag är involverad så används kanske inte det svenska begreppet men bara ordet workflow eller pipeline. Så kanske man borde hålla sig till det.
+
+## Arbetsflödeshantering
+
+Växte först fram ur ett behov av att tillskriva roller till olika delar av arbetsflödet
+
+## Arbetsflödeshanteringssystem (översättnging wikipedia eng)
+
+Ett [arbetsflödeshanteringssystem](https://en-m-wikipedia-org.translate.goog/wiki/Workflow_management_system?_x_tr_sl=en&_x_tr_tl=sv&_x_tr_hl=en&_x_tr_pto=wapp "Arbetsflödeshanteringssystem") (WfMS) är ett mjukvarusystem för att sätta upp, utföra och övervaka en definierad sekvens av processer och uppgifter, med de breda målen att öka produktiviteten, minska kostnaderna, bli mer agil och förbättra informationsutbytet inom en organisation. ^[\[ 19 \]](https://en-m-wikipedia-org.translate.goog/wiki/Workflow?_x_tr_sl=en&_x_tr_tl=sv&_x_tr_hl=en&_x_tr_pto=wapp#cite_note-ElmagarmidWorkflow12-19)^ Dessa system kan vara processcentrerade eller datacentrerade, och de kan representera arbetsflödet som grafiska kartor. Ett arbetsflödeshanteringssystem kan också inkludera ett utbyggbart gränssnitt så att externa mjukvaruapplikationer kan integreras och ge stöd för bredare arbetsflöden som ger snabbare svarstider och förbättrad produktivitet
+
+## Varifrån kommer ideen om programmatiska arbetsflöden/workflows/pipelines
+
+För program för analys av sekvenseringsdata har det alltid funnits två huvudsakliga alternativ. Det ena har varit att kommersiella programvaror där utvecklingen sker inom ett företag, gärna det företag som står för sekvenserings utrustningen, där utvecklarna får betalt för sitt utvecklingsarbete. Det andra har varit att forskare har utvecklat program för egen räknings och sedan gjort dem tillgänglig för resten av världen under en licens som innebär att de kan användas gratis. Gratis programmet tenderar att vara små och utföra enskilda uppgifter och har genererats i stora mängder och ofta så väljs ett fåtal ut efter benchmarkingstudier. Man får då ett antal smaå progaram som utför varje enskild uppgift väldigt bra, men som måste sättas ihop i en kedja av program, ett bioinformatiskt arbetsföde, för att utföra hela analysuppgiften. Från sekvenserings-output till annoterade varianter som är klara för tolkning. De förstnämnda programmen tenderar att vara monolitiska peka och klick program utan någon större möjlighet för användarna nedströms att se vad som pågår under huven. Användaren får garantier av företaget att programmet gör det som efterfrågas, programmet ges input och genererar output.
+
+Det att sätta ihop små program som utför enskilda uppgifter på ett bra eller tom ulitmat sätt har länga varit princip tillämpad i Unix/Linux miljön och visat sig vara ett framgångs recept av många olika anledningar. En av dem är att det lämpar sig för ostrukturerat samarbeta som det ofta är frågan om utanför en företags miljö. Det har med stor sannolikhet format iden om sättet som bioinformatiska gratis programvaror sammanfogas till större så kallade arbetsflöden eller pipelines.
+
+Sekvensdata för ett humant genome tar stor plats på en hårddisk. För att aligna shortread sekvenser från ett helt mänskligt DNA så krävas mycket RAM minne och stor processor kraft och parallell processering är nödvändig. Hårdvaran som lämpar sig för analys av mänskliga helgenom sekvenser framför allt om man förväntar sig analys av många personers DNA per tidsenhet är vad som kallas HPC eller moln.
+
+Nog för att pipelines har fördelar men de kommer också med utmaningar.
+
+Programmerings arbetsflöden spelar en stor roll för forskings generellt för LifeScience specifikt och ser ut att komma att spela en central roll för Precisions Diagnostik, lokalt, nationellt och internationellt

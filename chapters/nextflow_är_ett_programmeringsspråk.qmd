@@ -1,0 +1,24 @@
+# Nextflow är ett programmerignsspråk
+
+## Nextflow är
+
+### Ett scriptspråk dedikerat för att bygga programmatiska arbetsflöden
+
+Bästa sättet att förvara scripten är naturligtvis som en versionskontrollerade repository typ på Github.
+
+Enklaste exemplet (Hello world):
+
+```         
+#!/usr/bin/env nextflow  /*  * Use echo to print 'Hello World!' to standard out  */ process sayHello {      output:         stdout      script:     """     echo 'Hello World!'     """ }  workflow {      // emit a greeting     sayHello() }
+```
+
+Kan sedan köras från kommandolinjen efter Nexflow installation.
+
+```         
+nextflow run hello-world.nf
+```
+
+```         
+```
+
+### 

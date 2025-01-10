@@ -1,0 +1,13 @@
+# Nextflow är ett verktyg
+
+### Ett vertyg för att interagera med
+
+#### container hanteringsprogram
+
+#### versions hanteringsprogram
+
+#### Executors/platforms
+
+och för reentrancy, parallelisation
+
+Kan kommunicera med dessa och specificera vilka resurser varje enskild modul kräver.

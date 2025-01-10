@@ -1,0 +1,31 @@
+# Arbetsflödes hanterings program, Nextflow - del 3
+
+## Container hanterings program / container runtimes
+
+Med runtime menas en den miljö i vilket ett program är ämnat att köras. (Tillskillnad frå kompileras).
+
+Containrar kör i ett helt eget filsystem och kan som standard inte komma åt filsystemet på den datorn som härbergerar(hostar) containern.
+
+Med cmd-line alternativet --volume kan man dock koppla på ett filsystem från den hostande datorn
+
+--volume härbergerande path:"containerpath
+
+### Apptainer/Singularity
+
+De huvudsakliga fördelarna med Apptainer är att den kan köras utan rrot priviligier och kräver inte en demon process. Detta teillsamans med några andra egenskaper som tex att den stödjer mountin autofs mounts, gör Apptainer bettre lämpade för HPCs.
+
+https://depot.galaxyproject.org/singularity/
+
+Avoiding security issues: When a user runs a container with Apptainer, it is started as a normal process running under the user’s account. Standard file permissions and other security controls based on user accounts, groups, and processes apply.
+
+### Docker
+
+Docker security issue. To be able to install Docker on a multiuser computational system/HPC one has to have adminsitraive privilage. A default Docker installation uses a root-owned daemon to start containers, and users can request that the daemon start a container on their behalf. The users might then get privilages to for instance change vital files for the HPC to run properly.
+
+### Conda
+
+### Wave
+
+## Container register
+
+### Quay

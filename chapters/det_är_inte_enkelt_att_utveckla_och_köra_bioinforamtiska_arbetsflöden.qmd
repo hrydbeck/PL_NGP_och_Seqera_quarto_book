@@ -1,4 +1,8 @@
-# Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden
+# Det är inte enkelt att utveckla och köra arbetsflöden
+
+Förutom alla fördelar, som att stå på varandras axlar - så finns det många utmaningar med bioinformatiska arbetsflöden
+
+# 
 
 ## Bioinformatiska arbetsflöden behöver nån form av beräknings kraft fär att köras.
 

@@ -1,5 +1,7 @@
 # Vad kan versionskontrolleras?
 
+Hör kan det vara läga att beskriva vad som menas med versin kontrollering
+
 Varje nf-core arbetsflöde görs tillgängligt via Github en website med det huvudsakliga syftet att dela versionskontrollerade project över internet. Versionkontrollering är användbart för nästan allt skapande som kan utföras på en dator. Här pratar vi om det utifrån perspekivet att arbetsflödeshanterings program
 
 -   En fil

@@ -95,7 +95,9 @@ Moln beräkning innefattar så många olika saker att en definiton riskear att b
 
 -   Snabb elasticitet
 
--   Övervakad resursanvändning \#### Påstådda fördelar
+-   Övervakad resursanvändning
+
+#### Påstådda fördelar
 
 -   Kostnade. Betalar bara för när resurserna används
 

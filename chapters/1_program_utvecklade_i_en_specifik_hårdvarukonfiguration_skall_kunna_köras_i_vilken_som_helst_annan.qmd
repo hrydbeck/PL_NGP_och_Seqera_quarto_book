@@ -4,39 +4,38 @@ https://www.nextflow.io/docs/latest/sharing.html
 
 ## Vad är software dependancies
 
-En programfil som skrivs fungerar alltid i en kontext av andra program filer och för att fungera som tänkt. Programeringsspråk baserar sig ofta på kodbibliotek, "libraires"
-som kan referereas i en programfil för att användas för sin dedikerade uppgift. Det finns tex kodbibliotek för att hämta dta ur en databas. Då kan en mjukvara beroende av det kodbilboteket för att kommunicera med databaser för att fungera som tänkt.
+En programfil som skrivs fungerar alltid i en kontext av andra program filer och för att fungera som tänkt. Programeringsspråk baserar sig ofta på kodbibliotek, "libraires" som kan referereas i en programfil för att användas för sin dedikerade uppgift. Det finns tex kodbibliotek för att hämta dta ur en databas. Då kan en mjukvara beroende av det kodbilboteket för att kommunicera med databaser för att fungera som tänkt.
 
-Ett software dependancy  är en kodbibliotek eller paket som återanvänds i ett mjukvara. Tex så kan ett maskinlärningsprojekt  anropa en python bibliotek för att bygga modeller.
+Ett software dependancy är en kodbibliotek eller paket som återanvänds i ett mjukvara. Tex så kan ett maskinlärningsprojekt anropa en python bibliotek för att bygga modeller.
 
 ### Conda packages (paket)
-
 
 ## Nextflow och container hanterings program
 
 ### Enklt exempel
 
-```
+```         
 nextflow run <script> -with-apptainer [apptainer image fiel]
 ```
+
 ### Medium-enkelt exempel; setting container in nextflow.config
 
 #### config
 
-```
+```         
 process.container = /path/to/apptainer.img
 apptainer.enabled = true
 ```
 
 #### cmd
 
-```
+```         
 nextflow run <script> -with-apptainer [apptainer image fiel]
 ```
 
 ### nf-core pipeline exemple on local machine; setting container using profiles
 
-```
+```         
 nextflow run nf-core/raredisease -r "dev" -profile test,singularity -outdir kljj 
 ```
 
@@ -44,79 +43,32 @@ nextflow run nf-core/raredisease -r "dev" -profile test,singularity -outdir kljj
 
 ### nf-core pipeline exemple on remote hpc using slurm; setting container using profiles
 
-```
+```         
 nextflow run nf-core/raredisease -r "dev" -profile test,singularity,pdc_kth -outdir kljj --project naiss2024-22-481
 ```
 
 ## Nextflow och container registries
 
-När ett container namn anges (i process definitionen) så kollar Nextflow först om en containern med det namnet finns i en lokal folder dedikerad för container images. Om det inte finns någon sådan så så försöker Nextflow ladda ner den från angivet  Container registret.
+När ett container namn anges (i process definitionen) så kollar Nextflow först om en containern med det namnet finns i en lokal folder dedikerad för container images. Om det inte finns någon sådan så så försöker Nextflow ladda ner den från angivet Container registret.
+
 ### repositores
+
 #### DOcker hub
+
 #### Quay
-#### Biocontainers
-Kopplar ihop Bioconda och containers.
-Har ett register med container images för varje Bioconda recept.
-Biocontianer ger en docker image som innehåller programmet/n som man angett.
-Med Biocontaines så maåste man ange "tag" när man lastar ned en image. Det betyder att man laltid är medveten om vilken tag/version som man lastar ner.
+
+#### Biocontainers 
+
+Kopplar ihop Bioconda och containers. Har ett register med container images för varje Bioconda recept. Biocontianer ger en docker image som innehåller programmet/n som man angett. Med Biocontaines så maåste man ange "tag" när man lastar ned en image. Det betyder att man laltid är medveten om vilken tag/version som man lastar ner.
+
 ### Alternativ för att ange källa
 
-```
+```         
 file://   # only for local files
 shub://   # apptainer hub
 docker:// # docker registry (not needed since default with  apptainer profiles [does not work with Docker engine??])
 ```
+
 ## nf-core och conttainer hanterings program
 
-
-### Moduler
-Nextflows intentioner med modul konceptet var att det skall blir lättare att dela med sig av "odelbara"/atomiska segment av Nextflow scripts från ett workflow script till ett annat.
-
-nf-core har som kriterie för en model att den skall vara verkligt odelbar dvs:
-
-Alla nf-core arbetsflöden använder en container per process, och merparten av processer är inkapslade i delade moduler i nf-core/modules repository.
-
-"process" är i Nextflow ett grundläggande språkelement som tillåter att köra främmande script eller program.
-
-processen definierar:
-- conda och container registry
-- input
-- output
-- script som skall köras i kontainern
-
-### Subworkflows
-
-Nextflow tillåter också delning av en kedja av logiskt sammanhängande moduler som tillsammans utför ett delmoment i ett fullt workflow. Såna delar av ett workflow kallas för subworkflows.
-
-## Container hanterings program / container runtimes
-
-Med runtime menas en den miljö i vilket ett program är ämnat att köras. (Tillskillnad frå kompileras).
-
-
-Containrar kör i ett helt eget filsystem och kan som standard inte komma åt filsystemet på den datorn som härbergerar(hostar) containern.
-
-
-Med cmd-line alternativet --volume kan man dock koppla på ett filsystem från den hostande datorn 
-
---volume härbergerande path:"containerpath
-
-### Apptainer/Singularity
-
-De huvudsakliga fördelarna med Apptainer är att den kan köras utan rrot priviligier och kräver inte en demon process. Detta teillsamans med några andra egenskaper som tex att den stödjer mountin autofs mounts, gör Apptainer bettre lämpade för HPCs.
-
-https://depot.galaxyproject.org/singularity/
-
-Avoiding security issues: When a user runs a container with Apptainer, it is started as a normal process running under the user’s account. Standard file permissions and other security controls based on user accounts, groups, and processes apply.
-
-### Docker
-
-Docker security issue. To be able to install Docker on a multiuser computational system/HPC one has to have adminsitraive privilage. A default Docker installation uses a root-owned daemon to start containers, and users can request that the daemon start a container on their behalf. The users might then get privilages to for instance change vital files for the HPC to run properly.
-
-### Conda
-
-### Wave
-
-
-## Container register
-
-### Quay
+### 

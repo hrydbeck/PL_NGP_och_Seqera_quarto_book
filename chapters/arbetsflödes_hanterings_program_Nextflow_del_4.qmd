@@ -1,0 +1,87 @@
+# Arbetsflödes hanterings program, Nextflow - del 4
+
+# Arbetsflödehanteringsprogram, Nextflow, ett av många
+
+## 
+
+Nextflow är en gratis och open-source programvara, som utvecklas av företaget Seqera labs.
+
+Nextflow har/är ett eget dedikerat programmeringsspråk, ett s.k. Domain Specific Language (DSL) som tillvärkningen av pipelines baserar sig på.
+
+Språket är tillverkat baserat på samma idee som Linux baserar sig på. Använd små kraftfulla kommondolinjebaserade program som när de länkas samma underlättar utförandet av komplexa datahanterings uppgifter.
+
+### Moduler
+
+Nextflows intentioner med modul konceptet var att det skall blir lättare att dela med sig av "odelbara"/atomiska segment av Nextflow scripts från ett workflow script till ett annat.
+
+nf-core har som kriterie för en model att den skall vara verkligt odelbar dvs:
+
+Alla nf-core arbetsflöden använder en container per process, och merparten av processer är inkapslade i delade moduler i nf-core/modules repository.
+
+"process" är i Nextflow ett grundläggande språkelement som tillåter att köra främmande script eller program.
+
+processen definierar: - conda och container registry - input - output - script som skall köras i kontainern
+
+### Subworkflows
+
+Nextflow tillåter också delning av en kedja av logiskt sammanhängande moduler som tillsammans utför ett delmoment i ett fullt workflow. Såna delar av ett workflow kallas för subworkflows.
+
+## Funktionskraven hos ett arbetsflödes hanteringsprogram omfattar mer än bara att knyta ihop ett antal program till ett pärlband.
+
+det omfattar dessutom
+
+-   skalerbarhet
+
+-   reproducerbarhet
+
+-   förmåga att integrerar mjukvarupaket, programmiljö hanteringsprogram som Docker, Singluarity och Conda för att möjligöra att sammankoppla scriptspråk såsom BASH, R och Python.
+
+-   Förenkla att köra pipelinen på olik platformar som tex cloud eller HPC-baserade infrastrukturer
+
+-   hantering mha tex social media av en friviligbaserade intressegrupp för utveckling av standarder för och arbetfödena i sig själva som är av gemensamt intresse. Användar och utvecklare socialisear i ett stort virrvarr av olika intressen. Slack, github; Seqera??
+
+Om ni frågar mig så är det förvirrande att Nextflow används som ett paraply begrepp för flera funktioner.
+
+## 
+
+## Vad man kan göra med Nextflow, nf-core och nf-core tools
+
+### Kommunicera/samverka/socialisera
+
+-   Slack
+
+-   Github (finns verktyg för kommunikatin tex Issues )
+
+-   Seqera Forum
+
+### Utbilda
+
+-   Tutorials
+
+-   Videos
+
+#### nextflow docs
+
+### nextflow training
+
+#### seqera docs
+
+#### nf-core docs
+
+### Använda
+
+-   Lasta ned pipelien för offline anvädning (nf-core tools)
+
+```         
+nextflow run
+```
+
+### Utveckla
+
+-   skriva
+
+-   testa
+
+##### nf-core tools
+
+Hantera Pipelines, Subworkflows och Moduler
