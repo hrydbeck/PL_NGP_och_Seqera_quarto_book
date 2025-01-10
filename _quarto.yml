@@ -10,19 +10,21 @@ book:
     - chapters/centrala_uppgifter.qmd
     - chapters/hårdvara.qmd
     - chapters/executors.qmd
-    - chapters/PL_sammanhang_och_funktion_inom_RO.qmd
-    - chapters/Sekvenserings_och_klinisk_data.qmd
-    - chapters/pl_ngs.qmd
-    - chapters/vad_är_ett_arbetsflöde.qmd
-    - chapters/pl_gemensamt.qmd
     - chapters/PL_sammanhang_och_funktion_inom_GMS.qmd
     - chapters/vad_är_NGP.qmd
     - chapters/vad_är_GMS.qmd
     - chapters/vision_för_europeikst_datadelningsnätverk.qmd
+    - chapters/PL_sammanhang_och_funktion_inom_RO.qmd
+    - chapters/vad_är_ett_arbetsflöde.qmd
+    - chapters/pl_ngs.qmd
+    - chapters/Sekvenserings_och_klinisk_data.qmd
+    - chapters/pl_gemensamt.qmd
+    - chapters/sekvensering_nätverk_beräkningsresurser.qmd
     - chapters/upplastning_av_data_NGP.qmd
     - chapters/NGP_är_tänkt_att_i_huvudsak_köra_bioinformatiska_arbetsflöden.qmd
     - chapters/Sällsynta_diagnoser_arbetsflöde.qmd
     - chapters/Sällsynta_diagnoser_arbetsflöde_utvecklat_av_nf_core.qmd
+    - chapters/nf_core.qmd
     - chapters/det_är_inte_enkelt_att_utveckla_och_köra_bioinforamtiska_arbetsflöden.qmd
     - chapters/arbetsflödes_hanterings_program_Nextflow_del_1.qmd
     - chapters/arbetsflödes_hanterings_program_Nextflow_del_2.qmd
@@ -33,7 +35,6 @@ book:
     - chapters/arbetsflödes_hanterings_program_Nextflow_del_3.qmd
     - chapters/1_program_utvecklade_i_en_specifik_hårdvarukonfiguration_skall_kunna_köras_i_vilken_som_helst_annan.qmd
     - chapters/container_hanteringsprogram_och_container_register.qmd
-
     - chapters/arbetsflödes_hanterings_program_Nextflow_del_4.qmd
     - chapters/nextflow_är_ett_programmeringsspråk.qmd
     - chapters/nextflow_är_ett_verktyg.qmd

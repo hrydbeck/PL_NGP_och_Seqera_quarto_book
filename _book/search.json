@@ -334,7 +334,7 @@
     "href": "chapters/hårdvara.html#molninternet-beräkning",
     "title": "2  Hårdvara och beräkningsmiljöer",
     "section": "2.2 Moln/internet beräkning",
-    "text": "2.2 Moln/internet beräkning\nTillgång till servrar, lagring, database, nätverk och mjukvara, analysverktyg och intelligens.\n\n2.2.1 Intelligence\n\nElasticitet i tillgång på beräkningsresurser. Förmågan att dynamiskt dra in nya data resurser\nDatorstödd affärsanalys (analytiska processer som undersöker data och presetnerar anvädnbar information baserade på till exemple rapporter)\nOfta/alltid affärsdrivande och kräver en betalnings modell. Enskilda användarkonton där var och en betalar för sig.\nOerhört centraliserad resurs med stor kompentens (AWS/Azure vs. NAISS/GMS)\n\n\n\n2.2.2 Wikipedia\nMoln beräkning innefattar så många olika saker att en definiton riskear att bli vag.\n\nOn demand, självbetjäning\nTillgänglig för alla sortes enheter,. Mobi, surfplattor och arbetsstationer.\nSnabb elasticitet\nÖvervakad resursanvändning #### Påstådda fördelar\nKostnade. Betalar bara för när resurserna används\nWebgränssnitt gär att man kopal upp sig med vad som helst som har en web browser\nInget on-premise underhåll\n\n\n2.2.2.1 Tänkbara nackdelar\n\ndata säkerhet. Moln användare anförtror sin data till tredjeparts leverantörer.\nReducerad transparans. kan sakan full översikt/insikt i hur resurser övervakas och rapporterass\nFullstädigt översikt över hur systement fungara kan bli omöjligt.Något som kan utläsas av metaforen “moln”.\nMigratin från moln kan vara komplicerat\nImpementering av mjukvara och arbetsflöden kan drabbas av problem som har att göra med bl.a. distriburad beräkningskapacitet.\nOm man inte håller bra koll på vilak resurser som körs och vad de kostar så kan man få en överaskning i form av kostander.\n\n\n\n2.2.2.2 FIgur text\n\n2.2.2.2.1 Infrastructure as a service (IaaS)\nTex svervrar, Lagringsdiskar och nätverk\nEC2 is and IaaS\n\n\n2.2.2.2.2 Platform as a service (PaaS)\nTex operativ system, databaser, säkerhetsprogram\n\n\n2.2.2.2.3 Software as a service (SaaS)\nEnskilda program. I assume this is when Netflix, AirBnB are examples of Saas on AWS\nFamous Saas companies:\nAdobe Zoom Microsoft\n\n\n\n\n2.2.3 AWS\nOn demand molnberäkningslösning som inkluderar 200+ tjänster, platformar och APIs som används av företag, myndigheter och privatpersonen som alla betalar efter de resurser de använder.\nElasitic Comput (EC2), Amazon’s virtualla beräknings service, Glacier, en lågpris moln lagrings service, och S3, Amazon’s lagrings system, är tre grund componenter i AWS.",
+    "text": "2.2 Moln/internet beräkning\nTillgång till servrar, lagring, database, nätverk och mjukvara, analysverktyg och intelligens.\n\n2.2.1 Intelligence\n\nElasticitet i tillgång på beräkningsresurser. Förmågan att dynamiskt dra in nya data resurser\nDatorstödd affärsanalys (analytiska processer som undersöker data och presetnerar anvädnbar information baserade på till exemple rapporter)\nOfta/alltid affärsdrivande och kräver en betalnings modell. Enskilda användarkonton där var och en betalar för sig.\nOerhört centraliserad resurs med stor kompentens (AWS/Azure vs. NAISS/GMS)\n\n\n\n2.2.2 Wikipedia\nMoln beräkning innefattar så många olika saker att en definiton riskear att bli vag.\n\nOn demand, självbetjäning\nTillgänglig för alla sortes enheter,. Mobi, surfplattor och arbetsstationer.\nSnabb elasticitet\nÖvervakad resursanvändning\n\n\n2.2.2.1 Påstådda fördelar\n\nKostnade. Betalar bara för när resurserna används\nWebgränssnitt gär att man kopal upp sig med vad som helst som har en web browser\nInget on-premise underhåll\n\n\n\n2.2.2.2 Tänkbara nackdelar\n\ndata säkerhet. Moln användare anförtror sin data till tredjeparts leverantörer.\nReducerad transparans. kan sakan full översikt/insikt i hur resurser övervakas och rapporterass\nFullstädigt översikt över hur systement fungara kan bli omöjligt.Något som kan utläsas av metaforen “moln”.\nMigratin från moln kan vara komplicerat\nImpementering av mjukvara och arbetsflöden kan drabbas av problem som har att göra med bl.a. distriburad beräkningskapacitet.\nOm man inte håller bra koll på vilak resurser som körs och vad de kostar så kan man få en överaskning i form av kostander.\n\n\n\n2.2.2.3 FIgur text\n\n2.2.2.3.1 Infrastructure as a service (IaaS)\nTex svervrar, Lagringsdiskar och nätverk\nEC2 is and IaaS\n\n\n2.2.2.3.2 Platform as a service (PaaS)\nTex operativ system, databaser, säkerhetsprogram\n\n\n2.2.2.3.3 Software as a service (SaaS)\nEnskilda program. I assume this is when Netflix, AirBnB are examples of Saas on AWS\nFamous Saas companies:\nAdobe Zoom Microsoft\n\n\n\n\n2.2.3 AWS\nOn demand molnberäkningslösning som inkluderar 200+ tjänster, platformar och APIs som används av företag, myndigheter och privatpersonen som alla betalar efter de resurser de använder.\nElasitic Comput (EC2), Amazon’s virtualla beräknings service, Glacier, en lågpris moln lagrings service, och S3, Amazon’s lagrings system, är tre grund componenter i AWS.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Hårdvara och beräkningsmiljöer</span>"
     ]
@@ -802,11 +802,11 @@
   {
     "objectID": "chapters/PL_sammanhang_och_funktion_inom_RO.html",
     "href": "chapters/PL_sammanhang_och_funktion_inom_RO.html",
-    "title": "4  PL sammanhang och funktion inom RÖ",
+    "title": "8  PL sammanhang och funktion inom RÖ",
     "section": "",
-    "text": "4.1 Sammanhang\nPrecisions medicinsk laboratorium (PL) i Linköping utför laboratorie tjänster och analys för de tre verksamhetsområdena Klinisk patologi, Klinisk genetik och Klinisk mikrobiologi.",
+    "text": "8.1 Sammanhang\nPrecisions medicinsk laboratorium (PL) i Linköping utför laboratorie tjänster och analys för de tre verksamhetsområdena Klinisk patologi, Klinisk genetik och Klinisk mikrobiologi.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>PL sammanhang och funktion inom RÖ</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>PL sammanhang och funktion inom RÖ</span>"
     ]
   },
   {
@@ -822,11 +822,11 @@
   {
     "objectID": "chapters/PL_sammanhang_och_funktion_inom_RO.html#funktion",
     "href": "chapters/PL_sammanhang_och_funktion_inom_RO.html#funktion",
-    "title": "4  PL sammanhang och funktion inom RÖ",
-    "section": "4.2 Funktion",
-    "text": "4.2 Funktion\n\n4.2.1 1 In Prov\nPL blir tillsänt prov och medföljande remiss från respekive område\n\n\n4.2.2 2 Ut Varianter…\n\nFör Pat och klin_gen så handlar det om att PL blir till-sänt prov och medföljande remiss och i bästa fall sänder tillbaka bakomliggande genetiska varianter.\n\n\n\n4.2.3 3 och resistensgener\n\nFör Mikro så handlar det om att man får bakterieprov och sänder tillbaka information om potentiella resistensgener och MLST varainter.",
+    "title": "8  PL sammanhang och funktion inom RÖ",
+    "section": "8.2 Funktion",
+    "text": "8.2 Funktion\n\n8.2.1 1 In Prov\nPL blir tillsänt prov och medföljande remiss från respekive område\n\n\n8.2.2 2 Ut Varianter…\n\nFör Pat och klin_gen så handlar det om att PL blir till-sänt prov och medföljande remiss och i bästa fall sänder tillbaka bakomliggande genetiska varianter.\n\n\n\n8.2.3 3 och resistensgener\n\nFör Mikro så handlar det om att man får bakterieprov och sänder tillbaka information om potentiella resistensgener och MLST varainter.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>PL sammanhang och funktion inom RÖ</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>PL sammanhang och funktion inom RÖ</span>"
     ]
   },
   {
@@ -842,11 +842,11 @@
   {
     "objectID": "chapters/PL_sammanhang_och_funktion_inom_RO.html#section",
     "href": "chapters/PL_sammanhang_och_funktion_inom_RO.html#section",
-    "title": "4  PL sammanhang och funktion inom RÖ",
-    "section": "4.3 ",
-    "text": "4.3",
+    "title": "8  PL sammanhang och funktion inom RÖ",
+    "section": "8.3 ",
+    "text": "8.3",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>PL sammanhang och funktion inom RÖ</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>PL sammanhang och funktion inom RÖ</span>"
     ]
   },
   {
@@ -1112,11 +1112,11 @@
   {
     "objectID": "chapters/Sällsynta_diagnoser_arbetsflöde_utvecklat_av_nf_core.html",
     "href": "chapters/Sällsynta_diagnoser_arbetsflöde_utvecklat_av_nf_core.html",
-    "title": "14  Sällsynta diagnoser - arbetsflöde - utvecklat av nf-core",
+    "title": "17  Sällsynta diagnoser - arbetsflöde - utvecklat av nf-core",
     "section": "",
     "text": "Detta är det arbetsflödet som jag har försökt få att fungera sen jag började jobba här. Det anses vara det mest komplicerade av alla de 121 (as of 2024-01-08) arbetslföden som nf-core konsortet har utvecklat. Det finns ett stort itressea av at få det att fungera inte bara i Sverige men globalt och inom företeg Seqera som växt fram från skaparna av Nextflow.\npipelinen är byggt med arbetsflödes hanterings programmet Nextflow.\nEftersom pipelinen är svår att köra med helgenomdata så är det svårt att uppskatta vilka resurser som kräs för att köra det.\nnf-core/raredisease consists of several tools used for various purposes. For convenience, we have grouped those tools under the following categories:\n\nAlignment (bwamem2/bwa/bwameme/Sentieon BWA mem)\nQC stats from the alignment files\nRepeat expansions (ExpansionsHunter & Stranger)\nVariant calling - SNV (DeepVariant/Sentieon DNAscope)\nVariant calling - Structural variants (SV) (Tiddit & Manta)\nCopy number variant calling (GATK’s GermlineCNVCaller)\nSNV annotation & ranking (rohcall, vcfanno, ensembl VEP, GENMOD)\nSV annotation & ranking (SVDB query, ensembl VEP, GENMOD)\nMitochondrial annotation\n\nDetta är alltså bara en kategori indelning av de program som görs. Det flesta av programmen som körs behöver specifik input data vilket i nuläget gör det väldigt komplicerat att färdigställ input för en körning.",
     "crumbs": [
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Sällsynta diagnoser - arbetsflöde - utvecklat av nf-core</span>"
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Sällsynta diagnoser - arbetsflöde - utvecklat av nf-core</span>"
     ]
   },
   {
@@ -1317,6 +1317,36 @@
     "text": "28.4 Vad man kan göra med Nextflow, nf-core och nf-core tools\n\n28.4.1 Kommunicera/samverka/socialisera\n\nSlack\nGithub (finns verktyg för kommunikatin tex Issues )\nSeqera Forum\n\n\n\n28.4.2 Utbilda\n\nTutorials\nVideos\n\n\n28.4.2.1 nextflow docs\n\n\n\n28.4.3 nextflow training\n\n28.4.3.1 seqera docs\n\n\n28.4.3.2 nf-core docs\n\n\n\n28.4.4 Använda\n\nLasta ned pipelien för offline anvädning (nf-core tools)\n\nnextflow run\n\n\n28.4.5 Utveckla\n\nskriva\ntesta\n\n\n28.4.5.0.1 nf-core tools\nHantera Pipelines, Subworkflows och Moduler",
     "crumbs": [
       "<span class='chapter-number'>27</span>  <span class='chapter-title'>Arbetsflödes hanterings program, Nextflow - del 4</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/arbetsflödes_hanterings_program_Nextflow_del_3.html",
+    "href": "chapters/arbetsflödes_hanterings_program_Nextflow_del_3.html",
+    "title": "25  Arbetsflödes hanterings program, Nextflow - del 3",
+    "section": "",
+    "text": "25.1 Container hanterings program / container runtimes\nMed runtime menas en den miljö i vilket ett program är ämnat att köras. (Tillskillnad frå kompileras).\nContainrar kör i ett helt eget filsystem och kan som standard inte komma åt filsystemet på den datorn som härbergerar(hostar) containern.\nMed cmd-line alternativet –volume kan man dock koppla på ett filsystem från den hostande datorn\n–volume härbergerande path:“containerpath",
+    "crumbs": [
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Arbetsflödes hanterings program, Nextflow - del 3</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/arbetsflödes_hanterings_program_Nextflow_del_3.html#container-hanterings-program-container-runtimes",
+    "href": "chapters/arbetsflödes_hanterings_program_Nextflow_del_3.html#container-hanterings-program-container-runtimes",
+    "title": "25  Arbetsflödes hanterings program, Nextflow - del 3",
+    "section": "",
+    "text": "25.1.1 Apptainer/Singularity\nDe huvudsakliga fördelarna med Apptainer är att den kan köras utan rrot priviligier och kräver inte en demon process. Detta teillsamans med några andra egenskaper som tex att den stödjer mountin autofs mounts, gör Apptainer bettre lämpade för HPCs.\nhttps://depot.galaxyproject.org/singularity/\nAvoiding security issues: When a user runs a container with Apptainer, it is started as a normal process running under the user’s account. Standard file permissions and other security controls based on user accounts, groups, and processes apply.\n\n\n25.1.2 Docker\nDocker security issue. To be able to install Docker on a multiuser computational system/HPC one has to have adminsitraive privilage. A default Docker installation uses a root-owned daemon to start containers, and users can request that the daemon start a container on their behalf. The users might then get privilages to for instance change vital files for the HPC to run properly.\n\n\n25.1.3 Conda\n\n\n25.1.4 Wave",
+    "crumbs": [
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Arbetsflödes hanterings program, Nextflow - del 3</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/arbetsflödes_hanterings_program_Nextflow_del_3.html#container-register",
+    "href": "chapters/arbetsflödes_hanterings_program_Nextflow_del_3.html#container-register",
+    "title": "25  Arbetsflödes hanterings program, Nextflow - del 3",
+    "section": "25.2 Container register",
+    "text": "25.2 Container register\n\n25.2.1 Quay",
+    "crumbs": [
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Arbetsflödes hanterings program, Nextflow - del 3</span>"
     ]
   }
 ]
